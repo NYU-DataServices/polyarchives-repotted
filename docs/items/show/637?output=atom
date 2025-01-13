@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/637?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:22:46+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/637?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/636?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/638?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/637</id>
+    <title><![CDATA[Visual Conferencing]]></title>
+    <summary><![CDATA[This exploratory study conducted by the Marketing Department/Research Section of American Telephone and Telegraph Company analyzes the various factors that impact the use of visual conferencing technology. It covers user experiences, technological limitations, and the broader implications for future communication services.]]></summary>
+    <updated>2024-04-23T03:28:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/637"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/55428211ae9a29b40bed83bf44421356.jpg" type="image/jpeg" length="78177"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Visual Conferencing</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Visual Conferencing Technology Use Analysis</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This exploratory study conducted by the Marketing Department/Research Section of American Telephone and Telegraph Company analyzes the various factors that impact the use of visual conferencing technology. It covers user experiences, technological limitations, and the broader implications for future communication services.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Marketing Department/Research Section, American Telephone and Telegraph Company</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Based on market research and internal studies performed by the American Telephone and Telegraph Company, this report derives its findings from a comprehensive examination of user interactions with visual conferencing systems.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">American Telephone and Telegraph Company</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">August, 1975</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Not specified; likely various members of the Marketing Department and Research Section of AT&amp;T.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-rights" class="element">
+        <h3>Rights</h3>
+                    <div class="element-text">The rights to this document are owned by the American Telephone and Telegraph Company. Distribution and reproduction may be subject to corporate permissions and legal restrictions.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-relation" class="element">
+        <h3>Relation</h3>
+                    <div class="element-text">This document is related to the body of work on the development and evaluation of visual conferencing technology by AT&amp;T, as well as market research pertaining to communication technologies.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">The resource is a printed document, possibly including photographs or diagrams for illustration.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Market Research Document</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">Not provided in the image; typically, this would be an internal reference or catalog number used by AT&amp;T&#039;s documentation system</div>
+            </div><!-- end element -->
+        <div id="dublin-core-coverage" class="element">
+        <h3>Coverage</h3>
+                    <div class="element-text">The document covers the analysis of visual conferencing technology, focusing on the factors affecting its usage during the mid-1970s in the United States.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

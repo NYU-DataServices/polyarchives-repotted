@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/463">
+<dc:title>Transforming Downtown Brooklyn</dc:title>
+<dc:creator>By Thomas J. Lueck</dc:creator>
+<dc:source>Lueck, Thomas J. “Transforming Downtown Brooklyn.” The New York Times, The New York Times, 22 Jan. 1989</dc:source>
+<dc:date>Jan. 22, 1989</dc:date>
+<dc:format>png</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

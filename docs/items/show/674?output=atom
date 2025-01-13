@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/674?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:16:29+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/674?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/673?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/675?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/674</id>
+    <title><![CDATA[Linda Jacobs Visit Page]]></title>
+    <updated>2024-05-21T13:45:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/674"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/7f6f6d07acd2fe32c57a49b76e2fa221.jpg" type="image/jpeg" length="2564714"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Linda Jacobs Visit Page</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

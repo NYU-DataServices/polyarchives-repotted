@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="304" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/a-study-on-the-evolution-of-th/item/304?output=omeka-xml" accessDate="2025-01-13T20:20:38+00:00">
+  <fileContainer>
+    <file fileId="470">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/289610432fcc858682d921b27691c9b8.jpg</src>
+      <authentication>0d9c829c756ee351a47386e77179fb88</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2354">
+              <text>Women Engineers</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2355">
+              <text>Women Engineers</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2356">
+              <text>Photo of women engineers in a factory</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2357">
+              <text>Historic Environment Scotland Blog</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

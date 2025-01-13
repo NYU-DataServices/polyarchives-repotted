@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="674" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/674?output=omeka-xml" accessDate="2025-01-13T20:16:30+00:00">
+  <fileContainer>
+    <file fileId="951">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/7f6f6d07acd2fe32c57a49b76e2fa221.jpg</src>
+      <authentication>1ed00bb40c45e276ec211d14bb04adf0</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4442">
+              <text>Linda Jacobs Visit Page</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

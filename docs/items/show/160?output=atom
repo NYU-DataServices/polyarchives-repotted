@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/160?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:15:52+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/160?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/159?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/161?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/160</id>
+    <title><![CDATA[M5 Polytechnic Radical Action Group poster]]></title>
+    <updated>2022-05-03T14:42:31+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/160"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/4f77c42c1b19b10bdaa600c392eda651.pdf" type="application/pdf" length="13686625"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">M5 Polytechnic Radical Action Group poster</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">M5 Polytechnic Radical Action Group</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">December, 1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

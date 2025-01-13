@@ -1,0 +1,94 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/102">
+<dc:title>1959 Chevy Car advertisement</dc:title>
+<dc:subject>Advertising of 1959 Chevy Car</dc:subject>
+<dc:description>Car Advertising in 1959 found in student newspaper</dc:description>
+<dc:creator>Polytechnic Reporter 1958-1959</dc:creator>
+<dc:source>Polytechnic Reporter 1958-1959</dc:source>
+<dc:publisher>Polytechnic Reporter 1958-1959</dc:publisher>
+<dc:date>1959</dc:date>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:type>Physical Object</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/321">
+<dc:title>1966-67 course catalog</dc:title>
+<dc:creator>Polytechnic Institute of Brooklyn</dc:creator>
+<dc:source>1966-67 course catalog</dc:source>
+<dc:date>1966</dc:date>
+<dc:format>physical text</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/614">
+<dc:title>1990-2000s Bollywood Playlist</dc:title>
+<dc:creator>Amisha Gopee</dc:creator>
+<dc:source>YouTube</dc:source>
+<dc:publisher>Amisha Gopee</dc:publisher>
+<dc:date>2024</dc:date>
+<dc:format>Screenshot (.jpg)</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/423">
+<dc:title>1990-91 Judo Team Photo</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Poly Archives Historic Photograph Collection, Box: 11, folder: 1</dc:source>
+<dc:date>1991</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/599">
+<dc:title>1993 Women&#039;s Volleyball Team Photo</dc:title>
+<dc:creator>Polytechnic University</dc:creator>
+<dc:source>Poly Archives Historic Photograph Collection</dc:source>
+<dc:date>1993</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/542">
+<dc:title>2001: A Space Odyssey - Videophone Sequence
+
+</dc:title>
+<dc:subject>Science Fiction; Videophone; Film Technology; Stanley Kubrick; &quot;2001: A Space Odyssey&quot;</dc:subject>
+<dc:description>A clip from &quot;2001: A Space Odyssey&quot; demonstrating one of the earliest cinematic depictions of a videophone, showcasing director Stanley Kubrick&#039;s visionary portrayal of future technology. The sequence is noted for its prescient depiction of communication technology.</dc:description>
+<dc:creator>Stanley Kubrick (Director)</dc:creator>
+<dc:source>YouTube Channel - imaucblog</dc:source>
+<dc:publisher>Warner Bros., Metro-Goldwyn-Mayer, United Artists</dc:publisher>
+<dc:date>Original release date of the movie: April 2, 1968; YouTube clip posted on May 19, 2010</dc:date>
+<dc:contributor>Keir Dullea (Actor portraying Dr. Dave Bowman), Arthur C. Clarke (Author of the original story), Geoffrey Unsworth, John Alcott (Cinematographers)</dc:contributor>
+<dc:rights>The rights to the clip and the film are owned by the distributors: Warner Bros., Metro-Goldwyn-Mayer, United Artists. The clip is used for educational or critical commentary purposes, potentially covered under fair use.</dc:rights>
+<dc:relation>Related to the broader context of &quot;2001: A Space Odyssey&quot; and its influence on science fiction and technology.
+
+</dc:relation>
+<dc:format>Video clip; Digital</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Film excerpt; Cinematic depiction</dc:type>
+<dc:identifier>https://www.youtube.com/watch?v=vWwo6JpMceg</dc:identifier>
+<dc:coverage>The videophone sequence specifically covers future communication technologies as envisioned in a 1968 science fiction film.</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/416">
+<dc:title>311 Bridge Street Before</dc:title>
+<dc:creator>N/A</dc:creator>
+<dc:source>Guide to the Poly Archives Historic Photograph Collection</dc:source>
+<dc:date>undated</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/417">
+<dc:title>311 Bridge Street Construction</dc:title>
+<dc:creator>N/A</dc:creator>
+<dc:source>Guide to the Poly Archives Historic Photograph Collection</dc:source>
+<dc:date>undated</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/722">
+<dc:title>370 Jay Street</dc:title>
+<dc:creator> Albert Vecerka</dc:creator>
+<dc:source>Mitchell Giurgola</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>.jpeg</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/587">
+<dc:title>5 MetroTech Center, Dibner Library/CATT Building </dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Poly Archives</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description></rdf:RDF>

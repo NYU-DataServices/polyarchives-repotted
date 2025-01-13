@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/737">
+<dc:title>A. Michael Noll: Innovator in Telecommunication and Digital Media</dc:title>
+<dc:subject>Telecommunications; Digital Media; Computer Art; Virtual Reality</dc:subject>
+<dc:description>A. Michael Noll, Professor Emeritus at the Annenberg School for Communication, University of Southern California, has made significant contributions in telecommunications, computer art, and virtual reality. He has authored numerous papers and books, and his career includes roles at Bell Labs, the White House, and AT&amp;T.</dc:description>
+<dc:creator>A. Michael Noll</dc:creator>
+<dc:source>University of Southern California</dc:source>
+<dc:publisher>Annenberg School for Communication, USC</dc:publisher>
+</rdf:Description></rdf:RDF>

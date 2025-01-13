@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/97">
+<dc:title>NYU-Poly&#039;s New Innovation Lab - CITE - Opens</dc:title>
+<dc:subject>open of new Innovation Lab by NYU-Poly</dc:subject>
+<dc:description>an article talking about the open of new Innovation Lab by NYU-Poly - CITE (Center of Innovation for Technology and Entertainment)</dc:description>
+<dc:creator>Waqas Saeed</dc:creator>
+<dc:source>The Polytechnic Reporter</dc:source>
+<dc:publisher>The Polytechnic Reporter</dc:publisher>
+<dc:date>April 18, 2011</dc:date>
+<dc:contributor>The Polytechnic Reporter</dc:contributor>
+<dc:rights>The Polytechnic Reporter</dc:rights>
+<dc:relation>unknown</dc:relation>
+<dc:format>physical newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>newspaper</dc:type>
+<dc:identifier>unknown</dc:identifier>
+<dc:coverage>unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

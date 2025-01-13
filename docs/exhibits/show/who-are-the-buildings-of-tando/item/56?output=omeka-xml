@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="56" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/who-are-the-buildings-of-tando/item/56?output=omeka-xml" accessDate="2025-01-13T20:21:34+00:00">
+  <fileContainer>
+    <file fileId="83">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/0355c12d5fa7e2d5185e6998c7c60031.pdf</src>
+      <authentication>6b15485007e71d436dc63c29fe12b40f</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="404">
+              <text>"How Poly Saved the World"</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="405">
+              <text>Commencement Address by Henry A. McKinnell to the 2004 Graduates of Polytechnic University</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="406">
+              <text>Henry A. McKinnell</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="407">
+              <text>Ready Reference &gt;&gt; Jasper Kane</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="408">
+              <text>Commencement address</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

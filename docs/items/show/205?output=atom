@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/205?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:12:45+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/205?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/204?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/206?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/205</id>
+    <title><![CDATA[Photograph of Scientists]]></title>
+    <updated>2022-04-27T20:13:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/205"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/16f7703a36f4fb2b09b594a1b30ad609.jpeg" type="image/jpeg" length="201394"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Photograph of Scientists</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Scientists from the University of Chicago</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

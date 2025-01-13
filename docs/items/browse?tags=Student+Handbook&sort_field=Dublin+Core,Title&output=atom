@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/browse?tags=Student+Handbook&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:13:08+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/browse?tags=Student+Handbook&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?tags=Student+Handbook&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?tags=Student+Handbook&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/478</id>
+    <title><![CDATA[The Poly Engineer Song]]></title>
+    <summary><![CDATA[The lycris of a song]]></summary>
+    <updated>2024-05-07T21:29:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/478"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/242c2b8ded4231893084f434c6cf2508.pdf" type="application/pdf" length="966091"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/7a1f5c8414f052d3fe411163d28dde17.png" type="image/png" length="547675"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/62814ba8b3fb365e31df6da76d0bc57b.png" type="image/png" length="621145"/>
+    <category term="School Pride"/>
+    <category term="Student Handbook"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Poly Engineer Song</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Praising the school, showing school pride</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">The lycris of a song</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">The Polyfax of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown, presumed to be 1960-1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Book</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-coverage" class="element">
+        <h3>Coverage</h3>
+                    <div class="element-text">School pride</div>
+                    <div class="element-text">Student&#039;s life</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Book</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">height 15 cm, width 10 cm</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

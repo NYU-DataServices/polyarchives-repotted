@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="33" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/judith-bregman/item/33?output=omeka-xml" accessDate="2025-01-13T20:20:36+00:00">
+  <fileContainer>
+    <file fileId="34">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/3025a139d587a60f0bf7713553941b24.jpeg</src>
+      <authentication>9e78a35a207ad074581867cb1fd8e048</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+    <elementContainer>
+      <element elementId="7">
+        <name>Original Format</name>
+        <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+        <elementTextContainer>
+          <elementText elementTextId="158">
+            <text>Photo of a print clipping.</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+      <element elementId="10">
+        <name>Physical Dimensions</name>
+        <description>The actual physical size of the original image</description>
+        <elementTextContainer>
+          <elementText elementTextId="159">
+            <text>Roughly 4 inches x 4 inches</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="153">
+              <text>'Symmetry' Wins Awards</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="154">
+              <text>A clipping that announces that Judith's film 'Symmetry' won an award at Italy's Short Film Festival, as well as a Golden Eagle award from the Committee of International Non-Theatrical Events.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="155">
+              <text>Polytechnic Institute Brief</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="156">
+              <text>Spring 1968</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="157">
+              <text>Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

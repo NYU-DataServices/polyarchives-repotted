@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Exhibits &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="items/browse%3Foutput=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="items/browse%3Foutput=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="plugins/ExhibitBuilder/views/public/css/exhibits.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitBuilder/views/public/css/jcarousel.responsive.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/slick.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/FilePaginator/views/shared/css/simplePagination.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/iconfonts.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/public.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="themes/default/css/style.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jcarousel.responsive.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jquery.jcarousel.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jquery.jcarousel-fade.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/slick.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/filePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/vendor/modernizr.js%3Fv=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/respond.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/globals.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/default.js%3Fv=3.1.2"></script></head>
+<body class="exhibits browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="exhibits%3Fpage=2.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse Items</a>
+    </li>
+    <li>
+        <a href="collections/browse.html">Browse Collections</a>
+    </li>
+    <li>
+        <a href="about.html">About</a>
+    </li>
+    <li class="active">
+        <a href="exhibits.html">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="https://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="items/search%3Fpage=2.html">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                <h1>Browse Exhibits (33 total)</h1>
+
+<nav class="navigation secondary-nav">
+    <ul class="navigation">
+    <li class="active">
+        <a href="exhibits.html">Browse All</a>
+    </li>
+    <li>
+        <a href="exhibits/tags.html">Browse by Tag</a>
+    </li>
+</ul></nav>
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="exhibits%3Fpage=1.html">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="exhibits.html" method="get" accept-charset="utf-8">
+        <label>Page<input type="text" name="page" title="Current Page" value="2"></label> of 4        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="exhibits%3Fpage=3.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/tandon-merge-history.html" >What Made NYU to Merge with the Polytechnic Institute in 1973: Historical Backgrounds and Financial Difficulties</a></h2>
+                    <a href="exhibits/show/tandon-merge-history.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/003ce6f2379c15441e9b1362b665920c.jpg" alt="KakaoTalk_Photo_2022-04-11-23-07-38.jpeg" title="KakaoTalk_Photo_2022-04-11-23-07-38.jpeg"></a>                        <div class="description"><p><span style="font-weight:400;">Tandon School of Engineering has two different origins: one from Brooklyn Collegiate and Polytechnic Institute and the other from University of the City of New York. There were two mergers in 1973 and 2014, which caused the institution to change their names a couple of times for several reasons. Through this exhibit, I will be investigating about why these transitions happened, focusing on the 1973 merger with the historical background and analyzing the financial difficulties that these institutions went through at that time.</span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><strong>Credits </strong></p>
+<p>Justin Hwang</p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Financial+Difficulties.html" rel="tag">Financial Difficulties</a>, <a href="exhibits%3Ftags=Historical+Backgrounds.html" rel="tag">Historical Backgrounds</a>, <a href="exhibits%3Ftags=NYU+Tandon.html" rel="tag">NYU Tandon</a>, <a href="exhibits%3Ftags=Polytechnic+Institute.html" rel="tag">Polytechnic Institute</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="exhibits/show/development-and-emergence-of-.html" >Development and emergence of advertisements in Polytechnic Reporter from early 1940s to early 1970s</a></h2>
+                    <a href="exhibits/show/development-and-emergence-of-.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/3aad22f0b50df473eade9b260d5e2dbc.jpg" alt="截屏2022-04-11 上午12.15.03.png" title="截屏2022-04-11 上午12.15.03.png"></a>                        <div class="description"><p>Polytechnic Reporter is the student-run school newspaper established at Polytechnic Institute of Brooklyn from 1914 to 2014. The school newspaper includes all sorts of student-related events, news, student life updates, and advertisements. By collecting various pictures of advertisements and tracking the changes and evolution of them in the student newspaper, the mainstream campus advertisements during certain periods can be analyzed to measure their development in different aspects. The time period is deliberately confined to 30 years starting from the early 1940s to the late 1960s. Two major wars were going on and impacting the whole world: World War II and the Vietnam War. Under the political and commercial unrest, merchants needed to find various ways to promote their products to survive and in turn boost the economy. Students as a stable consumer group are the targeted audience for the advertisements, making campus advertisements prevalent.</p>
+<p></p>
+<p>Under the context of pervasive campus advertising, Polytechnic Reporter offers a primary and intuitionistic insight into the regime and economic and aesthetic background during that specific time boundary. It serves as a vital factor for us to understand the student body of the time and the campus environment. After the 1970s, advertising content in Polytechnic Reporter reduced gradually, which might be due to the increased funding or school support. Until the 2000s, the advertising component almost disappeared owing to the Journalism classes, where student newspapers were no longer a voluntary task in need of sponsors.</p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Advertisements.html" rel="tag">Advertisements</a>, <a href="exhibits%3Ftags=Propaganda.html" rel="tag">Propaganda</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a>, <a href="exhibits%3Ftags=Student+newspaper.html" rel="tag">Student newspaper</a>, <a href="exhibits%3Ftags=Vietnam+War.html" rel="tag">Vietnam War</a>, <a href="exhibits%3Ftags=World+War+II.html" rel="tag">World War II</a></p>
+            </div>
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/dakari-hamlin-thesis.html" >The Exploration of the Expansion of NYU-Poly Real Estate throughout Downtown Brooklyn and Abroad</a></h2>
+                    <a href="exhibits/show/dakari-hamlin-thesis.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/a25628c10bef5996203cf9ca38366686.jpg" alt="MetroTech Fact Sheet.pdf" title="MetroTech Fact Sheet.pdf"></a>                        <div class="description"><p><span style="font-weight:400;">The objective is to dive deep into the history of NYU and it's NYU-Poly real-estate expansion in downtown Brooklyn and explore all of the sacrifices it took to achieve the downtown Brooklyn we see today. Also, the exploration of how NYU was able to expand it’s real estate abroad in other countries/continents, i.e. NYU Abu Dhabi and NYU Shanghai, etc. </span></p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Abu+Dhabi.html" rel="tag">Abu Dhabi</a>, <a href="exhibits%3Ftags=Development.html" rel="tag">Development</a>, <a href="exhibits%3Ftags=Foreign+Relations.html" rel="tag">Foreign Relations</a>, <a href="exhibits%3Ftags=metrotech.html" rel="tag">metrotech</a>, <a href="exhibits%3Ftags=Real+Estate.html" rel="tag">Real Estate</a>, <a href="exhibits%3Ftags=Shanghai.html" rel="tag">Shanghai</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a>, <a href="exhibits%3Ftags=Study+Abroad.html" rel="tag">Study Abroad</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="exhibits/show/rise-of-downtown-brooklyn.html" >Rise of Downtown Brooklyn</a></h2>
+                    <a href="exhibits/show/rise-of-downtown-brooklyn.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/efa7d6e2e124a891e68917164b642a4c.jpg" alt="brooklyn bridge.jpeg" title="brooklyn bridge.jpeg"></a>                        <div class="description"><p>      My project focuses on exploring the reason why Downtown Brooklyn come to rise from early 1980s even to the present day. In simple words, I would want to explore how Downtown Brooklyn transformded so drastically from an industrial land to a technology hub. If possible, I might also try to figure out what roles Poly played during the process.</p>
+<p>      As we read Sullivan’s article of "Directions to Brooklyn" about his own understanding and analysis concerning Brooklyn, I became particularly interested in this part of the topic : the rise of Downtown Brooklyn. To begin with, I came up with this idea out of curiosity. As I moved to the New York Metropolitan Area, I was always told that the most prosperous and hectic area of the City of New York used to be Manhattan, and in the past Brooklyn wasn’t part of New York. I learned the surprising fact that Brooklyn used to be a diverse borough with a high crime rate. I would focus on what role Poly played in the rise of Downtown Brooklyn and how the industry of technology supplemented its rapid growth.</p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a></p>
+            </div>
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/the-muslim-experience-poly.html" >The Muslim Experience at NYU Tandon </a></h2>
+                    <a href="exhibits/show/the-muslim-experience-poly.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/4c9fcd5996437183688e5a360d992a1e.jpg" alt="The University of Al Qurayyin.jpeg" title="The University of Al Qurayyin.jpeg"></a>                        <div class="description"><p>Muslims have had an immense impact on the creation of the world we all share. This website hopes to contextualize and highlight the accomplishments of everyday Muslims belonging to our community at NYU Tandon. </p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Muslim.html" rel="tag">Muslim</a>, <a href="exhibits%3Ftags=Muslim+Student+Association.html" rel="tag">Muslim Student Association</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a>, <a href="exhibits%3Ftags=Tandon+MSA.html" rel="tag">Tandon MSA</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="exhibits/show/dr--noll--and-the-picturephone.html" >Noll and the PicturePhone</a></h2>
+                    <a href="exhibits/show/dr--noll--and-the-picturephone.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/f1890dbfd5f1cb88b7a24044bee5630a.jpg" alt="ballet.png" title="ballet.png"></a>                        <div class="description"><h3 style="text-align:center;">Exploring Noll's Archives in the NYU Poly Archives</h3>
+<h4 style="text-align:center;">Tommy Qiu</h4>
+<h5 style="text-align:center;">May 16th, 2022</h5></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a>, <a href="exhibits%3Ftags=telecommunications+bellLabs+bellSystems+PicturePhone+SmartPhone+5g+Wireless.html" rel="tag">telecommunications bellLabs bellSystems PicturePhone SmartPhone 5g Wireless</a></p>
+            </div>
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/southasians---poly-nyu.html" >South Asians @ Poly-NYU </a></h2>
+                    <a href="exhibits/show/southasians---poly-nyu.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/e4a86c0814ca3c1e25e426446a807b90.jpg" alt="Screen Shot 2024-03-30 at 9.26.17 PM.png" title="Screen Shot 2024-03-30 at 9.26.17 PM.png"></a>                        <div class="description"><p>In this exhibit, my aim is to weave historical context into a narrative I started as me-search, providing a broader understanding of the macrocosm surrounding the microcosm of Poly-NYU for South Asian students. Initially, I will explore the appropriateness of the term "South Asian" as a label for individuals with ancestry from Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka, and the Maldives, as well as diasporic communities in Fiji, Trinidad &amp; Tobago, Guyana, Suriname, and Jamaica.</p>
+<p>As I delve into the advent of South Asian presence at Poly-NYU, it is essential to contextualize it within the historical backdrop of the institution and the broader social landscape. This includes tracing the historical immigration patterns and political events that have shaped South Asian identity in the United States.</p>
+<p>Through this lens, I will examine the earliest semblances of South Asians within the institution during the 1970s. Subsequently, I will explore the emergence of the first South Asian clubs in the 1990s and 2000s, reflecting the shifting visibility of South Asian students in the institution.</p>
+<p>Moreover, I will delve into significant events of the 2000s, such as the Sa Re Ga Ma event from 2001 to 2005 and how "South Asianness" permeates to the administrator level. Despite encountering archival silences and unanswered questions, this project aims to showcase the active participation of South Asians within the Poly-NYU community. Through archival research, my goal is to show that rather than passively gaining visibility, South Asian students actively carved a niche and established their presence.  </p>
+<p><em>The header photo of this site features South Asian student Joga Hayre. Joga Hayre's Punjabi-Sikh father is helping adjust his graduation regalia. This was a photo from the 2001 Polywog in the Graduation section. This was my favorite archival image and decided it deserved a spot on every page of my site. </em></p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2024.html" rel="tag">Spring 2024</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="exhibits/show/theater-at-poly.html" >Theater at Poly</a></h2>
+                    <a href="exhibits/show/theater-at-poly.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/3b16fe1bf7b2718f30f3ba43c05b2c9e.jpg" alt="logovector-02.png" title="logovector-02.png"></a>                        <div class="description"><blockquote>
+<p style="text-align:center;"><span style="font-weight:400;">Hello! This exhibit aims to show the history of theater clubs at Brooklyn Poly, with the main focus on their 28 year long drama club called the <strong>Poly Play Workshop</strong>. I had a lot of fun making this so hopefully you have fun reading it and maybe have a new appreciation for theater at our engineering school.</span></p>
+</blockquote></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2024.html" rel="tag">Spring 2024</a></p>
+            </div>
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/nyu-poly-role-gent-in-bk.html" >NYU-Poly&#039;s Role in Brooklyn&#039;s Gentrification</a></h2>
+                    <a href="exhibits/show/nyu-poly-role-gent-in-bk.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/be180d45da708409f7968854a59616f9.jpg" alt="Screenshot 2024-04-01 200004.png" title="Screenshot 2024-04-01 200004.png"></a>                        <div class="description"><p>The revitalization of MetroTech Center has changed Downtown Brooklyn forever, for better or worse. One of the driving factors, education, has brought new players and driven out old ones. This website contextualizes gentrification as a result of urban redevelopment and explores the communities affected, and the people driving these projects. </p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2024.html" rel="tag">Spring 2024</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="https://polyarchives.hosting.nyu.edu/exhibits/show/fire-safety" >Taking the Measure of Hell: A History of Fire Safety Research at Brooklyn Poly</a></h2>
+                    <a href="https://polyarchives.hosting.nyu.edu/exhibits/show/fire-safety" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/4eda8be7d0e9b6e31d353877d3c711c5.jpg" alt="GI_Experiment.png" title="GI_Experiment.png"></a>                        <div class="description"><p>This project explores the history of fire safety research at the NYU Tandon School of Engineering. Various groups conducted fire research at the school, starting with the Center for Urban Environmental Studies (CUES) in the 1960s and 1970s and eventually the NYU Fire Research Group of the 2000s and 2010s.</p>
+<p>The purpose of fire research in New York City would change over time in response to the events of the day as new challenges and obstacles prompted new concerns over fire safety. This project aims to present a summary of the major fire safety studies conducted by the school alongside the historical context surrounding these studies in order to better understand the motivations of the people involved and the general goal of fire research at those points in time.</p>
+<p><em>Note: The school that is now known as the NYU Tandon School of Engineering has had many different names in its history as it navigated a rather complicated history of mergers and acquisitions. For simplicity, I will refer to the school as either "Brooklyn Poly" or "NYU Tandon" depending on the rough time period in question, even in cases where the source material being used specifies an alternative name.</em></p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Spring+2024.html" rel="tag">Spring 2024</a></p>
+            </div>
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="exhibits%3Fpage=1.html">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="exhibits.html" method="get" accept-charset="utf-8">
+        <label>Page<input type="text" name="page" title="Current Page" value="2"></label> of 4        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="exhibits%3Fpage=3.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

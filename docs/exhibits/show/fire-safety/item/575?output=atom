@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/exhibits/show/fire-safety/item/575?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:10:17+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/exhibits/show/fire-safety/item/575?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/574?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/576?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/575</id>
+    <title><![CDATA[Diagram of 30 Church St]]></title>
+    <updated>2024-04-23T18:28:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/575"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/3f03aeec72db242ed253250ab27c0af1.png" type="image/png" length="95456"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Diagram of 30 Church St</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Paul R. DeCicco, Robert J. Cresci, William H. Correale</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://fire.engineering.nyu.edu/home/documents/september_1972_research.pdf</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Sept 1972</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">pdf copy of original research paper</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

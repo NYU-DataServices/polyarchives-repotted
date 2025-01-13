@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/637">
+<dc:title>Visual Conferencing</dc:title>
+<dc:subject>Visual Conferencing Technology Use Analysis</dc:subject>
+<dc:description>This exploratory study conducted by the Marketing Department/Research Section of American Telephone and Telegraph Company analyzes the various factors that impact the use of visual conferencing technology. It covers user experiences, technological limitations, and the broader implications for future communication services.</dc:description>
+<dc:creator>Marketing Department/Research Section, American Telephone and Telegraph Company</dc:creator>
+<dc:source>Based on market research and internal studies performed by the American Telephone and Telegraph Company, this report derives its findings from a comprehensive examination of user interactions with visual conferencing systems.</dc:source>
+<dc:publisher>American Telephone and Telegraph Company</dc:publisher>
+<dc:date>August, 1975</dc:date>
+<dc:contributor>Not specified; likely various members of the Marketing Department and Research Section of AT&amp;T.</dc:contributor>
+<dc:rights>The rights to this document are owned by the American Telephone and Telegraph Company. Distribution and reproduction may be subject to corporate permissions and legal restrictions.</dc:rights>
+<dc:relation>This document is related to the body of work on the development and evaluation of visual conferencing technology by AT&amp;T, as well as market research pertaining to communication technologies.</dc:relation>
+<dc:format>The resource is a printed document, possibly including photographs or diagrams for illustration.</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Market Research Document</dc:type>
+<dc:identifier>Not provided in the image; typically, this would be an internal reference or catalog number used by AT&amp;T&#039;s documentation system</dc:identifier>
+<dc:coverage>The document covers the analysis of visual conferencing technology, focusing on the factors affecting its usage during the mid-1970s in the United States.</dc:coverage>
+</rdf:Description></rdf:RDF>

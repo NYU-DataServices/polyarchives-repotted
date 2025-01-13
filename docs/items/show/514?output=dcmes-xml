@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/514">
+<dc:title>Budget Report, 1966-1967, October 3, 1967-1968</dc:title>
+<dc:creator>Polytechnic Reporter</dc:creator>
+<dc:source>Polytechnic Reporter, Vol. 60, No. 2, Page 5</dc:source>
+<dc:date>October 12, 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

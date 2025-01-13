@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/55">
+<dc:title>Bern Dibner (1897-1988)</dc:title>
+<dc:creator>Silvio A. Bedini</dc:creator>
+<dc:source>Technology and Culture by The University of Chicago</dc:source>
+<dc:date>January 1, 1989</dc:date>
+</rdf:Description></rdf:RDF>

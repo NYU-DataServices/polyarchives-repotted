@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="452" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/452?output=omeka-xml" accessDate="2025-01-13T20:17:10+00:00">
+  <fileContainer>
+    <file fileId="666">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/9acf3b21439365beb0e81cc239fafeff.png</src>
+      <authentication>f5be9bdfca25ab2a3d5475e46b9fb567</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3253">
+              <text>Timeline of Historical Events</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3254">
+              <text>Amy Li</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="3255">
+              <text>Blades, Meteor. “Open Thread for Night Owls: The Seneca Falls Women’s Rights Resolutions of July 19-20, 1848.” Daily Kos, 20 July 2018, www.dailykos.com/stories/2018/7/20/1782334/-Open-thread-for-night-owls-The-Seneca-Falls-women-s-rights-resolutions-of-July-19-20-1848. &#13;
+&#13;
+“Chapel Hill to Recognize the Remarkable Women of the Civil Rights Movement.” Chapel Hill Community Arts &amp; Culture, 6 Nov. 2019, www.chapelhillarts.org/media/chapel-hill-to-recognize-the-remarkable-women-of-the-civil-rights-movement/. &#13;
+&#13;
+DuBose, Renalia. “An Unexpected Result of Gender Equality Initiatives in Sports – the Sexualization of Female Athletes.” Mitchell Hamline Law Review, vol. 48, no. 4, July 2022, pp. 1139–72. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&amp;db=lgs&amp;AN=157698963&amp;site=eds-live.&#13;
+&#13;
+“Rosie the Riveter - Real Person, Facts &amp; Norman Rockwell.” History.Com, A&amp;E Television Networks, 23 Apr. 2010, www.history.com/topics/world-war-ii/rosie-the-riveter. &#13;
+&#13;
+“Suffragette.” Wikipedia, Wikimedia Foundation, 1 May 2024, en.wikipedia.org/wiki/Suffragette. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3256">
+              <text>2024</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3257">
+              <text>Image</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

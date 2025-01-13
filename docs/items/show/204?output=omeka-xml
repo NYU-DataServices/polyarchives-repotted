@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="204" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/204?output=omeka-xml" accessDate="2025-01-13T20:12:46+00:00">
+  <fileContainer>
+    <file fileId="308">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/b2d619b4177398e14ab6bf304e96cfd3.jpg</src>
+      <authentication>6430c15b6c7ecd43fdfab254470899f9</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+    <elementContainer>
+      <element elementId="7">
+        <name>Original Format</name>
+        <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+        <elementTextContainer>
+          <elementText elementTextId="1609">
+            <text>Online Article</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+      <element elementId="10">
+        <name>Physical Dimensions</name>
+        <description>The actual physical size of the original image</description>
+        <elementTextContainer>
+          <elementText elementTextId="1610">
+            <text>Roughly 300 x 500 pixels</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1602">
+              <text>Quote from the National WWII Museum</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1603">
+              <text>An article on the formation of the Federation of American Scientists</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1604">
+              <text>This article explains the motives behind FAS as well as what was going on in the US at the time of it's formation.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1605">
+              <text>National WWII Museum</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="1606">
+              <text>National WWII Museum</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1607">
+              <text>August 4th, 2021</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="37">
+          <name>Contributor</name>
+          <description>An entity responsible for making contributions to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1608">
+              <text>Quote by: Helen Gahagan Douglas</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="27">
+      <name>Judith Bregman</name>
+    </tag>
+  </tagContainer>
+</item>

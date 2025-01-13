@@ -1,0 +1,16 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/107">
+<dc:title>&quot;All Star&quot; Tobacco advertisement in 1950</dc:title>
+<dc:subject>&quot;All Star&quot; Tobacco advertisement in 1950</dc:subject>
+<dc:description>&quot;All Star&quot; Tobacco advertisement in 1950</dc:description>
+<dc:creator>Polytechnic Reporter 1950-1951</dc:creator>
+<dc:source>Polytechnic Reporter 1950-1951</dc:source>
+<dc:publisher>Polytechnic Reporter 1950-1951</dc:publisher>
+<dc:date>1950</dc:date>
+<dc:format>Jpeg from student newspaper
+</dc:format>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="742" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/742?output=omeka-xml" accessDate="2025-01-13T20:06:30+00:00">
+  <fileContainer>
+    <file fileId="1033">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/84c60315a5f4fbf46b4b52d81e531273.png</src>
+      <authentication>81f500e8760b3562a2de5cf300e019a1</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4856">
+              <text>Joseph J Jacobs Picture</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4857">
+              <text>Joseph J Jacobs of the Polytechnic Donor Family: The Jacobs</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

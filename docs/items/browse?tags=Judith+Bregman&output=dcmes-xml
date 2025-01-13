@@ -1,0 +1,91 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/296">
+<dc:title>Symmetry Booklet</dc:title>
+<dc:subject>Symmetry Film</dc:subject>
+<dc:description>A booklet meant to accompany Judith&#039;s film Symmetry</dc:description>
+<dc:source>Judith Bregman Collection, 1966-1993, Poly Archives</dc:source>
+<dc:contributor>Judith Bregman</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/208">
+<dc:title>Physics Today Article</dc:title>
+<dc:subject>Judith Bregman</dc:subject>
+<dc:description>A photo from an article written about Judith&#039;s work and involvement in various committees.</dc:description>
+<dc:creator>Physics Today </dc:creator>
+<dc:publisher>Physics Today</dc:publisher>
+<dc:date>December 1978</dc:date>
+<dc:format>Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/207">
+<dc:title>Quote from the ACLU</dc:title>
+<dc:subject>ACLU&#039;s Mission Statement </dc:subject>
+<dc:creator>American Civil Liberties Union</dc:creator>
+<dc:source>American Civil Liberties Union</dc:source>
+<dc:format>Text</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/206">
+<dc:title>United States Supreme Court Building</dc:title>
+<dc:description>A photo of the US Supreme Court Building from ACLU&#039;s website</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:source>ACLU.org</dc:source>
+<dc:format>Digital Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/205">
+<dc:title>Photograph of Scientists</dc:title>
+<dc:subject>Scientists from the University of Chicago</dc:subject>
+<dc:creator>Unknown</dc:creator>
+<dc:source>National WWII Museum</dc:source>
+<dc:publisher>National WWII Museum</dc:publisher>
+<dc:date>Unknown</dc:date>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/204">
+<dc:title>Quote from the National WWII Museum</dc:title>
+<dc:subject>An article on the formation of the Federation of American Scientists</dc:subject>
+<dc:description>This article explains the motives behind FAS as well as what was going on in the US at the time of it&#039;s formation.</dc:description>
+<dc:creator>National WWII Museum</dc:creator>
+<dc:publisher>National WWII Museum</dc:publisher>
+<dc:date>August 4th, 2021</dc:date>
+<dc:contributor>Quote by: Helen Gahagan Douglas</dc:contributor>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/164">
+<dc:title>Portrait of Judith </dc:title>
+<dc:description>The photograph printed along with her draft counseling article</dc:description>
+<dc:publisher>Polytechnic Institute</dc:publisher>
+<dc:date>October 24, 1968</dc:date>
+<dc:relation>The headline from the Poly Reporter Article </dc:relation>
+<dc:format>Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/163">
+<dc:title>Polytechnic Reporter Headline</dc:title>
+<dc:subject>Judith Bregman</dc:subject>
+<dc:description>An article about the draft counseling activities that Judith did.</dc:description>
+<dc:creator>Jerry Bleiberg</dc:creator>
+<dc:source>Polytechnic Reporter</dc:source>
+<dc:publisher>Polytechnic Institute</dc:publisher>
+<dc:date>October 24, 1968</dc:date>
+<dc:format>Print</dc:format>
+<dc:language>English </dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/162">
+<dc:title>Photo of X-ray Crystallography</dc:title>
+<dc:subject>Crystallography </dc:subject>
+<dc:description>The famous photograph 51. Raymond Gosling/King&#039;s College London</dc:description>
+<dc:creator>Raymond Gosling</dc:creator>
+<dc:publisher>King&#039;s College London</dc:publisher>
+<dc:date>unknown</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/161">
+<dc:title>Professional History</dc:title>
+<dc:subject>Judith Bregman&#039;s professional history.</dc:subject>
+<dc:creator>Polytechnic Institute of Brooklyn</dc:creator>
+<dc:source>Curriculum Vitae</dc:source>
+<dc:publisher>Polytechnic</dc:publisher>
+<dc:date>November 1971</dc:date>
+<dc:format>Print</dc:format>
+<dc:language>English </dc:language>
+<dc:type>Professional Records</dc:type>
+</rdf:Description></rdf:RDF>

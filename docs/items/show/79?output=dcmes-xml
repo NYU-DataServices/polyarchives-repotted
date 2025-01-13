@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/79">
+<dc:title>$340 Million Windfall in Brooklyn; 5 Institutions&#039; Happy Problem: How to Spend the Money</dc:title>
+<dc:creator>Jim Yardley</dc:creator>
+<dc:source>Yardley, Jim. “$340 Million Windfall in Brooklyn; 5 Institutions&#039; Happy Problem: How to Spend the Money.” The New York Times, The New York Times, 4 Feb. 1999, https://www.nytimes.com/1999/02/04/nyregion/340-million-windfall-brooklyn-5-institutions-happy-problem-spend-money.html.</dc:source>
+<dc:publisher>The New York Times</dc:publisher>
+<dc:date>February 4, 1999</dc:date>
+<dc:format>Newspaper Article</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

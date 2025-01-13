@@ -1,0 +1,19 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/478">
+<dc:title>The Poly Engineer Song</dc:title>
+<dc:subject>Praising the school, showing school pride</dc:subject>
+<dc:description>The lycris of a song</dc:description>
+<dc:creator>The Student Council of the Polytechnic Institute of Brooklyn</dc:creator>
+<dc:source>The Polyfax of the Polytechnic Institute of Brooklyn</dc:source>
+<dc:publisher>The Student Council of the Polytechnic Institute of Brooklyn</dc:publisher>
+<dc:date>unknown, presumed to be 1960-1970</dc:date>
+<dc:contributor>The Student Council of the Polytechnic Institute of Brooklyn</dc:contributor>
+<dc:format>Book</dc:format>
+<dc:language>English</dc:language>
+<dc:coverage>School pride</dc:coverage>
+<dc:coverage>Student&#039;s life</dc:coverage>
+</rdf:Description></rdf:RDF>

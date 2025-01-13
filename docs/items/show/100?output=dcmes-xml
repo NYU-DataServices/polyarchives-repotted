@@ -1,0 +1,16 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/100">
+<dc:title>Jade East After Shave advertisement</dc:title>
+<dc:subject>Advertisement of Jade East After Shave cologne</dc:subject>
+<dc:description>Advertisement of Jade East After Shave cologne</dc:description>
+<dc:creator>Polytechnic Reporter 1958-1959</dc:creator>
+<dc:source>Polytechnic Reporter 1958-1959</dc:source>
+<dc:publisher>Polytechnic Reporter 1958-1959</dc:publisher>
+<dc:date>1958</dc:date>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:type>Physical Object</dc:type>
+</rdf:Description></rdf:RDF>

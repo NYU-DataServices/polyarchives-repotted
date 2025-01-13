@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items/browse?tags=Tuition+Raise&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:05:50 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Tuition Raise]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/520</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Tuition Raise</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">The board of Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Institute of Brooklyn Corporation Minutes N0.9</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1970 to 1973</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/477566f34171645a0587f3b499dba527.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/477566f34171645a0587f3b499dba527.jpg" alt="23bff2fd75abedbfceca39574e7d6df.png" title="23bff2fd75abedbfceca39574e7d6df.png"></a></div>]]></description>
+      <pubDate>Wed, 03 Apr 2024 00:30:44 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/477566f34171645a0587f3b499dba527.jpg" type="image/png" length="817570"/>
+    </item>
+  </channel>
+</rss>

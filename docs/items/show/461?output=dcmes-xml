@@ -1,0 +1,17 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/461">
+<dc:title>Notes on the Merger of Polytechnic into NYU</dc:title>
+<dc:description>(Recollections, as accurately as possible, from a reliable source)</dc:description>
+<dc:creator>unknow</dc:creator>
+<dc:source>Poly Archive &amp; Special Collections, Memos, confidential documents
+unsorted, Accession # 14.016</dc:source>
+<dc:publisher>Bern Dibner Library of Science and Technology</dc:publisher>
+<dc:date>2004</dc:date>
+<dc:format>Images</dc:format>
+<dc:language>English</dc:language>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

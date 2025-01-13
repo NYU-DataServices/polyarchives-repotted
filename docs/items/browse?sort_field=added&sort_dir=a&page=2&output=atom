@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/browse?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:17+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/browse?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/3?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/71?sort_field=added&amp;sort_dir=a&amp;page=2&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/13</id>
+    <title><![CDATA[Polytechnic letter to parents and students on modified Spring 1970 term]]></title>
+    <updated>2022-05-03T15:00:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/13"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/c09d1ccb01b6bdb10121345d039542ca.pdf" type="application/pdf" length="19027640"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/da01cfa5c0eb190f66b9890aca9d1620.pdf" type="application/pdf" length="17713950"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/a61495f33b42ec7edc146edc4c04f7d5.pdf" type="application/pdf" length="17110358"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Polytechnic letter to parents and students on modified Spring 1970 term</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Procedures Committee of the Institute</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">May 12, 1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/14</id>
+    <title><![CDATA[March 4 Movement instructions]]></title>
+    <updated>2022-05-03T14:57:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/14"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/b57163a9d91ab44d5432a660ba441cb6.pdf" type="application/pdf" length="16761362"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">March 4 Movement instructions</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">March 4 Movement coordinators</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/15</id>
+    <title><![CDATA[Polytechnic faculty demand to administration to refuse to deliver class standings of students to Selective Service]]></title>
+    <updated>2022-05-03T15:14:32+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/15"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/94c29a7d93c12aa35d64fa7e4eda7db3.pdf" type="application/pdf" length="18623973"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Polytechnic faculty demand to administration to refuse to deliver class standings of students to Selective Service</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">M. Gettleman on behalf of Polytechnic faculty</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">April 25, 1967</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/17</id>
+    <title><![CDATA[S.T.O.P. letter]]></title>
+    <updated>2022-05-03T14:32:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/17"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/1cd7401ebfe4ec107ecfd72dae974898.pdf" type="application/pdf" length="17148209"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">S.T.O.P. letter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Students To Oppose Politicization group</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">September 1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/18</id>
+    <title><![CDATA[NYU-Poly Student Enrollment Graph 2000-2013]]></title>
+    <summary><![CDATA[This graph showcases the number of student enrollment in NYU-Poly  between years of 2000 to 2013 along with some predicted enrollment numbers from 2014 to 2018. Important details to note is the upward trend after 2008, when NYU and Polytechnic become affiliated, and a predicted continuous increase after 2014, when the two officially merge.]]></summary>
+    <updated>2022-04-10T04:21:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/18"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/83b9f1a6dda7bc6edb623c337dd016dc.jpg" type="image/jpeg" length="2992292"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU-Poly Student Enrollment Graph 2000-2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This graph showcases the number of student enrollment in NYU-Poly  between years of 2000 to 2013 along with some predicted enrollment numbers from 2014 to 2018. Important details to note is the upward trend after 2008, when NYU and Polytechnic become affiliated, and a predicted continuous increase after 2014, when the two officially merge.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees June 2013 Meeting Report</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">June 30th, 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/20</id>
+    <title><![CDATA[Gender Distribution for Undergraduate Student Population ]]></title>
+    <updated>2022-04-10T04:21:42+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/20"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/3e703987968fb69aab9cebb9d6777fc4.jpg" type="image/jpeg" length="2782345"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Gender Distribution for Undergraduate Student Population </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees January 2013 Meeting Report</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">January 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/21</id>
+    <title><![CDATA[Ethnicity Distribution for Total Undergraduate Student Population Graph]]></title>
+    <updated>2022-04-10T04:22:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/21"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/884ffed2b2bb3e4275e8a4d1cc302ae8.jpg" type="image/jpeg" length="2776388"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Ethnicity Distribution for Total Undergraduate Student Population Graph</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees January 2013 Meeting Report</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">January 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/23</id>
+    <title><![CDATA[Operating Budget Results]]></title>
+    <updated>2022-04-10T04:18:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/23"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/efe8cf2f61c9a0cb8bbdf7acc85f0fd5.jpg" type="image/jpeg" length="2946934"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Operating Budget Results</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees Meeting Report</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">June 30th, 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/24</id>
+    <title><![CDATA[Fiscal 2013 Budget Projection]]></title>
+    <updated>2022-04-10T04:19:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/24"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/1e2bd7cb25260e8ea6285155b468386a.jpg" type="image/jpeg" length="2718343"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Fiscal 2013 Budget Projection</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees June 2013 Meeting Report</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">June 30th, 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/25</id>
+    <title><![CDATA[Campus Transformation Spending 2013]]></title>
+    <updated>2022-04-10T04:21:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/25"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/bcd22687006fc96296d1a52453aca086.jpg" type="image/jpeg" length="2707896"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Campus Transformation Spending 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">NYU-Poly Board of Trustees January 2013 Meeting Report </div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">January 2013</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

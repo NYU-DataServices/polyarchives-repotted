@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/4">
+<dc:title>USMA 22 Core Curriculum</dc:title>
+<dc:creator>United States Military Academy Office of the Dean</dc:creator>
+<dc:source>https://courses.westpoint.edu/static/index.htm#t=AcademicProgram.htm</dc:source>
+<dc:date>29SEP2021</dc:date>
+<dc:format>Electronic Publication</dc:format>
+</rdf:Description></rdf:RDF>

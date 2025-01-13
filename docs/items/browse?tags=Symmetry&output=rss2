@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items/browse?tags=Symmetry&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:05:48 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Symmetry Booklet]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/296</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Symmetry Booklet</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Symmetry Film</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A booklet meant to accompany Judith&#039;s film Symmetry</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Judith Bregman Collection, 1966-1993, Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Judith Bregman</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/544d06c051d8c23c4a1fab7e962c31f3.jpeg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/544d06c051d8c23c4a1fab7e962c31f3.jpg" alt="IMG_5045.jpeg" title="IMG_5045.jpeg"></a></div>]]></description>
+      <pubDate>Fri, 13 May 2022 14:28:19 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/544d06c051d8c23c4a1fab7e962c31f3.jpg" type="image/jpeg" length="12899393"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/448?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:47+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/448?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/447?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/449?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/448</id>
+    <title><![CDATA[Freshman Committee To Spur Participation In Student Activities]]></title>
+    <updated>2024-04-01T23:53:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/448"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/7c1efd1a60525c1e4aabb143b9397a00.jpg" type="image/jpeg" length="560471"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Freshman Committee To Spur Participation In Student Activities</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Reporter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 56, No. 3, Page 1</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">October 10, 1963</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">Freshman Committee To Spur Participation In Student Activities<br />
+On Tuesday, October 15, during the fourth hour, two dozen freshmen will embark on the first step of the new Freshman Leadership Committee: the organizational meeting. The purpose of the gathering, which will be held in Room 305, is to divide the participating freshmen into work groups and start these committees on their separate projects.<br />
+Mark Trozzi, Advisor to the Freshmen Committee, when interviewed, stated: &quot;The committee applications have been quite satisfactory and I feel we have a high level sample of Polytechnic freshmen. Their ideas should be a tonic to the &#039;tired blood&#039; that we currently call Poly&#039;s &quot;student spirit.&quot; I am also pleased to note the interest of several freshmen coeds in student activities.<br />
+Nen.<br />
+All freshmen are requested to look about them and consider some practical suggestions for the improvement of student life at Poly. The Administration has promised to install any reasonable liversion in the lounge or card room. Suggestions may be made either at the Committee meeting or to the Student Council via the Poly mailroom.<br />
+(Members of the Freshman Committee, who cannot be present at the meeting, should send a copy of their programs to the Student Council, so that another meeting an be scheduled at a time convenient for every one.)<br />
+</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

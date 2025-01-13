@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="13" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/13?output=omeka-xml" accessDate="2025-01-13T20:15:12+00:00">
+  <fileContainer>
+    <file fileId="353">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/c09d1ccb01b6bdb10121345d039542ca.pdf</src>
+      <authentication>4ff43ec9bf720f031aa4c1bea6d4d577</authentication>
+      <elementSetContainer>
+        <elementSet elementSetId="4">
+          <name>PDF Text</name>
+          <description/>
+          <elementContainer>
+            <element elementId="52">
+              <name>Text</name>
+              <description/>
+              <elementTextContainer>
+                <elementText elementTextId="1898">
+                  <text>�</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </file>
+    <file fileId="354">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/da01cfa5c0eb190f66b9890aca9d1620.pdf</src>
+      <authentication>13f1b5c91eec0377060c2cf335533ceb</authentication>
+      <elementSetContainer>
+        <elementSet elementSetId="4">
+          <name>PDF Text</name>
+          <description/>
+          <elementContainer>
+            <element elementId="52">
+              <name>Text</name>
+              <description/>
+              <elementTextContainer>
+                <elementText elementTextId="1899">
+                  <text>�</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </file>
+    <file fileId="355">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/a61495f33b42ec7edc146edc4c04f7d5.pdf</src>
+      <authentication>52e23874a5965513b21ed3f3e0410edf</authentication>
+      <elementSetContainer>
+        <elementSet elementSetId="4">
+          <name>PDF Text</name>
+          <description/>
+          <elementContainer>
+            <element elementId="52">
+              <name>Text</name>
+              <description/>
+              <elementTextContainer>
+                <elementText elementTextId="1900">
+                  <text>�</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="51">
+              <text>Polytechnic letter to parents and students on modified Spring 1970 term</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="52">
+              <text>Procedures Committee of the Institute</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="53">
+              <text>Poly Archives</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="54">
+              <text>May 12, 1970</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="55">
+              <text>PDF</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

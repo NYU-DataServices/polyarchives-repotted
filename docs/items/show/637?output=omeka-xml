@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="637" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/637?output=omeka-xml" accessDate="2025-01-13T20:22:46+00:00">
+  <fileContainer>
+    <file fileId="899">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/55428211ae9a29b40bed83bf44421356.jpg</src>
+      <authentication>5c887f55ec9d5a3882d6c4103b3880a5</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4242">
+              <text>Visual Conferencing</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4243">
+              <text>Visual Conferencing Technology Use Analysis</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4244">
+              <text>This exploratory study conducted by the Marketing Department/Research Section of American Telephone and Telegraph Company analyzes the various factors that impact the use of visual conferencing technology. It covers user experiences, technological limitations, and the broader implications for future communication services.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4245">
+              <text>Marketing Department/Research Section, American Telephone and Telegraph Company</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="4246">
+              <text>Based on market research and internal studies performed by the American Telephone and Telegraph Company, this report derives its findings from a comprehensive examination of user interactions with visual conferencing systems.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="4247">
+              <text>American Telephone and Telegraph Company</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4248">
+              <text>August, 1975</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="37">
+          <name>Contributor</name>
+          <description>An entity responsible for making contributions to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4249">
+              <text>Not specified; likely various members of the Marketing Department and Research Section of AT&amp;T.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="47">
+          <name>Rights</name>
+          <description>Information about rights held in and over the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4250">
+              <text>The rights to this document are owned by the American Telephone and Telegraph Company. Distribution and reproduction may be subject to corporate permissions and legal restrictions.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="46">
+          <name>Relation</name>
+          <description>A related resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4251">
+              <text>This document is related to the body of work on the development and evaluation of visual conferencing technology by AT&amp;T, as well as market research pertaining to communication technologies.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4252">
+              <text>The resource is a printed document, possibly including photographs or diagrams for illustration.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4253">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="51">
+          <name>Type</name>
+          <description>The nature or genre of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4254">
+              <text>Market Research Document</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="43">
+          <name>Identifier</name>
+          <description>An unambiguous reference to the resource within a given context</description>
+          <elementTextContainer>
+            <elementText elementTextId="4255">
+              <text>Not provided in the image; typically, this would be an internal reference or catalog number used by AT&amp;T's documentation system</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="38">
+          <name>Coverage</name>
+          <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+          <elementTextContainer>
+            <elementText elementTextId="4256">
+              <text>The document covers the analysis of visual conferencing technology, focusing on the factors affecting its usage during the mid-1970s in the United States.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

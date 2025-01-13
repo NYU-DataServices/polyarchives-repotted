@@ -1,0 +1,76 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/13">
+<dc:title>Polytechnic letter to parents and students on modified Spring 1970 term</dc:title>
+<dc:creator>Procedures Committee of the Institute</dc:creator>
+<dc:source>Poly Archives</dc:source>
+<dc:date>May 12, 1970</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/14">
+<dc:title>March 4 Movement instructions</dc:title>
+<dc:creator>March 4 Movement coordinators</dc:creator>
+<dc:source>Poly Archives</dc:source>
+<dc:date>1970</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/15">
+<dc:title>Polytechnic faculty demand to administration to refuse to deliver class standings of students to Selective Service</dc:title>
+<dc:creator>M. Gettleman on behalf of Polytechnic faculty</dc:creator>
+<dc:source>Poly Archives</dc:source>
+<dc:date>April 25, 1967</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/17">
+<dc:title>S.T.O.P. letter</dc:title>
+<dc:creator>Students To Oppose Politicization group</dc:creator>
+<dc:source>Poly Archives</dc:source>
+<dc:date>September 1970</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/18">
+<dc:title>NYU-Poly Student Enrollment Graph 2000-2013</dc:title>
+<dc:description>This graph showcases the number of student enrollment in NYU-Poly  between years of 2000 to 2013 along with some predicted enrollment numbers from 2014 to 2018. Important details to note is the upward trend after 2008, when NYU and Polytechnic become affiliated, and a predicted continuous increase after 2014, when the two officially merge.</dc:description>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees June 2013 Meeting Report</dc:source>
+<dc:date>June 30th, 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/20">
+<dc:title>Gender Distribution for Undergraduate Student Population </dc:title>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees January 2013 Meeting Report</dc:source>
+<dc:date>January 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/21">
+<dc:title>Ethnicity Distribution for Total Undergraduate Student Population Graph</dc:title>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees January 2013 Meeting Report</dc:source>
+<dc:date>January 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/23">
+<dc:title>Operating Budget Results</dc:title>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees Meeting Report</dc:source>
+<dc:date>June 30th, 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/24">
+<dc:title>Fiscal 2013 Budget Projection</dc:title>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees June 2013 Meeting Report</dc:source>
+<dc:date>June 30th, 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/25">
+<dc:title>Campus Transformation Spending 2013</dc:title>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees January 2013 Meeting Report </dc:source>
+<dc:date>January 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description></rdf:RDF>

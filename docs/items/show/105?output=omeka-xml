@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="105" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/105?output=omeka-xml" accessDate="2025-01-13T20:16:01+00:00">
+  <fileContainer>
+    <file fileId="152">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/3bfa5d0d216083515b3f5b664b994221.png</src>
+      <authentication>1ceaaa0ec6d40e7f328a9a9e44fd8855</authentication>
+    </file>
+    <file fileId="153">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/65fc5c8eabf67c0636cc4f4c7e824051.png</src>
+      <authentication>71d92cb4df6f03141bc167249fa78e97</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="775">
+              <text>Campus Camera Advertisement in 1942</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

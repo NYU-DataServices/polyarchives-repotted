@@ -1,0 +1,16 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/400">
+<dc:title>Eliot Malamud (1974)</dc:title>
+<dc:creator>1974 Polywog, Poly Archives, NYU Libraries</dc:creator>
+<dc:source>Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.
+
+
+</dc:source>
+<dc:publisher>Polytechnic University of New York</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description></rdf:RDF>

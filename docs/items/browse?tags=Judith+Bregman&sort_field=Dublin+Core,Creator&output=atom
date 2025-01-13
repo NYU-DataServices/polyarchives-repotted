@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/browse?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:12:34+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/browse?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/2?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/2?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/207</id>
+    <title><![CDATA[Quote from the ACLU]]></title>
+    <updated>2022-04-27T20:34:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/207"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/721de14900872d754f3b890bf3908a42.png" type="image/png" length="143384"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Quote from the ACLU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">ACLU&#039;s Mission Statement </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">American Civil Liberties Union</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">American Civil Liberties Union</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Text</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Text </div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/116</id>
+    <title><![CDATA[Bryn Mawr College Yearbook - Class of 1942]]></title>
+    <summary><![CDATA[A yearbook from one of the colleges Judith Bregman Attended. ]]></summary>
+    <updated>2022-04-25T16:57:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/116"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/5e25ca5b1344438c08161af11a06b0cc.pdf" type="application/pdf" length="75191"/>
+    <category term="Judith Bregman"/>
+    <category term="Yearbook"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Bryn Mawr College Yearbook - Class of 1942</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A yearbook from one of the colleges Judith Bregman Attended. </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Bryn Mawr College</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Bryn Mawr College Publications, Special Collections</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1942</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Yearbook, print. </div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 8.5 inches x 11 inches</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/163</id>
+    <title><![CDATA[Polytechnic Reporter Headline]]></title>
+    <summary><![CDATA[An article about the draft counseling activities that Judith did.]]></summary>
+    <updated>2022-04-25T16:56:13+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/163"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/bc689ea3d63a822487701cc5e2cae275.jpeg" type="image/jpeg" length="1442890"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Polytechnic Reporter Headline</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Judith Bregman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">An article about the draft counseling activities that Judith did.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Jerry Bleiberg</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic Institute</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">October 24, 1968</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Print</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English </div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Print</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/204</id>
+    <title><![CDATA[Quote from the National WWII Museum]]></title>
+    <summary><![CDATA[This article explains the motives behind FAS as well as what was going on in the US at the time of it&#039;s formation.]]></summary>
+    <updated>2022-04-27T20:13:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/204"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/b2d619b4177398e14ab6bf304e96cfd3.jpg" type="image/jpeg" length="170225"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Quote from the National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">An article on the formation of the Federation of American Scientists</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This article explains the motives behind FAS as well as what was going on in the US at the time of it&#039;s formation.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">August 4th, 2021</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Quote by: Helen Gahagan Douglas</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Online Article</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 300 x 500 pixels</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/208</id>
+    <title><![CDATA[Physics Today Article]]></title>
+    <summary><![CDATA[A photo from an article written about Judith&#039;s work and involvement in various committees.]]></summary>
+    <updated>2022-04-27T21:05:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/208"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/2390a056d402c369ffd09d78ec7e542b.png" type="image/png" length="403692"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Physics Today Article</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Judith Bregman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A photo from an article written about Judith&#039;s work and involvement in various committees.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Physics Today </div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Physics Today</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">December 1978</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Print</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph from a newspaper</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/161</id>
+    <title><![CDATA[Professional History]]></title>
+    <updated>2022-04-25T16:57:25+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/161"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/f47e8c7630d7b1a72b0fee47019f0c0b.jpeg" type="image/jpeg" length="2089914"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Professional History</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Judith Bregman&#039;s professional history.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Curriculum Vitae</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">November 1971</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Print</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English </div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Professional Records</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Print</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 8.5 inches x 11 inches</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/162</id>
+    <title><![CDATA[Photo of X-ray Crystallography]]></title>
+    <summary><![CDATA[The famous photograph 51. Raymond Gosling/King&#039;s College London]]></summary>
+    <updated>2022-08-02T01:57:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/162"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/f2c2000d03633fdd3258d38a8871308f.jpeg" type="image/jpeg" length="16860"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Photo of X-ray Crystallography</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Crystallography </div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">The famous photograph 51. Raymond Gosling/King&#039;s College London</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Raymond Gosling</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">King&#039;s College London</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photo</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/205</id>
+    <title><![CDATA[Photograph of Scientists]]></title>
+    <updated>2022-04-27T20:13:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/205"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/16f7703a36f4fb2b09b594a1b30ad609.jpeg" type="image/jpeg" length="201394"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Photograph of Scientists</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Scientists from the University of Chicago</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">National WWII Museum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/206</id>
+    <title><![CDATA[United States Supreme Court Building]]></title>
+    <summary><![CDATA[A photo of the US Supreme Court Building from ACLU&#039;s website]]></summary>
+    <updated>2022-04-27T20:42:01+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/206"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/19de28b833ecbc6b4ccbf8d772427bb0.jpeg" type="image/jpeg" length="90991"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">United States Supreme Court Building</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A photo of the US Supreme Court Building from ACLU&#039;s website</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">ACLU.org</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/117</id>
+    <title><![CDATA[Collages of Several Photos]]></title>
+    <updated>2022-04-25T16:56:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/117"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/a970ecda657de134edf64ff9f7a70d35.jpg" type="image/jpeg" length="5964985"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Collages of Several Photos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Judith Bregman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPEG</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Biographical Material </div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 5 inches x 11 inches</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

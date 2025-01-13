@@ -1,0 +1,24 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/81">
+<dc:title>Innovation Begins at NYU-Poly</dc:title>
+<dc:subject>INVENTION, INNOVATION AND ENTREPRENEURSHIP BEGIN AT NYU-POLY</dc:subject>
+<dc:description>pages from brochure &quot;INVENTION, INNOVATION AND ENTREPRENEURSHIP BEGIN AT NYU-POLY&quot; with topic &quot;Innovation Begins at Poly&quot;</dc:description>
+<dc:creator>Polytechnic Institute of New York University</dc:creator>
+<dc:source>Polytechnic Institute of New York University
+Brochures
+2008 -</dc:source>
+<dc:publisher>Polytechnic Institute of New York University</dc:publisher>
+<dc:date>unknown</dc:date>
+<dc:contributor>Polytechnic Institute of New York University</dc:contributor>
+<dc:rights>Polytechnic Institute of New York University</dc:rights>
+<dc:relation>unknown</dc:relation>
+<dc:format>physical brochure</dc:format>
+<dc:language>English</dc:language>
+<dc:type>brochure</dc:type>
+<dc:identifier>unknown</dc:identifier>
+<dc:coverage>unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

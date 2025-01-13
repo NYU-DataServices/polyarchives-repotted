@@ -1,0 +1,21 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/629">
+<dc:title>Reasons for Limited Use of Visual Conference Service</dc:title>
+<dc:subject>Market Analysis of AT&amp;T&#039;s Visual Conference Service Usage</dc:subject>
+<dc:description>This report, published in December 1974, delves into the reasons behind the limited utilization of AT&amp;T&#039;s pioneering Picturephone technology. It offers a comprehensive examination of the challenges and market reception of visual communication services during the early 1970s</dc:description>
+<dc:creator>Research Section/Marketing Department, American Telephone and Telegraph Company</dc:creator>
+<dc:source>Derived from internal research and market studies conducted by the American Telephone and Telegraph Company.</dc:source>
+<dc:publisher>American Telephone and Telegraph Company</dc:publisher>
+<dc:date>December 1974</dc:date>
+<dc:contributor>Not specified in the provided material.</dc:contributor>
+<dc:rights>Rights are likely held by AT&amp;T or its successors; the precise terms are not detailed in the provided material.</dc:rights>
+<dc:relation>Part of a broader collection of research documents concerning the development and marketing of visual communication technologies in the 20th century.</dc:relation>
+<dc:format>Text document with graphic illustrations, likely in a physical report format.</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Market Research Report</dc:type>
+<dc:coverage>Focuses on the Picturephone service in the United States during the 1970s.</dc:coverage>
+</rdf:Description></rdf:RDF>

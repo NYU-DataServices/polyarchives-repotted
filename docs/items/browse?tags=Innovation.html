@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Items &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="browse%3Ftags=Innovation&amp;output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="browse%3Ftags=Innovation&amp;output=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="../plugins/ConnectedCarousel/views/public/css/slick.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../plugins/FilePaginator/views/shared/css/simplePagination.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../application/views/scripts/css/iconfonts.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../application/views/scripts/css/public.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="../themes/default/css/style.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="../application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="../plugins/ConnectedCarousel/views/public/javascripts/slick.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../plugins/FilePaginator/views/shared/javascripts/filePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../themes/default/javascripts/vendor/modernizr.js%3Fv=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="../application/views/scripts/javascripts/vendor/respond.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../application/views/scripts/javascripts/globals.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="../themes/default/javascripts/default.js%3Fv=3.1.2"></script></head>
+<body class="items browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="browse%3Ftags=Innovation.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="../index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li class="active">
+        <a href="browse.html">Browse Items</a>
+    </li>
+    <li>
+        <a href="../collections/browse.html">Browse Collections</a>
+    </li>
+    <li>
+        <a href="../about.html">About</a>
+    </li>
+    <li>
+        <a href="../exhibits.html">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="https://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="search%3Ftags=Innovation.html">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                
+<h1>Browse Items (1 total)</h1>
+
+<nav class="items-nav navigation secondary-nav">
+    <ul class="navigation">
+    <li class="active">
+        <a href="browse.html">Browse All</a>
+    </li>
+    <li>
+        <a href="tags.html">Browse by Tag</a>
+    </li>
+    <li>
+        <a href="search.html">Search Items</a>
+    </li>
+</ul></nav>
+
+<div id="item-filters"><ul><li class="tags">Tags: Innovation</li></ul></div>
+
+
+<div id="sort-links">
+    <span class="sort-label">Sort by: </span><ul id="sort-links-list"><li  ><a href="browse%3Ftags=Innovation&amp;sort_field=Dublin+Core,Title.html" aria-label="Sort ascending Title" title="Sort ascending">Title <span role="presentation" class="sort-icon"></span></a></li><li  ><a href="browse%3Ftags=Innovation&amp;sort_field=Dublin+Core,Creator.html" aria-label="Sort ascending Creator" title="Sort ascending">Creator <span role="presentation" class="sort-icon"></span></a></li><li class="sorting desc" ><a href="browse%3Ftags=Innovation&amp;sort_field=added&amp;sort_dir=a.html" aria-label="Sorting descending Date Added" title="Sorting descending">Date Added <span role="presentation" class="sort-icon"></span></a></li></ul></div>
+
+
+<div class="item hentry">
+    <h2><a href="show/81.html" class="permalink">Innovation Begins at NYU-Poly</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/81.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/6cc2bec5161ffd93bc4666bc8b80da38.jpg" alt="IMG_9889.jpeg" title="IMG_9889.jpeg"></a>    </div>
+    
+        <div class="item-description">
+        pages from brochure &quot;INVENTION, INNOVATION AND ENTREPRENEURSHIP BEGIN AT NYU-POLY&quot; with topic &quot;Innovation Begins at Poly&quot;    </div>
+    
+        <div class="tags"><p><strong>Tags:</strong>
+        <a href="browse%3Ftags=campaign.html" rel="tag">campaign</a>, <a href="browse%3Ftags=i2e.html" rel="tag">i2e</a>, <a href="browse%3Ftags=Innovation.html" rel="tag">Innovation</a></p>
+    </div>
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+
+
+<div id="outputs">
+    <span class="outputs-label">Output Formats</span>
+                <p id="output-format-list">
+        <a href="browse%3Ftags=Innovation&amp;output=atom">atom</a>, <a href="browse%3Ftags=Innovation&amp;output=dcmes-xml">dcmes-xml</a>, <a href="browse%3Ftags=Innovation&amp;output=json">json</a>, <a href="browse%3Ftags=Innovation&amp;output=omeka-xml">omeka-xml</a>, <a href="browse%3Ftags=Innovation&amp;output=rss2">rss2</a>        </p>
+    </div>
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

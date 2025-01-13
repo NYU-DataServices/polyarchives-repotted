@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/515">
+<dc:title>Variety of Publications Offer Literary Gamut</dc:title>
+<dc:creator>Geoffry Walker</dc:creator>
+<dc:source>Polytechnic Reporter, Vol. 61, No. 1, Page 4</dc:source>
+<dc:date>September 19, 1968</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

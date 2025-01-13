@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/11">
+<dc:title>Courses of Study at United States Military Academy &#039;76</dc:title>
+<dc:creator>United States Military Academy Office of the Dean of the Academic Board</dc:creator>
+<dc:source>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198977970005711</dc:source>
+<dc:date>1976</dc:date>
+<dc:format>Electronic Scan of Physical Catalog</dc:format>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="419" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/419?output=omeka-xml" accessDate="2025-01-13T20:07:42+00:00">
+  <fileContainer>
+    <file fileId="639">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/69538d77bc98b9f17ce501f446e7be8c.jpg</src>
+      <authentication>03b678640ef728782f9aef6d3f20f86c</authentication>
+    </file>
+  </fileContainer>
+  <collection collectionId="2">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2713">
+                <text>G &amp; P images</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2714">
+                <text>Photos</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2715">
+                <text>Ethan</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2716">
+                <text>Poly Archives</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2717">
+                <text>Ethan</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2718">
+                <text>Don't Steal please</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2719">
+                <text>For use with "Creative Chronicles" Exhibit</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2720">
+                <text>Photos</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2721">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2722">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="2723">
+                <text>GOLANA</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </collection>
+  <itemType itemTypeId="1">
+    <name>Text</name>
+    <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+    <elementContainer>
+      <element elementId="1">
+        <name>Text</name>
+        <description>Any textual data included in the document</description>
+        <elementTextContainer>
+          <elementText elementTextId="3079">
+            <text>It isn't often that a new collegiate publication of major import is planned, created, and established. It has happened only three times before in the 109-year history of the Polytechnic Institute of Brooklyn–the long-established, most widely read, and best supported–the Reporter; and the comparative newcomers of the Engineer and Counterweight. Now there's a new one.&#13;
+Golana–though, as yet, still unborn, unspawned, unemerged from the womb of the creative minds of its literary parents, Gerald Robertson, Bruce Oberhardt, and others–is its name. The magazine is the official publication of the Poly Science Fiction Club.&#13;
+Stop.&#13;
+Stop completely. Now. At this point.&#13;
+Please do not read any further–if you cannot stomach science fiction in any form whatsoever; if you are convinced that science fiction is "what" Hollywood says it is, when it puts out those bare-bosomed, monster-filled $100,000 "quickie" epic films; if you group A Canticle For Leibowitz and Brave New World, along with Edgar Rice Burroughs' worst Tarzan books and the comic books.&#13;
+Why discuss science fiction at all with anyone who has an emotional conviction that it's all trash? The Average Man–be there such a mediocre specimen of humanity, such an example of non-logical, illogical conformity of Earth–thinks, not with his brain, but with his glands, and, if we are to believe "Madison Avenue," mostly with his gonads and genitals. You can't beat emotional convictions by using logic–not when even the most honorable of men considers it his most honorable duty to lie, cheat, steal, and murder for his emotional convictions. Neither money, position, ethics, or self-preservation, nor all combined together, can even counterbalance these forces. It matters not what labels you apply or what kind of men you deal with–be it Joe Mugg or Sonny Liston or Albert Einstein or President Kennedy. You can't beat these convictions with logic–only by fighting them with other emotional convictions and forces.&#13;
+Stop.&#13;
+Stop, again.&#13;
+This is where literature, and, more specifically, science fiction, comes in. Suppose you say to a man, "Everything I am about to hypothesize or say is a lie." Then you discuss–almost in the baldest terms possible–anything that might affect another's emotional equilibrium. Anything. Anything in the world–or, perhaps out of it. Incest? Surely. Segregation? Why not? The possible problems of a post-World War III era of 2450 A.D.? Of course, go right ahead.&#13;
+Such discussion–under the guise, we call, "stories,"–cannot affect another's emotional convictions. Why? Because everything you or an author might say or write about–you say yourself, just as a writer, under attack, might reply, "Why, didn't I say it was a lie to begin with? I said it was a lie! I told you it never really happened." How can an untruth affect anything–particularly since it is, manifestly, a self-admitted lie? The result is what we apply the label "fiction" to.&#13;
+James Baldwin's The Fire Next Time is such a piece of self-admitted lies-just was Harriet Beecher Stowe's Uncle Tom's Cabin. Or 1984… or Lady Chatterly's Lover… or It Can't Happen Here.&#13;
+This, then, is social criticism and social science fiction. This is the highest form&#13;
+of science fiction–and of literature in general. You treat possible futures from a contemporary frame of reference; you point out the possible fears and terrors and loves and thought patterns of a hundred years, a thousand years–or just six months hence. The science fiction writer chronicles possible futures in the present tense, outlined the consequences of today's actions to guide 1963's leaders–for, after all, isn't the future the only thing we have control over? The past is dead, the present already fixed and fading, even now, into the dead past–but the future, by definition, hasn't come yet.&#13;
+This, then, is the science fiction spectrum in brief.&#13;
+It is a spectrum of possible futures–with each "future" a story dealing with the effects on people of probable problems that will be created as Earth's technology expands to the stars–and beyond. It is also a spectrum of incredible pasts, presents, and other probability continuums–of exploding galaxies, of overwhelming catastrophes, of omnipotent villains, of superhuman heroes—and, then, of everyday people in a future not really different from our world of 1963.&#13;
+This is social science fiction. This is what Golana wants to publish. This is at the top of a literary spectrum that includes, at the bottom, the busty, weird costume ten-day Hollywood productions… and 1984 near the top. This is the spectrum to which we apply the labels, "Science fiction," "science fantasy," "fantasy,"–or, much more justifiably, assign the title, "Speculative fiction."&#13;
+Just what does this spectrum include? We have already mentioned the atrocious "quickies" from that L.A. suburb in the same breath as A Canticle For Leibowitz and Brave New World. Between them, they exemplify both the lowest form of adventure science fiction and the highest form of social science fiction.&#13;
+. . . And then there is a category called gadget science fiction, a kind of science fiction not reflected in the so-called "Mainstream" literature. You could find social criticism, not couched in terms of 2450 A.D., and adventure, not echoing with the screams of the heroine being pawed by a Thing from the 23rd Galaxy. But you cannot find "gadget" stories, without their being science fiction, "mainstream" or "fringe."&#13;
+This is science fiction–the couching of speculations by creative, extrapolative thinkers in the form of parables or stories.&#13;
+This is science fiction. Call it science fantasy, fantasy, or speculative fiction. This is what Golana will print.</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3074">
+              <text>Opinionscope: ‘Golana’ continued</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3075">
+              <text>Edward V. Dong</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="3076">
+              <text>Polytechnic Reporter, Vol. 56, No. 3, Page 2</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3077">
+              <text>October 10, 1963</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3078">
+              <text>PNG</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

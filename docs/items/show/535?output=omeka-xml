@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="535" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/535?output=omeka-xml" accessDate="2025-01-13T20:16:10+00:00">
+  <fileContainer>
+    <file fileId="759">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f423269b09243ecc0c6a88e36bb312b9.png</src>
+      <authentication>a0f2cbbf579f011454b07651eb13fbb7</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="7">
+    <name>Website</name>
+    <description>A resource comprising of a web page or web pages and all related assets ( such as images, sound and video files, etc. ).</description>
+    <elementContainer>
+      <element elementId="6">
+        <name>Local URL</name>
+        <description>The URL of the local directory containing all assets of the website</description>
+        <elementTextContainer>
+          <elementText elementTextId="3683">
+            <text>https://www.gothamcenter.org/blog/a-crisis-without-keynes-the-1975-new-york-city-fiscal-crisis-revisited</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3676">
+              <text>A Crisis Without Keynes: The 1975 New York City Fiscal Crisis Revisited</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3677">
+              <text>Michael Beyea Reagan</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="3678">
+              <text>The Gotham Center for New York City History</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="3679">
+              <text>The Gotham Center for New York City History</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3680">
+              <text>August 12, 2021</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3681">
+              <text>Website</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3682">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

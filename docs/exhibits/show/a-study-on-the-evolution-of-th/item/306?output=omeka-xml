@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="306" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/a-study-on-the-evolution-of-th/item/306?output=omeka-xml" accessDate="2025-01-13T20:20:51+00:00">
+  <fileContainer>
+    <file fileId="472">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/a9b4f1ec9c9e45e37470736aef2c6b39.JPG</src>
+      <authentication>aa11e16a274c120b9c268d231602d356</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2361">
+              <text>A Woman's World Cover</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/browse?tags=Judith+Bregman&amp;page=2&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:12:29+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/browse?tags=Judith+Bregman&amp;page=2&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?tags=Judith+Bregman&amp;page=2&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/1?tags=Judith+Bregman&amp;page=2&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/browse/page/2?tags=Judith+Bregman&amp;page=2&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/117</id>
+    <title><![CDATA[Collages of Several Photos]]></title>
+    <updated>2022-04-25T16:56:51+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/117"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/a970ecda657de134edf64ff9f7a70d35.jpg" type="image/jpeg" length="5964985"/>
+    <category term="Judith Bregman"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Collages of Several Photos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Judith Bregman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPEG</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Biographical Material </div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 5 inches x 11 inches</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/116</id>
+    <title><![CDATA[Bryn Mawr College Yearbook - Class of 1942]]></title>
+    <summary><![CDATA[A yearbook from one of the colleges Judith Bregman Attended. ]]></summary>
+    <updated>2022-04-25T16:57:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/116"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/5e25ca5b1344438c08161af11a06b0cc.pdf" type="application/pdf" length="75191"/>
+    <category term="Judith Bregman"/>
+    <category term="Yearbook"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Bryn Mawr College Yearbook - Class of 1942</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A yearbook from one of the colleges Judith Bregman Attended. </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Bryn Mawr College</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Bryn Mawr College Publications, Special Collections</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1942</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Yearbook, print. </div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">Roughly 8.5 inches x 11 inches</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

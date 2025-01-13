@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items?sort_field=added&amp;sort_dir=a&amp;page=1&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:23:41+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items?sort_field=added&amp;sort_dir=a&amp;page=1&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/1?sort_field=added&amp;sort_dir=a&amp;page=1&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/2?sort_field=added&amp;sort_dir=a&amp;page=1&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/71?sort_field=added&amp;sort_dir=a&amp;page=1&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/3</id>
+    <title><![CDATA[PicturePhone Timeline]]></title>
+    <updated>2022-08-02T01:58:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/3"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/5ee8093fa7cfb3f0543adb8bdfe99703.jpeg" type="image/jpeg" length="764769"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">PicturePhone Timeline</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/4</id>
+    <title><![CDATA[USMA 22 Core Curriculum]]></title>
+    <updated>2022-08-02T01:58:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/4"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/ca17319a60a90734e4fbfc729c2ed11a.png" type="image/png" length="340822"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">USMA 22 Core Curriculum</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">United States Military Academy Office of the Dean</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://courses.westpoint.edu/static/index.htm#t=AcademicProgram.htm</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">29SEP2021</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Publication</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/5</id>
+    <title><![CDATA[USMA 2022 Engineering Sequences]]></title>
+    <updated>2022-08-02T01:58:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/5"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/0501f02912fd01eb2845dbca8469cfa2.png" type="image/png" length="60378"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">USMA 2022 Engineering Sequences</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">United States Military Academy Office of the Dean</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://courses.westpoint.edu/static/index.htm#t=AcademicProgram.htm%23OverviewOfTheAcademicProgram</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">29SEP2021</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Publication</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/6</id>
+    <title><![CDATA[NYU Core Requirements]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/6"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/2a610336d0fea78f5ce4ad6a49688e41.png" type="image/png" length="98879"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/c410af99eec64b8f0949e8e27919572b.png" type="image/png" length="86149"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/02eebf408e7fca1d67dd268e02790596.png" type="image/png" length="98879"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU Core Requirements</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">New York University Tandon School of Engineering</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">http://bulletin.engineering.nyu.edu/content.php?catoid=15&amp;navoid=1233#program-areas</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Publication</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/7</id>
+    <title><![CDATA[USMA 1976 Core Requirements]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/7"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/81021611f7c0012ec3a1de241fe66fde.png" type="image/png" length="172924"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">USMA 1976 Core Requirements</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">United States Military Academy. Office of the Dean of the Academic Board.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198977970005711#main-carousel</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1975</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Journal</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/8</id>
+    <title><![CDATA[NYU Majors 1976]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/8"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/2c3f453de7c2897ebdeced6994687ce7.png" type="image/png" length="139693"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU Majors 1976</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Institute of New York</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Electronic Scan of Physical Catalog</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1975</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Scan of Physical Catalog</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/9</id>
+    <title><![CDATA[NYU Majors 1905]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/9"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/2e68f03af0d8b195c8f5aeee213896cc.png" type="image/png" length="130731"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/91d0a70c3ac7f9e15d43392358595ea8.png" type="image/png" length="278642"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU Majors 1905</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Tandon Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1905</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Scan of Physical Catalog</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/10</id>
+    <title><![CDATA[Course of Study USMA &#039;46]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/10"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/84ff7b19903441961da33c8d02b6e35c.png" type="image/png" length="224925"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/8fb199749bb231a4c1f81391e6c406e8.png" type="image/png" length="100706"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Course of Study USMA &#039;46</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">United States Military Academy</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12178182010005711</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1946</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Scan of Physical Catalog</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/11</id>
+    <title><![CDATA[Courses of Study at United States Military Academy &#039;76]]></title>
+    <updated>2022-08-02T01:58:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/11"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/c23e37416818e15cd6a2a849dc75d32c.png" type="image/png" length="187467"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Courses of Study at United States Military Academy &#039;76</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">United States Military Academy Office of the Dean of the Academic Board</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198977970005711</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1976</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Electronic Scan of Physical Catalog</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/12</id>
+    <title><![CDATA[William R. Allen&#039;s letter to Polytechnic faculty on civil unrest]]></title>
+    <updated>2022-05-03T14:53:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/12"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/42e67a203d45836d6a0a45d9a867cb00.pdf" type="application/pdf" length="17050695"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">William R. Allen&#039;s letter to Polytechnic faculty on civil unrest</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">William R. Allen</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archive</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">May 13, 1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PDF</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

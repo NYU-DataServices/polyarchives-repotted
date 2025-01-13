@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/577">
+<dc:title>The Reporter on Poly&#039;s Diversity in 1992</dc:title>
+<dc:creator>Kathy Vorvolakos, The Polytechnic Reporter, Poly Archives, NYU Libraries</dc:creator>
+<dc:source>Vorvolakos, Kathy. “Paradigm of Diversity Includes Foreign Students.” The Polytechnic Reporter, 17 Oct. 1992, p. 1; Poly Archives Serial Publications Collection; RG 025; Poly Archives at Bern Dibner Library of Science and Technology, New York University.
+</dc:source>
+<dc:date>February 17, 1992</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description></rdf:RDF>

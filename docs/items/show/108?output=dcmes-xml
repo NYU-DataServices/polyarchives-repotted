@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/108">
+<dc:title>1948 Army recruitment ads</dc:title>
+<dc:subject>U.S. army and Air Force recruitment advertisement in 1948</dc:subject>
+<dc:description>U.S. army and Air Force recruitment service</dc:description>
+<dc:creator>Polytechnic Reporter 1948-1949</dc:creator>
+<dc:source>Polytechnic Reporter 1948-1949</dc:source>
+<dc:publisher>Polytechnic Reporter 1948-1949</dc:publisher>
+<dc:date>1948</dc:date>
+<dc:contributor>Polytechnic Reporter</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Physical object</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

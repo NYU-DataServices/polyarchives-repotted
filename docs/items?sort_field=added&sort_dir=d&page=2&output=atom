@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:23:48+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/1?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/1?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/3?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/71?sort_field=added&amp;sort_dir=d&amp;page=2&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/751</id>
+    <title><![CDATA[NYU]]></title>
+    <updated>2024-05-10T03:23:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/751"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/0c509338176230980cefb5a6d453efd7.png" type="image/png" length="1223717"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">MeetNYU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/750</id>
+    <title><![CDATA[JP Morgan Chase]]></title>
+    <updated>2024-05-10T03:11:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/750"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/821b59e94c362bf4ee73bda4fcd5141b.png" type="image/png" length="1391481"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">JP Morgan Chase</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">John Taggart</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Daily News</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/749</id>
+    <title><![CDATA[Ave of Puerto Rico]]></title>
+    <updated>2024-05-10T03:00:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/749"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/aaae566fff75f5e1392bd959af703e93.png" type="image/png" length="676155"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Ave of Puerto Rico</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Google Maps</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Brownstoner</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">October 2022</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/748</id>
+    <title><![CDATA[Williamsburg Transformation]]></title>
+    <updated>2024-05-10T02:40:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/748"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/032506cf05bbf007e272c409d228734e.png" type="image/png" length="718587"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/ae5255675cadea89741cba514ac0cbfc.png" type="image/png" length="1228087"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Williamsburg Transformation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Mara Catalan, Tony Cenicola</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">The New York Times</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1994/2023</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/747</id>
+    <title><![CDATA[AIR vodka]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/747"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/45582757344fdb8d0022015991b8f780.png" type="image/png" length="309087"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">AIR vodka</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Forbes Magazine</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/746</id>
+    <title><![CDATA[Offshore Wind Innovation Hub Logo]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/746"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/acf72a7a4df4424b1a84d91cf3ed6574.png" type="image/png" length="35404"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Offshore Wind Innovation Hub Logo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Offshore Wind Innovation Hub</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/745</id>
+    <title><![CDATA[UNESCO Logo]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/745"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/281a986ae672f753c4fbc4f03ca18c50.png" type="image/png" length="25722"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">UNESCO Logo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">UNESCO</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/744</id>
+    <title><![CDATA[Arcadia University Considerations for Name Change List]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/744"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/d7c0d64223387c550e8f431ecfcc0774.png" type="image/png" length="280883"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Arcadia University Considerations for Name Change List</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/743</id>
+    <title><![CDATA[Arcadia University Logo]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/743"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/4aee6468f809597740b71c71e664ad8a.gif" type="image/gif" length="34999"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Arcadia University Logo</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/742</id>
+    <title><![CDATA[Joseph J Jacobs Picture]]></title>
+    <updated>2024-05-21T13:45:15+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/742"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/84c60315a5f4fbf46b4b52d81e531273.png" type="image/png" length="321028"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Joseph J Jacobs Picture</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Joseph J Jacobs of the Polytechnic Donor Family: The Jacobs</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

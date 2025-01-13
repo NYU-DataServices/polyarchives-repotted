@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items?page=2&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a&amp;output=omeka-xml" accessDate="2025-01-13T20:23:15+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>2</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>703</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="343" public="1" featured="0">
+    <fileContainer>
+      <file fileId="544">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/68b5ffabbe658bf4bd1056dfde4e1efb.jpg</src>
+        <authentication>23a75630591a185035447cf30d0fddc2</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2650">
+                <text>"The Girls Are Here" from The Polytechnic Reporter in 1973</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2651">
+                <text>RG.025, Shelf 36/3F, volume: 47, The Polytechnic Reporter, December 21, 1973</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2652">
+                <text>December 21, 1973</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2653">
+                <text>Newspaper</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2654">
+                <text>Ralph Cassazzone</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="291" public="1" featured="0">
+    <fileContainer>
+      <file fileId="457">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/98f900f22a30001931097c495c9b45a9.pdf</src>
+        <authentication>e5834976e6b5a134e89f27b21f227e6a</authentication>
+        <elementSetContainer>
+          <elementSet elementSetId="4">
+            <name>PDF Text</name>
+            <description/>
+            <elementContainer>
+              <element elementId="52">
+                <name>Text</name>
+                <description/>
+                <elementTextContainer>
+                  <elementText elementTextId="2279">
+                    <text>https://www.nytimes.com/2010/04/22/nyregion/22yards.html
+
+$3 Million Deal Ends a Holdout in Brooklyn
+By Charles V. Bagli
+April 21, 2010
+
+For the past six years, Daniel Goldstein has been at the center of just about every rally, house party,
+concert and lawsuit opposed to the $4.9 billion Atlantic Yards project near Downtown Brooklyn.
+He wielded a bullhorn and had a lightning-fast e-mail response to every incursion by the developer
+Bruce C. Ratner on the 22-acre project site at Atlantic and Flatbush Avenues. As the project
+advanced, and every one his neighbors abandoned his building on Pacific Street, Mr. Goldstein
+remained with his wife and child, vowing never to be dislodged from their seventh-floor
+condominium.
+But on Wednesday afternoon, Mr. Goldstein, the last residential holdout in Mr. Ratner’s way, agreed to
+walk away from his apartment by May 7 for $3 million. Mr. Goldstein, 40, also agreed to step down as
+spokesman for Develop Don’t Destroy Brooklyn, the main group opposing Atlantic Yards. And he said
+he would withdraw from any litigation and not “actively oppose the project,” although he said he held
+on to his First Amendment rights.
+“There’s no end to the criticism and opposition to the project,” Mr. Goldstein vowed.
+Still, the settlement marked the end of a David-versus-Goliath fight that has captivated Brooklyn for
+years — or, depending on one’s position on the issue, thwarted its progress. Councilwoman Letitia
+James, a longtime ally of Mr. Goldstein’s, said that some opponents of Atlantic Yards “will obviously
+be disappointed, but not dissuaded” from fighting the project.
+Mr. Ratner, the chief executive of Forest City Ratner, was elated. The developer has started work on a
+$1 billion basketball arena for the Nets, the centerpiece of Atlantic Yards, and has the right to build 16
+towers with up to 6,000 apartments, office space and a hotel. At least 30 percent of the units are for
+tenants with moderate or middle incomes.
+“Forest City Ratner has from the start worked very hard to compensate and to assist residents who
+owned or rented homes in the footprint,” said Joe DePlasco, a spokesman for Forest City. “They made
+that commitment at the start of the project over six years ago and today are very pleased that as
+construction is in full force they were able to accomplish that goal.”
+Bertha Lewis, a housing advocate who supported the project, bid Mr. Goldstein “good riddance.”
+“Low- and moderate-income people had to wait years for housing while he obstructed the Atlantic
+Yards project,” she said.
+
+�Forest City announced on Tuesday that it had reached agreements with the seven other remaining
+families or businesses at the site. Renters were given the option of moving into a building at Atlantic
+Yards when it opened (with the developer covering the difference in rent during the interim) or
+taking a lump sum payment that averaged $80,000, plus $5,000 for relocation.
+
+As part of the settlement, Daniel
+Goldstein, a founder of Develop Don’t
+Destroy Brooklyn, agreed to vacate his
+apartment by May 7 and not to “actively
+oppose the project.”
+
+Acknowledging the inevitability of eviction, the manager of Freddy’s Bar, a favorite watering hole for
+opponents of the project, announced this week that the tavern would close at the end of the month.
+Patrons had vowed to chain themselves to the bar, but the manager, Donald O’Finn, told reporters
+that he had grown tired of the uncertainty over the saloon’s future. Freddy’s Bar has found a new
+home on Fourth Avenue, near Union Street.
+In 2004, Mr. Goldstein, a Web designer, helped found Develop Don’t Destroy Brooklyn, one of the most
+creative and resilient community activist groups in the city. It raised hundreds of thousands of dollars
+from 5,000 donors. Mr. Goldstein helped build a coalition of 21 groups that said the project’s high-rises
+and density would overwhelm the neighborhood and make its clogged streets virtually impassable.
+Although the group’s lawsuits have proved futile, Develop Don’t Destroy was able to delay Atlantic
+Yards for three years after the project gained initial government approval in 2006.
+After courts upheld the state’s right to use eminent domain on behalf of Forest City, Mr. Goldstein,
+who bought his apartment for $590,000 in 2003, was offered $510,000.
+On Wednesday, both sides went before Justice Abraham G. Gerges, who urged them to come to terms.
+According to an executive who was briefed on the negotiations but was not authorized to discuss it
+publicly, Mr. Goldstein initially sought $5 million. Mr. Goldstein denied that.
+The developer, in turn, wanted to prohibit Mr. Goldstein from talking about the project. In the end, Mr.
+Goldstein agreed not to file any lawsuits or to initiate any protests, but retained the right to attend
+events and to keep criticizing Atlantic Yards.
+Although Forest City — which was the development partner of The New York Times in its Midtown
+Manhattan headquarters — could have waited for a ruling that might have netted Mr. Goldstein far
+less, removing him from the site allows the developer to move forward with demolition and
+construction. The developer is paying $6.7 million a month in finance and other overhead costs,
+according to court filings.
+
+�Mr. Goldstein said that a “big chunk” of the money would go to his lawyers. Michael Galinsky, a
+filmmaker who is making a documentary about Mr. Goldstein and Atlantic Yards, said it would have
+been “irresponsible” not to have settled. “It was either move out in two weeks or move out in two
+months and take what the state offered,” he said.
+A bartender at Freddy’s, Mike Sternfeld, said that under the circumstances, it would be difficult to
+criticize Mr. Goldstein. “He’s given up everything to do this over the last six or seven years,” Mr.
+Sternfeld said. “He has no block left. He has a family to look out for.”
+
+�</text>
+                  </elementText>
+                </elementTextContainer>
+              </element>
+            </elementContainer>
+          </elementSet>
+        </elementSetContainer>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2280">
+                <text>$3 Million Deal Ends a Holdout in Brooklyn&#13;
+</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2281">
+                <text>Charles V. Bagli</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2282">
+                <text>New York Times</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2283">
+                <text>April 21, 2010</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="79" public="1" featured="1">
+    <fileContainer>
+      <file fileId="110">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/6b7c7dbc7ddc93a9cd9c3f2da2d7114c.png</src>
+        <authentication>9eb248950dc65bef18ebe74bcdf055c2</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="7">
+      <name>Website</name>
+      <description>A resource comprising of a web page or web pages and all related assets ( such as images, sound and video files, etc. ).</description>
+      <elementContainer>
+        <element elementId="6">
+          <name>Local URL</name>
+          <description>The URL of the local directory containing all assets of the website</description>
+          <elementTextContainer>
+            <elementText elementTextId="546">
+              <text>https://www.nytimes.com/1999/02/04/nyregion/340-million-windfall-brooklyn-5-institutions-happy-problem-spend-money.html</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="523">
+                <text>$340 Million Windfall in Brooklyn; 5 Institutions' Happy Problem: How to Spend the Money</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="524">
+                <text>Jim Yardley</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="562">
+                <text>Yardley, Jim. “$340 Million Windfall in Brooklyn; 5 Institutions' Happy Problem: How to Spend the Money.” The New York Times, The New York Times, 4 Feb. 1999, https://www.nytimes.com/1999/02/04/nyregion/340-million-windfall-brooklyn-5-institutions-happy-problem-spend-money.html.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="563">
+                <text>The New York Times</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="564">
+                <text>February 4, 1999</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="565">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="569">
+                <text>Newspaper Article</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="313" public="1" featured="0">
+    <fileContainer>
+      <file fileId="480">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/50e23f34428b5a8d58d6412b946786ba.png</src>
+        <authentication>4ddec5bd1e84dea4f4fb2db91e5b0c76</authentication>
+      </file>
+      <file fileId="481">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/95223e3409d1973755a68bcdb04c196e.png</src>
+        <authentication>8ca0039f5421bb75bda6e1ca7c040c27</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="7">
+      <name>Website</name>
+      <description>A resource comprising of a web page or web pages and all related assets ( such as images, sound and video files, etc. ).</description>
+      <elementContainer>
+        <element elementId="6">
+          <name>Local URL</name>
+          <description>The URL of the local directory containing all assets of the website</description>
+          <elementTextContainer>
+            <elementText elementTextId="2418">
+              <text>https://nces.ed.gov/pubs93/93442.pdf</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2409">
+                <text>120 Years of American Education: A Statistical Portrait</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2410">
+                <text>Enrollment Data</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2411">
+                <text>Another source that details data and figures of engineering</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2412">
+                <text>Thomas D. Snyder</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2413">
+                <text>Center for Education Statistics</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="2414">
+                <text>U.S Department of Education</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2415">
+                <text>January 1993</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2416">
+                <text>U.S. Department of Education</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2417">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="250" public="1" featured="0">
+    <fileContainer>
+      <file fileId="366">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/aaa72117894e62e9cd320ec88100e5f2.png</src>
+        <authentication>1b1ff7b19b98bacf198fd3ddee3c0524</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1985">
+                <text>1914 Supe's Notes</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1986">
+                <text>Channel Townsley</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1987">
+                <text>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198979580005711</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1988">
+                <text>1914</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1989">
+                <text>Scan of Journal </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="619" public="1" featured="0">
+    <fileContainer>
+      <file fileId="881">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/97914e0974c70affbfae74e169640d01.jpg</src>
+        <authentication>f36c9833a3974bf1e2a31d301ff13542</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4136">
+                <text>1923 First Poly Play Workshop Yearbook Photo</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4137">
+                <text>Brooklyn Polytechnic Institute</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="4138">
+                <text>Brooklyn Polytechnic Institute 1923 Polywog</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4139">
+                <text>1923</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4140">
+                <text>Text, Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="735" public="1" featured="0">
+    <fileContainer>
+      <file fileId="1025">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/d246bdcd24a7b867b9164b41efdb002a.jpg</src>
+        <authentication>d16cefdfe6ab7067fcaf73da15b0d323</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4825">
+                <text>1930 Play Workshop Polywog Group Photo</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4826">
+                <text>Brooklyn Polytechnic Institute</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="4827">
+                <text>Brooklyn Polytechnic Institute 1930 Polywog</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4828">
+                <text>1930</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4829">
+                <text>Text, Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="109" public="1" featured="0">
+    <fileContainer>
+      <file fileId="157">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/1da9694cacdf88463dafc5fc4e9d4bb4.png</src>
+        <authentication>5d24a6713f866f5ec70e2bab9bd77734</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="786">
+                <text>1942 " Buy American Bond" Advertisement</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="787">
+                <text>" Buy American Bond" Advertisement in 1942</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="788">
+                <text>1942 " Buy American Bond" Advertisement</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="789">
+                <text>Polytechnic Reporter 1942-1943</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="790">
+                <text>Polytechnic Reporter 1942-1943</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="791">
+                <text>Polytechnic Reporter 1942-1943</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="792">
+                <text>1942</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="793">
+                <text>Jpeg from student newspaper</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="898">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="899">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="900">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="901">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="902">
+                <text>Physical Object</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="903">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="38">
+            <name>Coverage</name>
+            <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+            <elementTextContainer>
+              <elementText elementTextId="904">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="108" public="1" featured="0">
+    <fileContainer>
+      <file fileId="156">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/160aaa97a03f36e4bc4272ea03eff745.png</src>
+        <authentication>776fb5bfa6a81ce86b36c157daf51603</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="778">
+                <text>1948 Army recruitment ads</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="779">
+                <text>U.S. army and Air Force recruitment advertisement in 1948</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="780">
+                <text>U.S. army and Air Force recruitment service</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="781">
+                <text>Polytechnic Reporter 1948-1949</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="782">
+                <text>Polytechnic Reporter 1948-1949</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="783">
+                <text>Polytechnic Reporter 1948-1949</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="784">
+                <text>1948</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="785">
+                <text>Jpeg from student newspaper</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="905">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="906">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="907">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="908">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="909">
+                <text>Physical object</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="910">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="38">
+            <name>Coverage</name>
+            <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+            <elementTextContainer>
+              <elementText elementTextId="911">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="112" public="1" featured="0">
+    <fileContainer>
+      <file fileId="160">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/3af0e7a5f8eae36952780253b331ccfe.png</src>
+        <authentication>a3670fb2656796a2dd9f3a4add652c98</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="15">
+      <name>Physical Object</name>
+      <description>An inanimate, three-dimensional object or substance. Note that digital representations of, or surrogates for, these objects should use Moving Image, Still Image, Text or one of the other types.</description>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="810">
+                <text>1958 Thinklish Advertisement</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="811">
+                <text>1958 Thinklish Advertisement</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="812">
+                <text>1958 Thinklish Advertisement</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="813">
+                <text>Polytechnic Reporter 1958-1959</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="814">
+                <text>Polytechnic Reporter 1958-1959</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="815">
+                <text>Polytechnic Reporter 1958-1959</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="816">
+                <text>1958</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="817">
+                <text>Jpeg from student newspaper</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="877">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="47">
+            <name>Rights</name>
+            <description>Information about rights held in and over the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="878">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="46">
+            <name>Relation</name>
+            <description>A related resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="879">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="880">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="881">
+                <text>Physical Object</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="43">
+            <name>Identifier</name>
+            <description>An unambiguous reference to the resource within a given context</description>
+            <elementTextContainer>
+              <elementText elementTextId="882">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="38">
+            <name>Coverage</name>
+            <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+            <elementTextContainer>
+              <elementText elementTextId="883">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

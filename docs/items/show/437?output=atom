@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/437?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:46+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/437?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/436?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/438?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/437</id>
+    <title><![CDATA[Science Fiction Club&#039;s &quot;Golana&quot; Is Scheduled For Issue This Month continued]]></title>
+    <updated>2024-04-01T23:19:02+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/437"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/a8ab24b9ccced69fe323a3b106740a33.jpg" type="image/jpeg" length="436724"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Science Fiction Club&#039;s &quot;Golana&quot; Is Scheduled For Issue This Month continued</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Gil Wachsman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 58, No. 11, Page 5</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">February 10, 1966</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">(Continued from page 1)<br />
+fiction to fantasy, weird and offbeat. Our only criterion is simply that we like it. As a matter of fact, our next issue of Golana will feature fantasy.&quot;<br />
+<br />
+Publishing Problems<br />
+Gilbert Wachsman, Managing Editor of the magazine, explained the kinds of problems that the staff encountered in publishing. &quot;As in most literary magazines the major problem encountered in publishing is finding prose, poetry, and artwork of adequately high quality and in sufficient quantity. In the past this problem has been the cause of the exceedingly short Golanas being published. This year the formation of a very hard-working and talented staff and the excellent contributions of a great many more authors has solved this problem for us. This staff is also responsible for overcoming the many technical difficulties of production.&quot;<br />
+<br />
+More Money Needed<br />
+Since Golana, by its very nature, always looks towards the future, Dong was asked what future plans he and his staff had for the magazine. &quot;Well, we need additional capital, for which we&#039;ll ask the Council at its rebudgeting session, for a 120-page issue in May. We have nearly 50 pages either in finished copy form or in the definite planning stage. This 120-page issue will have a three-color cover, which we already have, and some 20 pages in color. &quot;This 120-page issue,&quot; he went on, &quot;will feature a lead short novel, in the swords-and-Sorcery tradition.&quot; Next year, the Science Fiction Club is planning four issues, each 120 pages long and with color.<br />
+Other editors of the magazine are Marshall Schwartz, Associate Editor; Allan Levy, Technical Editor; and Robert Mattson, Art Editor.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

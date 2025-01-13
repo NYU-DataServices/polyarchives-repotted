@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/422?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:43+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/422?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/421?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/423?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/422</id>
+    <title><![CDATA[Binary Digits]]></title>
+    <updated>2024-04-01T22:57:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/422"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/0960590fa09a0138107aa33fd8160deb.jpg" type="image/jpeg" length="437900"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Binary Digits</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Reporter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 56</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">November 21, 1963</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">Binary Digits<br />
+In the non-science fiction field, he has published Presidential Year and The Town Is Drowning, both in collaboration with C. M. Kornbluth. Interested in binary digits–he has written two articles on this subject–he currently lives in a three-story house in Red Bank, New Jersey, with his wife, Carol.<br />
+Currently, the Science Fiction Club is publishing Golana, a 36-page magazine devoted to social science fiction–i. e., stories concerning the impact of technology upon individuals and upon peoples. The covers for the issue have already been made up; Mr. Brian Wrynn, associate secretary of the Club, said of these covers: &quot;Abstract in theme, symbolize man&#039;s quest.&quot; On the front cover, there is the launching of a rocket, and, on the back, an abstract of man against the universe.&quot; The illustrator was William Schloman.<br />
+Golana&#039;s first issue, according to Edward Dong, the Science Fiction Club&#039;s Vice-President, will be out about December, 1963. It is dedicated to E. E. Smith, whose Skylark and Lensmen series are famed in the science fiction field. A transcript of Frederik Pohl&#039;s talk to the Club will also be published.<br />
+</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

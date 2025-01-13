@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/462">
+<dc:title>&quot;Engineering Transformed&quot;</dc:title>
+<dc:creator>NYU Tandon</dc:creator>
+<dc:source>https://web.archive.org/web/20151006233836/http://engineering.nyu.edu/tandon</dc:source>
+<dc:publisher>Wayback Machine</dc:publisher>
+<dc:date>October 6, 2015</dc:date>
+<dc:format>Image</dc:format>
+<dc:language>English</dc:language>
+<dc:type>PNG</dc:type>
+</rdf:Description></rdf:RDF>

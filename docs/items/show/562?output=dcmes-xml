@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/562">
+<dc:title>Scene from Tolkien&#039;s Middle Earth</dc:title>
+<dc:creator>Robert Mattson</dc:creator>
+<dc:source>Series VI: Golana, Winter 1966; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Winter 1966</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

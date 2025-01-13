@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/18">
+<dc:title>NYU-Poly Student Enrollment Graph 2000-2013</dc:title>
+<dc:description>This graph showcases the number of student enrollment in NYU-Poly  between years of 2000 to 2013 along with some predicted enrollment numbers from 2014 to 2018. Important details to note is the upward trend after 2008, when NYU and Polytechnic become affiliated, and a predicted continuous increase after 2014, when the two officially merge.</dc:description>
+<dc:creator>NYU-Poly Board of Trustees</dc:creator>
+<dc:source>NYU-Poly Board of Trustees June 2013 Meeting Report</dc:source>
+<dc:date>June 30th, 2013</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description></rdf:RDF>

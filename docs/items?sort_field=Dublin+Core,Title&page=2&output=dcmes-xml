@@ -1,0 +1,111 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/343">
+<dc:title>&quot;The Girls Are Here&quot; from The Polytechnic Reporter in 1973</dc:title>
+<dc:creator>Ralph Cassazzone</dc:creator>
+<dc:source>RG.025, Shelf 36/3F, volume: 47, The Polytechnic Reporter, December 21, 1973</dc:source>
+<dc:date>December 21, 1973</dc:date>
+<dc:format>Newspaper</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/291">
+<dc:title>$3 Million Deal Ends a Holdout in Brooklyn
+</dc:title>
+<dc:creator>Charles V. Bagli</dc:creator>
+<dc:source>New York Times</dc:source>
+<dc:date>April 21, 2010</dc:date>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/79">
+<dc:title>$340 Million Windfall in Brooklyn; 5 Institutions&#039; Happy Problem: How to Spend the Money</dc:title>
+<dc:creator>Jim Yardley</dc:creator>
+<dc:source>Yardley, Jim. “$340 Million Windfall in Brooklyn; 5 Institutions&#039; Happy Problem: How to Spend the Money.” The New York Times, The New York Times, 4 Feb. 1999, https://www.nytimes.com/1999/02/04/nyregion/340-million-windfall-brooklyn-5-institutions-happy-problem-spend-money.html.</dc:source>
+<dc:publisher>The New York Times</dc:publisher>
+<dc:date>February 4, 1999</dc:date>
+<dc:format>Newspaper Article</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/313">
+<dc:title>120 Years of American Education: A Statistical Portrait</dc:title>
+<dc:subject>Enrollment Data</dc:subject>
+<dc:description>Another source that details data and figures of engineering</dc:description>
+<dc:creator>Thomas D. Snyder</dc:creator>
+<dc:source>Center for Education Statistics</dc:source>
+<dc:publisher>U.S Department of Education</dc:publisher>
+<dc:date>January 1993</dc:date>
+<dc:rights>U.S. Department of Education</dc:rights>
+<dc:language>English</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/250">
+<dc:title>1914 Supe&#039;s Notes</dc:title>
+<dc:creator>Channel Townsley</dc:creator>
+<dc:source>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198979580005711</dc:source>
+<dc:date>1914</dc:date>
+<dc:format>Scan of Journal </dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/619">
+<dc:title>1923 First Poly Play Workshop Yearbook Photo</dc:title>
+<dc:creator>Brooklyn Polytechnic Institute</dc:creator>
+<dc:source>Brooklyn Polytechnic Institute 1923 Polywog</dc:source>
+<dc:date>1923</dc:date>
+<dc:format>Text, Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/735">
+<dc:title>1930 Play Workshop Polywog Group Photo</dc:title>
+<dc:creator>Brooklyn Polytechnic Institute</dc:creator>
+<dc:source>Brooklyn Polytechnic Institute 1930 Polywog</dc:source>
+<dc:date>1930</dc:date>
+<dc:format>Text, Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/109">
+<dc:title>1942 &quot; Buy American Bond&quot; Advertisement</dc:title>
+<dc:subject>&quot; Buy American Bond&quot; Advertisement in 1942</dc:subject>
+<dc:description>1942 &quot; Buy American Bond&quot; Advertisement</dc:description>
+<dc:creator>Polytechnic Reporter 1942-1943</dc:creator>
+<dc:source>Polytechnic Reporter 1942-1943</dc:source>
+<dc:publisher>Polytechnic Reporter 1942-1943</dc:publisher>
+<dc:date>1942</dc:date>
+<dc:contributor>Polytechnic Reporter</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Physical Object</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/108">
+<dc:title>1948 Army recruitment ads</dc:title>
+<dc:subject>U.S. army and Air Force recruitment advertisement in 1948</dc:subject>
+<dc:description>U.S. army and Air Force recruitment service</dc:description>
+<dc:creator>Polytechnic Reporter 1948-1949</dc:creator>
+<dc:source>Polytechnic Reporter 1948-1949</dc:source>
+<dc:publisher>Polytechnic Reporter 1948-1949</dc:publisher>
+<dc:date>1948</dc:date>
+<dc:contributor>Polytechnic Reporter</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Physical object</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/112">
+<dc:title>1958 Thinklish Advertisement</dc:title>
+<dc:subject>1958 Thinklish Advertisement</dc:subject>
+<dc:description>1958 Thinklish Advertisement</dc:description>
+<dc:creator>Polytechnic Reporter 1958-1959</dc:creator>
+<dc:source>Polytechnic Reporter 1958-1959</dc:source>
+<dc:publisher>Polytechnic Reporter 1958-1959</dc:publisher>
+<dc:date>1958</dc:date>
+<dc:contributor>Polytechnic Reporter</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Physical Object</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items?page=2&amp;sort_field=added&amp;sort_dir=d&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:23:19 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[NYU]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/751</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">MeetNYU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/0c509338176230980cefb5a6d453efd7.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/0c509338176230980cefb5a6d453efd7.jpg" alt="Screenshot 2024-05-09 232150.png" title="Screenshot 2024-05-09 232150.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 03:23:08 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/0c509338176230980cefb5a6d453efd7.jpg" type="image/png" length="1223717"/>
+    </item>
+    <item>
+      <title><![CDATA[JP Morgan Chase]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/750</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">JP Morgan Chase</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">John Taggart</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Daily News</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/821b59e94c362bf4ee73bda4fcd5141b.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/821b59e94c362bf4ee73bda4fcd5141b.jpg" alt="Screenshot 2024-05-09 230930.png" title="Screenshot 2024-05-09 230930.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 03:11:10 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/821b59e94c362bf4ee73bda4fcd5141b.jpg" type="image/png" length="1391481"/>
+    </item>
+    <item>
+      <title><![CDATA[Ave of Puerto Rico]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/749</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Ave of Puerto Rico</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Google Maps</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Brownstoner</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">October 2022</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/aaae566fff75f5e1392bd959af703e93.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/aaae566fff75f5e1392bd959af703e93.jpg" alt="Screenshot 2024-05-09 225935.png" title="Screenshot 2024-05-09 225935.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 03:00:39 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/aaae566fff75f5e1392bd959af703e93.jpg" type="image/png" length="676155"/>
+    </item>
+    <item>
+      <title><![CDATA[Williamsburg Transformation]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/748</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Williamsburg Transformation</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Mara Catalan, Tony Cenicola</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">The New York Times</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1994/2023</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/032506cf05bbf007e272c409d228734e.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/032506cf05bbf007e272c409d228734e.jpg" alt="Screenshot 2024-05-09 223858.png" title="Screenshot 2024-05-09 223858.png"></a></div><div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/ae5255675cadea89741cba514ac0cbfc.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/ae5255675cadea89741cba514ac0cbfc.jpg" alt="Screenshot 2024-05-09 223911.png" title="Screenshot 2024-05-09 223911.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 02:40:59 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/032506cf05bbf007e272c409d228734e.jpg" type="image/png" length="718587"/>
+    </item>
+    <item>
+      <title><![CDATA[AIR vodka]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/747</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">AIR vodka</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Forbes Magazine</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/45582757344fdb8d0022015991b8f780.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/45582757344fdb8d0022015991b8f780.jpg" alt="airvodka.png" title="airvodka.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 00:56:40 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/45582757344fdb8d0022015991b8f780.jpg" type="image/png" length="309087"/>
+    </item>
+    <item>
+      <title><![CDATA[Offshore Wind Innovation Hub Logo]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/746</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Offshore Wind Innovation Hub Logo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Offshore Wind Innovation Hub</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/acf72a7a4df4424b1a84d91cf3ed6574.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/acf72a7a4df4424b1a84d91cf3ed6574.jpg" alt="owihlogo.png" title="owihlogo.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 00:55:37 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/acf72a7a4df4424b1a84d91cf3ed6574.jpg" type="image/png" length="35404"/>
+    </item>
+    <item>
+      <title><![CDATA[UNESCO Logo]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/745</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">UNESCO Logo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">UNESCO</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Digital image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/281a986ae672f753c4fbc4f03ca18c50.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/281a986ae672f753c4fbc4f03ca18c50.jpg" alt="unescologo.png" title="unescologo.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 00:54:56 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/281a986ae672f753c4fbc4f03ca18c50.jpg" type="image/png" length="25722"/>
+    </item>
+    <item>
+      <title><![CDATA[Arcadia University Considerations for Name Change List]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/744</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Arcadia University Considerations for Name Change List</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/d7c0d64223387c550e8f431ecfcc0774.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/d7c0d64223387c550e8f431ecfcc0774.jpg" alt="arcadia university name change criteria.png" title="arcadia university name change criteria.png"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 00:20:39 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/d7c0d64223387c550e8f431ecfcc0774.jpg" type="image/png" length="280883"/>
+    </item>
+    <item>
+      <title><![CDATA[Arcadia University Logo]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/743</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Arcadia University Logo</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-gif"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/4aee6468f809597740b71c71e664ad8a.gif"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/4aee6468f809597740b71c71e664ad8a.jpg" alt="arcadia university logo.gif" title="arcadia university logo.gif"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 00:18:05 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/4aee6468f809597740b71c71e664ad8a.jpg" type="image/gif" length="34999"/>
+    </item>
+    <item>
+      <title><![CDATA[Joseph J Jacobs Picture]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/742</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Joseph J Jacobs Picture</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Joseph J Jacobs of the Polytechnic Donor Family: The Jacobs</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/84c60315a5f4fbf46b4b52d81e531273.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/84c60315a5f4fbf46b4b52d81e531273.jpg" alt="joseph j jacobs.png" title="joseph j jacobs.png"></a></div>]]></description>
+      <pubDate>Thu, 09 May 2024 22:37:14 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/84c60315a5f4fbf46b4b52d81e531273.jpg" type="image/png" length="321028"/>
+    </item>
+  </channel>
+</rss>

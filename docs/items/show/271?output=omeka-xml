@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="271" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/271?output=omeka-xml" accessDate="2025-01-13T20:15:57+00:00">
+  <fileContainer>
+    <file fileId="427">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/b895e2650260e6f8a32d2fcc354514c8.png</src>
+      <authentication>c24b7fd1d79379ac105c1f5d265793c7</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2189">
+              <text>Richard Thorsen (Interview)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2190">
+              <text>Interview</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2191">
+              <text>“Actually, throughout the sixties funding for engineering schools was good. As a result of the 1957 Sputnik launch by the then USSR, funding for engineering and science was increased and nationally engineering enrollment increased. However, there were local exceptions. In the case of the NYU School of Engineering, which was at the Heights campus, enrollment decreased. This was largely due to the financial difficulties of NYC which, in turn, exacerbated the decline of the neighborhood surrounding the campus. Attracting students to attend a high tuition school in a declining neighborhood was difficult at best. Similar issues of urban decay plagued Polytechnic Institute of Brooklyn.” &#13;
+ &#13;
+“NYU at Washington Square faced different problems. It did not benefit from increased funding for engineering and relied on national recruiting of students, not just students from NYC. The problems of NYC were known nationwide and it appeared that students were reluctant to come to NYC.“&#13;
+ &#13;
+“Eventually (late 70s), the financial difficulties of the City were overcome and many urban renewal projects were initiated. NYC again became a "destination" and NYU has thrived in this new environment.”</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2192">
+              <text>Richard Thorsen</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2193">
+              <text>31st March, 2022</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2194">
+              <text>Interview</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2195">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

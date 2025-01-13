@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="162" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/162?output=omeka-xml" accessDate="2025-01-13T20:12:50+00:00">
+  <fileContainer>
+    <file fileId="216">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f2c2000d03633fdd3258d38a8871308f.jpeg</src>
+      <authentication>86cb804c9330e5f7b08ab2b980942414</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+    <elementContainer>
+      <element elementId="7">
+        <name>Original Format</name>
+        <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+        <elementTextContainer>
+          <elementText elementTextId="1386">
+            <text>Photo</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+      <element elementId="10">
+        <name>Physical Dimensions</name>
+        <description>The actual physical size of the original image</description>
+        <elementTextContainer>
+          <elementText elementTextId="1387">
+            <text>unknown</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1379">
+              <text>Photo of X-ray Crystallography</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1380">
+              <text>Crystallography </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1381">
+              <text>The famous photograph 51. Raymond Gosling/King's College London</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1382">
+              <text>Raymond Gosling</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="1383">
+              <text>King's College London</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1384">
+              <text>unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1385">
+              <text>Photograph</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="27">
+      <name>Judith Bregman</name>
+    </tag>
+  </tagContainer>
+</item>

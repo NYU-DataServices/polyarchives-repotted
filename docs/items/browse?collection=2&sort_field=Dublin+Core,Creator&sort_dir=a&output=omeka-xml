@@ -1,0 +1,1929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/browse?collection=2&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=omeka-xml" accessDate="2025-01-13T20:18:08+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>33</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="418" public="1" featured="0">
+    <fileContainer>
+      <file fileId="638">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/5a81c6a580c46439986fdf3055185b08.png</src>
+        <authentication>bb8ff9be4ba542e40c77b762a5394c7a</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3073">
+              <text>It isn't often that a new collegiate publication of major import is planned, created, and established. It has happened only three times before in the 109-year history of the Polytechnic Institute of Brooklyn–the long-established, most widely read, and best supported–the Reporter; and the comparative newcomers of the Engineer and Counterweight. Now there's a new one.&#13;
+Golana–though, as yet, still unborn, unspawned, unemerged from the womb of the creative minds of its literary parents, Gerald Robertson, Bruce Oberhardt, and others–is its name. The magazine is the official publication of the Poly Science Fiction Club.&#13;
+Stop.&#13;
+Stop completely. Now. At this point.&#13;
+Please do not read any further–if you cannot stomach science fiction in any form whatsoever; if you are convinced that science fiction is "what" Hollywood says it is, when it puts out those bare-bosomed, monster-filled $100,000 "quickie" epic films; if you group A Canticle For Leibowitz and Brave New World, along with Edgar Rice Burroughs' worst Tarzan books and the comic books.&#13;
+Why discuss science fiction at all with anyone who has an emotional conviction that it's all trash? The Average Man–be there such a mediocre specimen of humanity, such an example of non-logical, illogical conformity of Earth–thinks, not with his brain, but with his glands, and, if we are to believe "Madison Avenue," mostly with his gonads and genitals. You can't beat emotional convictions by using logic–not when even the most honorable of men considers it his most honorable duty to lie, cheat, steal, and murder for his emotional convictions. Neither money, position, ethics, or self-preservation, nor all combined together, can even counterbalance these forces. It matters not what labels you apply or what kind of men you deal with–be it Joe Mugg or Sonny Liston or Albert Einstein or President Kennedy. You can't beat these convictions with logic–only by fighting them with other emotional convictions and forces.&#13;
+Stop.&#13;
+Stop, again.&#13;
+This is where literature, and, more specifically, science fiction, comes in. Suppose you say to a man, "Everything I am about to hypothesize or say is a lie." Then you discuss–almost in the baldest terms possible–anything that might affect another's emotional equilibrium. Anything. Anything in the world–or, perhaps out of it. Incest? Surely. Segregation? Why not? The possible problems of a post-World War III era of 2450 A.D.? Of course, go right ahead.&#13;
+Such discussion–under the guise, we call, "stories,"–cannot affect another's emotional convictions. Why? Because everything you or an author might say or write about–you say yourself, just as a writer, under attack, might reply, "Why, didn't I say it was a lie to begin with? I said it was a lie! I told you it never really happened." How can an untruth affect anything–particularly since it is, manifestly, a self-admitted lie? The result is what we apply the label "fiction" to.&#13;
+James Baldwin's The Fire Next Time is such a piece of self-admitted lies-just was Harriet Beecher Stowe's Uncle Tom's Cabin. Or 1984… or Lady Chatterly's Lover… or It Can't Happen Here.&#13;
+This, then, is social criticism and social science fiction. This is the highest form&#13;
+of science fiction–and of literature in general. You treat possible futures from a contemporary frame of reference; you point out the possible fears and terrors and loves and thought patterns of a hundred years, a thousand years–or just six months hence. The science fiction writer chronicles possible futures in the present tense, outlined the consequences of today's actions to guide 1963's leaders–for, after all, isn't the future the only thing we have control over? The past is dead, the present already fixed and fading, even now, into the dead past–but the future, by definition, hasn't come yet.&#13;
+This, then, is the science fiction spectrum in brief.&#13;
+It is a spectrum of possible futures–with each "future" a story dealing with the effects on people of probable problems that will be created as Earth's technology expands to the stars–and beyond. It is also a spectrum of incredible pasts, presents, and other probability continuums–of exploding galaxies, of overwhelming catastrophes, of omnipotent villains, of superhuman heroes—and, then, of everyday people in a future not really different from our world of 1963.&#13;
+This is social science fiction. This is what Golana wants to publish. This is at the top of a literary spectrum that includes, at the bottom, the busty, weird costume ten-day Hollywood productions… and 1984 near the top. This is the spectrum to which we apply the labels, "Science fiction," "science fantasy," "fantasy,"–or, much more justifiably, assign the title, "Speculative fiction."&#13;
+Just what does this spectrum include? We have already mentioned the atrocious "quickies" from that L.A. suburb in the same breath as A Canticle For Leibowitz and Brave New World. Between them, they exemplify both the lowest form of adventure science fiction and the highest form of social science fiction.&#13;
+. . . And then there is a category called gadget science fiction, a kind of science fiction not reflected in the so-called "Mainstream" literature. You could find social criticism, not couched in terms of 2450 A.D., and adventure, not echoing with the screams of the heroine being pawed by a Thing from the 23rd Galaxy. But you cannot find "gadget" stories, without their being science fiction, "mainstream" or "fringe."&#13;
+This is science fiction–the couching of speculations by creative, extrapolative thinkers in the form of parables or stories.&#13;
+This is science fiction. Call it science fantasy, fantasy, or speculative fiction. This is what Golana will print.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3068">
+                <text>Opinionscope: ‘Golana’</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3069">
+                <text>Edward V. Dong</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3070">
+                <text>Polytechnic Reporter, Vol. 56, No. 3, Page 2</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3071">
+                <text>October 10, 1963</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3072">
+                <text>PNG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="419" public="1" featured="0">
+    <fileContainer>
+      <file fileId="639">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/69538d77bc98b9f17ce501f446e7be8c.jpg</src>
+        <authentication>03b678640ef728782f9aef6d3f20f86c</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3079">
+              <text>It isn't often that a new collegiate publication of major import is planned, created, and established. It has happened only three times before in the 109-year history of the Polytechnic Institute of Brooklyn–the long-established, most widely read, and best supported–the Reporter; and the comparative newcomers of the Engineer and Counterweight. Now there's a new one.&#13;
+Golana–though, as yet, still unborn, unspawned, unemerged from the womb of the creative minds of its literary parents, Gerald Robertson, Bruce Oberhardt, and others–is its name. The magazine is the official publication of the Poly Science Fiction Club.&#13;
+Stop.&#13;
+Stop completely. Now. At this point.&#13;
+Please do not read any further–if you cannot stomach science fiction in any form whatsoever; if you are convinced that science fiction is "what" Hollywood says it is, when it puts out those bare-bosomed, monster-filled $100,000 "quickie" epic films; if you group A Canticle For Leibowitz and Brave New World, along with Edgar Rice Burroughs' worst Tarzan books and the comic books.&#13;
+Why discuss science fiction at all with anyone who has an emotional conviction that it's all trash? The Average Man–be there such a mediocre specimen of humanity, such an example of non-logical, illogical conformity of Earth–thinks, not with his brain, but with his glands, and, if we are to believe "Madison Avenue," mostly with his gonads and genitals. You can't beat emotional convictions by using logic–not when even the most honorable of men considers it his most honorable duty to lie, cheat, steal, and murder for his emotional convictions. Neither money, position, ethics, or self-preservation, nor all combined together, can even counterbalance these forces. It matters not what labels you apply or what kind of men you deal with–be it Joe Mugg or Sonny Liston or Albert Einstein or President Kennedy. You can't beat these convictions with logic–only by fighting them with other emotional convictions and forces.&#13;
+Stop.&#13;
+Stop, again.&#13;
+This is where literature, and, more specifically, science fiction, comes in. Suppose you say to a man, "Everything I am about to hypothesize or say is a lie." Then you discuss–almost in the baldest terms possible–anything that might affect another's emotional equilibrium. Anything. Anything in the world–or, perhaps out of it. Incest? Surely. Segregation? Why not? The possible problems of a post-World War III era of 2450 A.D.? Of course, go right ahead.&#13;
+Such discussion–under the guise, we call, "stories,"–cannot affect another's emotional convictions. Why? Because everything you or an author might say or write about–you say yourself, just as a writer, under attack, might reply, "Why, didn't I say it was a lie to begin with? I said it was a lie! I told you it never really happened." How can an untruth affect anything–particularly since it is, manifestly, a self-admitted lie? The result is what we apply the label "fiction" to.&#13;
+James Baldwin's The Fire Next Time is such a piece of self-admitted lies-just was Harriet Beecher Stowe's Uncle Tom's Cabin. Or 1984… or Lady Chatterly's Lover… or It Can't Happen Here.&#13;
+This, then, is social criticism and social science fiction. This is the highest form&#13;
+of science fiction–and of literature in general. You treat possible futures from a contemporary frame of reference; you point out the possible fears and terrors and loves and thought patterns of a hundred years, a thousand years–or just six months hence. The science fiction writer chronicles possible futures in the present tense, outlined the consequences of today's actions to guide 1963's leaders–for, after all, isn't the future the only thing we have control over? The past is dead, the present already fixed and fading, even now, into the dead past–but the future, by definition, hasn't come yet.&#13;
+This, then, is the science fiction spectrum in brief.&#13;
+It is a spectrum of possible futures–with each "future" a story dealing with the effects on people of probable problems that will be created as Earth's technology expands to the stars–and beyond. It is also a spectrum of incredible pasts, presents, and other probability continuums–of exploding galaxies, of overwhelming catastrophes, of omnipotent villains, of superhuman heroes—and, then, of everyday people in a future not really different from our world of 1963.&#13;
+This is social science fiction. This is what Golana wants to publish. This is at the top of a literary spectrum that includes, at the bottom, the busty, weird costume ten-day Hollywood productions… and 1984 near the top. This is the spectrum to which we apply the labels, "Science fiction," "science fantasy," "fantasy,"–or, much more justifiably, assign the title, "Speculative fiction."&#13;
+Just what does this spectrum include? We have already mentioned the atrocious "quickies" from that L.A. suburb in the same breath as A Canticle For Leibowitz and Brave New World. Between them, they exemplify both the lowest form of adventure science fiction and the highest form of social science fiction.&#13;
+. . . And then there is a category called gadget science fiction, a kind of science fiction not reflected in the so-called "Mainstream" literature. You could find social criticism, not couched in terms of 2450 A.D., and adventure, not echoing with the screams of the heroine being pawed by a Thing from the 23rd Galaxy. But you cannot find "gadget" stories, without their being science fiction, "mainstream" or "fringe."&#13;
+This is science fiction–the couching of speculations by creative, extrapolative thinkers in the form of parables or stories.&#13;
+This is science fiction. Call it science fantasy, fantasy, or speculative fiction. This is what Golana will print.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3074">
+                <text>Opinionscope: ‘Golana’ continued</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3075">
+                <text>Edward V. Dong</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3076">
+                <text>Polytechnic Reporter, Vol. 56, No. 3, Page 2</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3077">
+                <text>October 10, 1963</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3078">
+                <text>PNG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="515" public="1" featured="0">
+    <fileContainer>
+      <file fileId="739">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/3dacb06f47d5c6f2e055057587cbde64.jpg</src>
+        <authentication>99ecde366077cfbbbf186972746af1f4</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3581">
+              <text>Variety of Publications Offer Literary Gamut by Geoffry Walker&#13;
+&#13;
+Like to write? Like to take photographs? Want to learn how to do a newspaper or magazine layout? Want to see something from your own pen in print? If your answer to any these questions is “yes”, then Poly publications is the place for you.&#13;
+Poly publications is comprised of six separate entities: the Reporter, the Poly newspaper; the Engineer, the undergraduate technical magazine; Polywog, the yearbook; Counterweight Quarterly, the literary magazine; Golana, the science fiction magazine; and Focus, the publications’ photography staff.&#13;
+The Reporter is published every week of academic year, except during holidays and exam periods, with a total of 27 issues. The paper covers all in-Poly and Poly-connected activities, including Spring Carnival, sports, student demonstrations, technical society meetings, etc. as well as other student oriented news, such as recent Columbia University disruption. The staff of the paper is subdivided into several staffs (news, copy, sports, etc.), and each of these staffs needs people willing to work. Drop by room 110 anytime if you are interested.&#13;
+One of the better college engineering magazines in the country is Polys Engineer. Published four times a year (October, December, February, and April, or whenever its done)  the Engineer prints technical articles written by students. Although student authored and edited, the Engineer’s articles cover a wide range of topics, from the New York’s subway system to the historical significance of the angle. If you are interested in working in any capacity on the magazine, come to room 106.&#13;
+Polywog, the undergraduate yearbook is different from most yearbooks in that it is not a senior-only book. The staff is made up of students from all classes, as a freshman may have just as much responsibility as a senior. The Poly yearbook is noted for its originality and effective graphic presentation.&#13;
+The center of Poly’s “literary life”, Counterweight Quarterly, in room 104. Published four times a year, (Fall, Winter, Spring, and Summer), Counterweight Quarterly prints poetry, fiction, photographs, artwork, and anything else of interest. Badly in need of more fiction, the magazine is anxious for new staff members.&#13;
+Golana, an “undergraduate science fiction magazine, published semi-regularly,” (usually three times a year), is also ensconced in room 104. Golana prints student-authored science fiction stories, book reviews, and artwork.&#13;
+Serving all five publications, Focus, the publications photo staff, is open to any student (experienced or inexperienced) with an interest in photography. Focus has its own very well equipped darkroom (including facilities for color processing and printing) in room 114, and an office in room 102. In exchange for a few hours work a week.&#13;
+To any student interested in getting more out of four years at Poly than eye strain from studying, publications offer an interesting and relaxing diversion, as well as an introduction to what may well turn out to be a career, as it has for Poly graduates. Any staff member of any of the publications will be more than willing to introduce you to the fun of working on the Poly Pubs. Come around!</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3576">
+                <text>Variety of Publications Offer Literary Gamut</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3577">
+                <text>Geoffry Walker</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3578">
+                <text>Polytechnic Reporter, Vol. 61, No. 1, Page 4</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3579">
+                <text>September 19, 1968</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3580">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="434" public="1" featured="0">
+    <fileContainer>
+      <file fileId="648">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/08f64e26b67f74c6ced5680eceba5ffe.jpg</src>
+        <authentication>b0c64dd3743d3d9edfbd4e7d451bc4cc</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3157">
+              <text>Science Fiction Club's "Golana" Is Scheduled For Issue This Month by Gil Wachsman&#13;
+&#13;
+Golana, the student science fiction magazine, will again appear on campus. Published under the auspices of the Poly Science Fiction Club, it will feature four poems, special features, and eight short stories, ranging in length from two to seven pages. It will be issued to the student body sometime in the next two weeks.&#13;
+&#13;
+Something for Everyone&#13;
+The stories in the issue range from a depiction of an alien view of our civilization to immortality, and includes a fantasy piece about the consequences of a pact with the Devil. Mr. Dong stated: "Golana is very flexible in the selection of its stories, both in topic and treatment, as well as length. We like all kinds of stories, from science&#13;
+(Continued on page 5)&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3152">
+                <text>Science Fiction Club’s “Golana” Is Scheduled For Issue This Month</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3153">
+                <text>Gil Wachsman</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3154">
+                <text>Polytechnic Reporter, Vol. 58, No. 11, Page 1</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3155">
+                <text>February 10, 1966</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3156">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="437" public="1" featured="0">
+    <fileContainer>
+      <file fileId="651">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/a8ab24b9ccced69fe323a3b106740a33.jpg</src>
+        <authentication>04f5fb59d2f189298456f6e5400a3a3b</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3173">
+              <text>(Continued from page 1)&#13;
+fiction to fantasy, weird and offbeat. Our only criterion is simply that we like it. As a matter of fact, our next issue of Golana will feature fantasy."&#13;
+&#13;
+Publishing Problems&#13;
+Gilbert Wachsman, Managing Editor of the magazine, explained the kinds of problems that the staff encountered in publishing. "As in most literary magazines the major problem encountered in publishing is finding prose, poetry, and artwork of adequately high quality and in sufficient quantity. In the past this problem has been the cause of the exceedingly short Golanas being published. This year the formation of a very hard-working and talented staff and the excellent contributions of a great many more authors has solved this problem for us. This staff is also responsible for overcoming the many technical difficulties of production."&#13;
+&#13;
+More Money Needed&#13;
+Since Golana, by its very nature, always looks towards the future, Dong was asked what future plans he and his staff had for the magazine. "Well, we need additional capital, for which we'll ask the Council at its rebudgeting session, for a 120-page issue in May. We have nearly 50 pages either in finished copy form or in the definite planning stage. This 120-page issue will have a three-color cover, which we already have, and some 20 pages in color. "This 120-page issue," he went on, "will feature a lead short novel, in the swords-and-Sorcery tradition." Next year, the Science Fiction Club is planning four issues, each 120 pages long and with color.&#13;
+Other editors of the magazine are Marshall Schwartz, Associate Editor; Allan Levy, Technical Editor; and Robert Mattson, Art Editor.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3168">
+                <text>Science Fiction Club's "Golana" Is Scheduled For Issue This Month continued</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3169">
+                <text>Gil Wachsman</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3170">
+                <text>Polytechnic Reporter, Vol. 58, No. 11, Page 5</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3171">
+                <text>February 10, 1966</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3172">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="761" public="1" featured="0">
+    <fileContainer>
+      <file fileId="1055">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/859dffea17d7c21c4742ebdfaeecb4e7.png</src>
+        <authentication>9c169cf567801423896744e0e6e84141</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4940">
+                <text>Across</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4941">
+                <text>John Hildebidle</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="4942">
+                <text>https://www.terrain.org/poetry/11/hildebidle.htm</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="4943">
+                <text>Terrain.org</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="4944">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="420" public="1" featured="0">
+    <fileContainer>
+      <file fileId="640">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/5529b7e4821c47291c66b9b1d2f82578.jpg</src>
+        <authentication>508da29aa1778198e8ea65cca0494414</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3085">
+              <text>Feature Guest Speaker At Science Fiction Club: Famed Frederik Pohl&#13;
+Frederik Pohl, famed editor of Galaxy, Science Fiction magazine, will be the featured guest speaker at the Science Fiction Club meeting, Wednesday, November 27, fifth hour. Because of the large number of people expected to come to hear him speak, Room 116 has been engaged for his talk. Mr. Pohl became editor of Galaxy in 1961 when Horace Gold, the founder, retired. He is also editor of Worlds of If and Worlds of Tomorrow.&#13;
+"Mr. Pohl is the first of three speakers to come," said Edward Dong, Vice-President of the Club. No title was given for the speech; this was left to Mr. Pohl.&#13;
+&#13;
+A Prolific Author&#13;
+Mr. Pohl is 43 years old; he has published 43 books. Called "One of the finest satirists of the 20th Century," he first earned his fame, when the book, The Space Merchants, written in collaboration with C. M. Kornbluth, exploded upon the American scene. Other equally good and deservedly famed collaborations have been Search The Sky, The Wonder Effect, Gladiator-at-Law, and Wolfbane. Mr. Pohl has edited the short story anthologies, Beyond Tomorrow and To The End of Time. His short story collections include The Abominable Earthman, Alternating Currents, Turn Left At Thursday, and The Man Who Ate the World. The recently issued Drunkard's Walk is one of his best novels. Slave Ship, another novel, is still available.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3080">
+                <text>Feature Guest Speaker At Science Fiction Club: Famed Frederik Pohl</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3081">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3082">
+                <text>Polytechnic Reporter, Vol. 56</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3083">
+                <text>November 21, 1963&#13;
+</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3084">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="422" public="1" featured="0">
+    <fileContainer>
+      <file fileId="641">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/0960590fa09a0138107aa33fd8160deb.jpg</src>
+        <authentication>fb94c6ddd4db0a19a21675737f4bf267</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3097">
+              <text>Binary Digits&#13;
+In the non-science fiction field, he has published Presidential Year and The Town Is Drowning, both in collaboration with C. M. Kornbluth. Interested in binary digits–he has written two articles on this subject–he currently lives in a three-story house in Red Bank, New Jersey, with his wife, Carol.&#13;
+Currently, the Science Fiction Club is publishing Golana, a 36-page magazine devoted to social science fiction–i. e., stories concerning the impact of technology upon individuals and upon peoples. The covers for the issue have already been made up; Mr. Brian Wrynn, associate secretary of the Club, said of these covers: "Abstract in theme, symbolize man's quest." On the front cover, there is the launching of a rocket, and, on the back, an abstract of man against the universe." The illustrator was William Schloman.&#13;
+Golana's first issue, according to Edward Dong, the Science Fiction Club's Vice-President, will be out about December, 1963. It is dedicated to E. E. Smith, whose Skylark and Lensmen series are famed in the science fiction field. A transcript of Frederik Pohl's talk to the Club will also be published.&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3092">
+                <text>Binary Digits</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3093">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3094">
+                <text>Polytechnic Reporter, Vol. 56</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3095">
+                <text>November 21, 1963</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3096">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="448" public="1" featured="0">
+    <fileContainer>
+      <file fileId="662">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/7c1efd1a60525c1e4aabb143b9397a00.jpg</src>
+        <authentication>e04720777f23f4302d881a9bc56bc7f5</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3239">
+              <text>Freshman Committee To Spur Participation In Student Activities&#13;
+On Tuesday, October 15, during the fourth hour, two dozen freshmen will embark on the first step of the new Freshman Leadership Committee: the organizational meeting. The purpose of the gathering, which will be held in Room 305, is to divide the participating freshmen into work groups and start these committees on their separate projects.&#13;
+Mark Trozzi, Advisor to the Freshmen Committee, when interviewed, stated: "The committee applications have been quite satisfactory and I feel we have a high level sample of Polytechnic freshmen. Their ideas should be a tonic to the 'tired blood' that we currently call Poly's "student spirit." I am also pleased to note the interest of several freshmen coeds in student activities.&#13;
+Nen.&#13;
+All freshmen are requested to look about them and consider some practical suggestions for the improvement of student life at Poly. The Administration has promised to install any reasonable liversion in the lounge or card room. Suggestions may be made either at the Committee meeting or to the Student Council via the Poly mailroom.&#13;
+(Members of the Freshman Committee, who cannot be present at the meeting, should send a copy of their programs to the Student Council, so that another meeting an be scheduled at a time convenient for every one.)&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3234">
+                <text>Freshman Committee To Spur Participation In Student Activities</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3235">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3236">
+                <text>Polytechnic Reporter, Vol. 56, No. 3, Page 1</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3237">
+                <text>October 10, 1963</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3238">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="451" public="1" featured="0">
+    <fileContainer>
+      <file fileId="665">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/53f00d0b0e1463456f145bbf4f4b5b1d.jpg</src>
+        <authentication>c173b057d3c93b039acac749b5c8d66d</authentication>
+      </file>
+    </fileContainer>
+    <collection collectionId="2">
+      <elementSetContainer>
+        <elementSet elementSetId="1">
+          <name>Dublin Core</name>
+          <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+          <elementContainer>
+            <element elementId="50">
+              <name>Title</name>
+              <description>A name given to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2713">
+                  <text>G &amp; P images</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="41">
+              <name>Description</name>
+              <description>An account of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2714">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="39">
+              <name>Creator</name>
+              <description>An entity primarily responsible for making the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2715">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="48">
+              <name>Source</name>
+              <description>A related resource from which the described resource is derived</description>
+              <elementTextContainer>
+                <elementText elementTextId="2716">
+                  <text>Poly Archives</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="37">
+              <name>Contributor</name>
+              <description>An entity responsible for making contributions to the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2717">
+                  <text>Ethan</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="47">
+              <name>Rights</name>
+              <description>Information about rights held in and over the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2718">
+                  <text>Don't Steal please</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="46">
+              <name>Relation</name>
+              <description>A related resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2719">
+                  <text>For use with "Creative Chronicles" Exhibit</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="42">
+              <name>Format</name>
+              <description>The file format, physical medium, or dimensions of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2720">
+                  <text>Photos</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="44">
+              <name>Language</name>
+              <description>A language of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2721">
+                  <text>English</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="51">
+              <name>Type</name>
+              <description>The nature or genre of the resource</description>
+              <elementTextContainer>
+                <elementText elementTextId="2722">
+                  <text>JPG</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+            <element elementId="43">
+              <name>Identifier</name>
+              <description>An unambiguous reference to the resource within a given context</description>
+              <elementTextContainer>
+                <elementText elementTextId="2723">
+                  <text>GOLANA</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </collection>
+    <itemType itemTypeId="1">
+      <name>Text</name>
+      <description>A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.</description>
+      <elementContainer>
+        <element elementId="1">
+          <name>Text</name>
+          <description>Any textual data included in the document</description>
+          <elementTextContainer>
+            <elementText elementTextId="3252">
+              <text>EDITORIAL: Apathy&#13;
+Something is different about Poly this year; the spirit is changing. Apathy, at long last, is dying out.&#13;
+New clubs are springing up like weeds after a spring shower and are destroying the old, familiar, apathetic ways as thoroughly as weeds destroy a garden. Suddenly, Polymen seem to be interested in something else besides the three standbys: grades, money, and sex (not necessarily in that order).&#13;
+Last year, the Football Club and the Automotive Club came into being; the Math Team, organized the previous year, engaged in its first competition; the long-extinct Spring Carnival finally returned to the green cement campus of the Polytechnic, after going through a laborious rebirth.&#13;
+This semester, a chapter of the Illuminating Engineering Society has already been formed; a Joint Publications Council has been set up; an attempt is being made to start a social sciences publication; and Golana is applying for full publication status to the Student Council. Even the Council itself has produced a long-overdue new Constitution and Bylaws.&#13;
+Polymen are also opening up entire new areas. Golana is the only science fiction magazine published by undergraduates in the entire country and, as far as is known, in the entire universe; the Poly student chapter of the Illuminating Engineering Society is the first IES student chapter on the East Coast; and the Interscholastic Math League, to which our Math Team belongs, was also started at the impetus of Polymen.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3247">
+                <text>Editorial: Apathy</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3248">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3249">
+                <text>Polytechnic Reporter, Vol. 59, No. 3, Page 2</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3250">
+                <text>October 6, 1966</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3251">
+                <text>JPG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

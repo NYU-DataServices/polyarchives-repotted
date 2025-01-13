@@ -1,0 +1,64 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/751">
+<dc:title>NYU</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>MeetNYU</dc:source>
+<dc:date>Undated</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/750">
+<dc:title>JP Morgan Chase</dc:title>
+<dc:creator>John Taggart</dc:creator>
+<dc:source>Daily News</dc:source>
+<dc:date>Undated</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/749">
+<dc:title>Ave of Puerto Rico</dc:title>
+<dc:creator>Google Maps</dc:creator>
+<dc:source>Brownstoner</dc:source>
+<dc:date>October 2022</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/748">
+<dc:title>Williamsburg Transformation</dc:title>
+<dc:creator>Mara Catalan, Tony Cenicola</dc:creator>
+<dc:source>The New York Times</dc:source>
+<dc:date>1994/2023</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/747">
+<dc:title>AIR vodka</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Forbes Magazine</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Digital photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/746">
+<dc:title>Offshore Wind Innovation Hub Logo</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Offshore Wind Innovation Hub</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Digital Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/745">
+<dc:title>UNESCO Logo</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>UNESCO</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Digital image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/744">
+<dc:title>Arcadia University Considerations for Name Change List</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/743">
+<dc:title>Arcadia University Logo</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/742">
+<dc:title>Joseph J Jacobs Picture</dc:title>
+<dc:subject>Joseph J Jacobs of the Polytechnic Donor Family: The Jacobs</dc:subject>
+</rdf:Description></rdf:RDF>

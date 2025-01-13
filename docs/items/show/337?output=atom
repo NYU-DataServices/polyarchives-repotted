@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/337?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:14:58+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/337?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/336?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/338?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/337</id>
+    <title><![CDATA[Joga Hayre and father at Polytechnic University Graduation 2001]]></title>
+    <summary><![CDATA[Joga Hayre&#039;s Punjabi-Sikh father helping him fix his graduation gown. This was a photo from the 2001 Polywog in the 2001 Graduation section]]></summary>
+    <updated>2024-04-29T19:31:37+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/337"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/2a2e916367b536304f6477335d6b8cce.jpeg" type="image/jpeg" length="1537531"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/de4f067ecc31227ae99369610d950ef1.jpeg" type="image/jpeg" length="1537531"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Joga Hayre and father at Polytechnic University Graduation 2001</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Joga Hayre&#039;s Punjabi-Sikh father helping him fix his graduation gown. This was a photo from the 2001 Polywog in the 2001 Graduation section</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">2001 Polywog, Poly Archives, NYU Libraries</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polywog 2001, 2001, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 94; Poly Archives at Bern Dibner Library of Science and Technology, New York University. </div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">May 2001 </div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

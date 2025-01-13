@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="313" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/313?output=omeka-xml" accessDate="2025-01-13T20:14:40+00:00">
+  <fileContainer>
+    <file fileId="480">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/50e23f34428b5a8d58d6412b946786ba.png</src>
+      <authentication>4ddec5bd1e84dea4f4fb2db91e5b0c76</authentication>
+    </file>
+    <file fileId="481">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/95223e3409d1973755a68bcdb04c196e.png</src>
+      <authentication>8ca0039f5421bb75bda6e1ca7c040c27</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="7">
+    <name>Website</name>
+    <description>A resource comprising of a web page or web pages and all related assets ( such as images, sound and video files, etc. ).</description>
+    <elementContainer>
+      <element elementId="6">
+        <name>Local URL</name>
+        <description>The URL of the local directory containing all assets of the website</description>
+        <elementTextContainer>
+          <elementText elementTextId="2418">
+            <text>https://nces.ed.gov/pubs93/93442.pdf</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2409">
+              <text>120 Years of American Education: A Statistical Portrait</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2410">
+              <text>Enrollment Data</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2411">
+              <text>Another source that details data and figures of engineering</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2412">
+              <text>Thomas D. Snyder</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="2413">
+              <text>Center for Education Statistics</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="2414">
+              <text>U.S Department of Education</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2415">
+              <text>January 1993</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="47">
+          <name>Rights</name>
+          <description>Information about rights held in and over the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2416">
+              <text>U.S. Department of Education</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2417">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/761">
+<dc:title>Across</dc:title>
+<dc:creator>John Hildebidle</dc:creator>
+<dc:source>https://www.terrain.org/poetry/11/hildebidle.htm</dc:source>
+<dc:publisher>Terrain.org</dc:publisher>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/760">
+<dc:title>Table Comparing pre-test and post-test scenario scores</dc:title>
+<dc:source>Davis, K. A., Joshi, S. S., Czerwionka, L., Montalvo, F., Rios-Rojas, G. O., Tort, J., William, J. M., &amp; Nauman, E. (2021). Integrating the humanities with engineering through a global case study course. “Integrating the Humanities with Engineering - Case Study Course” by Kirsten A. Davis, Siddhant S. Joshi et al. https://digitalcommons.uri.edu/jiee/vol3/iss1/4/?utm_source=digitalcommons.uri.edu%2Fjiee%2Fvol3%2Fiss1%2F4&amp;utm_medium=PDF&amp;utm_campaign=PDFCoverPages</dc:source>
+<dc:publisher>DigitalCommons@URI</dc:publisher>
+<dc:date>2021</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/568">
+<dc:title>Space</dc:title>
+<dc:source>Series VI: Golana, Spring 1970; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Spring 1970</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/567">
+<dc:title>Dance of the Green Moon</dc:title>
+<dc:source>Series VI: Golana, Spring 1968; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Spring 1968</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/566">
+<dc:title>Hunger&#039;s Cord</dc:title>
+<dc:source>Series VI: Golana, Fall 1967; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Fall 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/565">
+<dc:title>Flower</dc:title>
+<dc:source>Series VI: Golana, Fall 1967; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Fall 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/564">
+<dc:title>Another Scene from Tolkien&#039;s Middle Earth (2/2)</dc:title>
+<dc:creator>Robert Mattson</dc:creator>
+<dc:source>Series VI: Golana, Fall 1967; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Fall 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/563">
+<dc:title>Another Scene from Tolkien&#039;s Middle Earth (1/2)</dc:title>
+<dc:creator>Robert Mattson</dc:creator>
+<dc:source>Series VI: Golana, Fall 1967; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Fall 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/562">
+<dc:title>Scene from Tolkien&#039;s Middle Earth</dc:title>
+<dc:creator>Robert Mattson</dc:creator>
+<dc:source>Series VI: Golana, Winter 1966; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Winter 1966</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/561">
+<dc:title>Incident</dc:title>
+<dc:source>Series VI: Golana, December 1965; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>December/January 1965/1966</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

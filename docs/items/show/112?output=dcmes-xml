@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/112">
+<dc:title>1958 Thinklish Advertisement</dc:title>
+<dc:subject>1958 Thinklish Advertisement</dc:subject>
+<dc:description>1958 Thinklish Advertisement</dc:description>
+<dc:creator>Polytechnic Reporter 1958-1959</dc:creator>
+<dc:source>Polytechnic Reporter 1958-1959</dc:source>
+<dc:publisher>Polytechnic Reporter 1958-1959</dc:publisher>
+<dc:date>1958</dc:date>
+<dc:contributor>Polytechnic Reporter</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>Physical Object</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/12">
+<dc:title>William R. Allen&#039;s letter to Polytechnic faculty on civil unrest</dc:title>
+<dc:creator>William R. Allen</dc:creator>
+<dc:source>Poly Archive</dc:source>
+<dc:date>May 13, 1970</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description></rdf:RDF>

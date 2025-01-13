@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="291" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/291?output=omeka-xml" accessDate="2025-01-13T20:14:37+00:00">
+  <fileContainer>
+    <file fileId="457">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/98f900f22a30001931097c495c9b45a9.pdf</src>
+      <authentication>e5834976e6b5a134e89f27b21f227e6a</authentication>
+      <elementSetContainer>
+        <elementSet elementSetId="4">
+          <name>PDF Text</name>
+          <description/>
+          <elementContainer>
+            <element elementId="52">
+              <name>Text</name>
+              <description/>
+              <elementTextContainer>
+                <elementText elementTextId="2279">
+                  <text>https://www.nytimes.com/2010/04/22/nyregion/22yards.html
+
+$3 Million Deal Ends a Holdout in Brooklyn
+By Charles V. Bagli
+April 21, 2010
+
+For the past six years, Daniel Goldstein has been at the center of just about every rally, house party,
+concert and lawsuit opposed to the $4.9 billion Atlantic Yards project near Downtown Brooklyn.
+He wielded a bullhorn and had a lightning-fast e-mail response to every incursion by the developer
+Bruce C. Ratner on the 22-acre project site at Atlantic and Flatbush Avenues. As the project
+advanced, and every one his neighbors abandoned his building on Pacific Street, Mr. Goldstein
+remained with his wife and child, vowing never to be dislodged from their seventh-floor
+condominium.
+But on Wednesday afternoon, Mr. Goldstein, the last residential holdout in Mr. Ratner’s way, agreed to
+walk away from his apartment by May 7 for $3 million. Mr. Goldstein, 40, also agreed to step down as
+spokesman for Develop Don’t Destroy Brooklyn, the main group opposing Atlantic Yards. And he said
+he would withdraw from any litigation and not “actively oppose the project,” although he said he held
+on to his First Amendment rights.
+“There’s no end to the criticism and opposition to the project,” Mr. Goldstein vowed.
+Still, the settlement marked the end of a David-versus-Goliath fight that has captivated Brooklyn for
+years — or, depending on one’s position on the issue, thwarted its progress. Councilwoman Letitia
+James, a longtime ally of Mr. Goldstein’s, said that some opponents of Atlantic Yards “will obviously
+be disappointed, but not dissuaded” from fighting the project.
+Mr. Ratner, the chief executive of Forest City Ratner, was elated. The developer has started work on a
+$1 billion basketball arena for the Nets, the centerpiece of Atlantic Yards, and has the right to build 16
+towers with up to 6,000 apartments, office space and a hotel. At least 30 percent of the units are for
+tenants with moderate or middle incomes.
+“Forest City Ratner has from the start worked very hard to compensate and to assist residents who
+owned or rented homes in the footprint,” said Joe DePlasco, a spokesman for Forest City. “They made
+that commitment at the start of the project over six years ago and today are very pleased that as
+construction is in full force they were able to accomplish that goal.”
+Bertha Lewis, a housing advocate who supported the project, bid Mr. Goldstein “good riddance.”
+“Low- and moderate-income people had to wait years for housing while he obstructed the Atlantic
+Yards project,” she said.
+
+�Forest City announced on Tuesday that it had reached agreements with the seven other remaining
+families or businesses at the site. Renters were given the option of moving into a building at Atlantic
+Yards when it opened (with the developer covering the difference in rent during the interim) or
+taking a lump sum payment that averaged $80,000, plus $5,000 for relocation.
+
+As part of the settlement, Daniel
+Goldstein, a founder of Develop Don’t
+Destroy Brooklyn, agreed to vacate his
+apartment by May 7 and not to “actively
+oppose the project.”
+
+Acknowledging the inevitability of eviction, the manager of Freddy’s Bar, a favorite watering hole for
+opponents of the project, announced this week that the tavern would close at the end of the month.
+Patrons had vowed to chain themselves to the bar, but the manager, Donald O’Finn, told reporters
+that he had grown tired of the uncertainty over the saloon’s future. Freddy’s Bar has found a new
+home on Fourth Avenue, near Union Street.
+In 2004, Mr. Goldstein, a Web designer, helped found Develop Don’t Destroy Brooklyn, one of the most
+creative and resilient community activist groups in the city. It raised hundreds of thousands of dollars
+from 5,000 donors. Mr. Goldstein helped build a coalition of 21 groups that said the project’s high-rises
+and density would overwhelm the neighborhood and make its clogged streets virtually impassable.
+Although the group’s lawsuits have proved futile, Develop Don’t Destroy was able to delay Atlantic
+Yards for three years after the project gained initial government approval in 2006.
+After courts upheld the state’s right to use eminent domain on behalf of Forest City, Mr. Goldstein,
+who bought his apartment for $590,000 in 2003, was offered $510,000.
+On Wednesday, both sides went before Justice Abraham G. Gerges, who urged them to come to terms.
+According to an executive who was briefed on the negotiations but was not authorized to discuss it
+publicly, Mr. Goldstein initially sought $5 million. Mr. Goldstein denied that.
+The developer, in turn, wanted to prohibit Mr. Goldstein from talking about the project. In the end, Mr.
+Goldstein agreed not to file any lawsuits or to initiate any protests, but retained the right to attend
+events and to keep criticizing Atlantic Yards.
+Although Forest City — which was the development partner of The New York Times in its Midtown
+Manhattan headquarters — could have waited for a ruling that might have netted Mr. Goldstein far
+less, removing him from the site allows the developer to move forward with demolition and
+construction. The developer is paying $6.7 million a month in finance and other overhead costs,
+according to court filings.
+
+�Mr. Goldstein said that a “big chunk” of the money would go to his lawyers. Michael Galinsky, a
+filmmaker who is making a documentary about Mr. Goldstein and Atlantic Yards, said it would have
+been “irresponsible” not to have settled. “It was either move out in two weeks or move out in two
+months and take what the state offered,” he said.
+A bartender at Freddy’s, Mike Sternfeld, said that under the circumstances, it would be difficult to
+criticize Mr. Goldstein. “He’s given up everything to do this over the last six or seven years,” Mr.
+Sternfeld said. “He has no block left. He has a family to look out for.”
+
+�</text>
+                </elementText>
+              </elementTextContainer>
+            </element>
+          </elementContainer>
+        </elementSet>
+      </elementSetContainer>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2280">
+              <text>$3 Million Deal Ends a Holdout in Brooklyn&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2281">
+              <text>Charles V. Bagli</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="2282">
+              <text>New York Times</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2283">
+              <text>April 21, 2010</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

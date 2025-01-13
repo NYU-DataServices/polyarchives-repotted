@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="161" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/judith-bregman/item/161?output=omeka-xml" accessDate="2025-01-13T20:20:22+00:00">
+  <fileContainer>
+    <file fileId="215">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f47e8c7630d7b1a72b0fee47019f0c0b.jpeg</src>
+      <authentication>bb533a7e5c6aa19dac4f809d5a1fcf22</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+    <elementContainer>
+      <element elementId="7">
+        <name>Original Format</name>
+        <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+        <elementTextContainer>
+          <elementText elementTextId="1377">
+            <text>Print</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+      <element elementId="10">
+        <name>Physical Dimensions</name>
+        <description>The actual physical size of the original image</description>
+        <elementTextContainer>
+          <elementText elementTextId="1378">
+            <text>Roughly 8.5 inches x 11 inches</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1368">
+              <text>Professional History</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1369">
+              <text>Judith Bregman's professional history.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1370">
+              <text>Polytechnic Institute of Brooklyn</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="1371">
+              <text>Curriculum Vitae</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="1372">
+              <text>Polytechnic</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1373">
+              <text>November 1971</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1374">
+              <text>Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1375">
+              <text>English </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="51">
+          <name>Type</name>
+          <description>The nature or genre of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1376">
+              <text>Professional Records</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="27">
+      <name>Judith Bregman</name>
+    </tag>
+  </tagContainer>
+</item>

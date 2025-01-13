@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/177">
+<dc:title>Chandrika Tandon</dc:title>
+<dc:creator>NYU Tandon School of Engineering</dc:creator>
+<dc:source>NYU Tandon School of Engineering (https://engineering.nyu.edu/board-member/chandrika-tandon)</dc:source>
+<dc:publisher>NYU Tandon School of Engineering</dc:publisher>
+<dc:date>2015</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description></rdf:RDF>

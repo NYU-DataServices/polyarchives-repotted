@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="439" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/439?output=omeka-xml" accessDate="2025-01-13T20:15:03+00:00">
+  <fileContainer>
+    <file fileId="653">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/539101dcc739bfc8e8491bc510fab6c8.png</src>
+      <authentication>edadfe52f086cbadcf26df7591d723df</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+    <elementContainer>
+      <element elementId="7">
+        <name>Original Format</name>
+        <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+        <elementTextContainer>
+          <elementText elementTextId="3185">
+            <text>Paper Photo (Yearbook Picture)&#13;
+</text>
+          </elementText>
+        </elementTextContainer>
+      </element>
+    </elementContainer>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3180">
+              <text>South Asian Students Association (2003)&#13;
+&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3181">
+              <text>2003 Polywog, Poly Archives, NYU Libraries</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="3182">
+              <text>Polywog 2003, 2003, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 95; Poly Archives at Bern Dibner Library of Science and Technology, New York University.&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3183">
+              <text>2003</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3184">
+              <text>Photograph (.jpg)&#13;
+&#13;
+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

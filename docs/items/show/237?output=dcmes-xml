@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/237">
+<dc:title>NYU Tandon Admission 2021, Criteria, Application Deadlines Highlights</dc:title>
+<dc:subject>CollegeDunia</dc:subject>
+<dc:creator>CollegeDunia</dc:creator>
+<dc:source>https://collegedunia.com/usa/college/3583-new-york-university-tandon-school-of-engineering-brooklyn/admission</dc:source>
+<dc:date>November 26, 2021</dc:date>
+<dc:format>website</dc:format>
+</rdf:Description></rdf:RDF>

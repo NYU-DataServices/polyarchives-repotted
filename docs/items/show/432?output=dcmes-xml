@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/432">
+<dc:title>South Asian Students Association (2001)</dc:title>
+<dc:creator>2001 Polywog, Poly Archives, NYU Libraries
+
+</dc:creator>
+<dc:source>Polywog 2001, 2001, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 94; Poly Archives at Bern Dibner Library of Science and Technology, New York University. 
+</dc:source>
+<dc:date>2001</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description></rdf:RDF>

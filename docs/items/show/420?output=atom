@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/420?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:42+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/420?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/419?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/421?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/420</id>
+    <title><![CDATA[Feature Guest Speaker At Science Fiction Club: Famed Frederik Pohl]]></title>
+    <updated>2024-04-01T22:57:43+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/420"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/5529b7e4821c47291c66b9b1d2f82578.jpg" type="image/jpeg" length="514059"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Feature Guest Speaker At Science Fiction Club: Famed Frederik Pohl</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Reporter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 56</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">November 21, 1963<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">Feature Guest Speaker At Science Fiction Club: Famed Frederik Pohl<br />
+Frederik Pohl, famed editor of Galaxy, Science Fiction magazine, will be the featured guest speaker at the Science Fiction Club meeting, Wednesday, November 27, fifth hour. Because of the large number of people expected to come to hear him speak, Room 116 has been engaged for his talk. Mr. Pohl became editor of Galaxy in 1961 when Horace Gold, the founder, retired. He is also editor of Worlds of If and Worlds of Tomorrow.<br />
+&quot;Mr. Pohl is the first of three speakers to come,&quot; said Edward Dong, Vice-President of the Club. No title was given for the speech; this was left to Mr. Pohl.<br />
+<br />
+A Prolific Author<br />
+Mr. Pohl is 43 years old; he has published 43 books. Called &quot;One of the finest satirists of the 20th Century,&quot; he first earned his fame, when the book, The Space Merchants, written in collaboration with C. M. Kornbluth, exploded upon the American scene. Other equally good and deservedly famed collaborations have been Search The Sky, The Wonder Effect, Gladiator-at-Law, and Wolfbane. Mr. Pohl has edited the short story anthologies, Beyond Tomorrow and To The End of Time. His short story collections include The Abominable Earthman, Alternating Currents, Turn Left At Thursday, and The Man Who Ate the World. The recently issued Drunkard&#039;s Walk is one of his best novels. Slave Ship, another novel, is still available.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

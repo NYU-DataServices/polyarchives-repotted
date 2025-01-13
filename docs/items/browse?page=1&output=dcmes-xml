@@ -1,0 +1,75 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/761">
+<dc:title>Across</dc:title>
+<dc:creator>John Hildebidle</dc:creator>
+<dc:source>https://www.terrain.org/poetry/11/hildebidle.htm</dc:source>
+<dc:publisher>Terrain.org</dc:publisher>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/760">
+<dc:title>Table Comparing pre-test and post-test scenario scores</dc:title>
+<dc:source>Davis, K. A., Joshi, S. S., Czerwionka, L., Montalvo, F., Rios-Rojas, G. O., Tort, J., William, J. M., &amp; Nauman, E. (2021). Integrating the humanities with engineering through a global case study course. “Integrating the Humanities with Engineering - Case Study Course” by Kirsten A. Davis, Siddhant S. Joshi et al. https://digitalcommons.uri.edu/jiee/vol3/iss1/4/?utm_source=digitalcommons.uri.edu%2Fjiee%2Fvol3%2Fiss1%2F4&amp;utm_medium=PDF&amp;utm_campaign=PDFCoverPages</dc:source>
+<dc:publisher>DigitalCommons@URI</dc:publisher>
+<dc:date>2021</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/759">
+<dc:title>Baptism Wade in the Water</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Wikimedia Commons</dc:source>
+<dc:date>20th century</dc:date>
+<dc:format>Postcard</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/758">
+<dc:title>Hush Harbors </dc:title>
+<dc:creator> Sol Eytinge, Jr</dc:creator>
+<dc:source>Library of Congress </dc:source>
+<dc:date>1872</dc:date>
+<dc:format>Wood Engraving and Illustration</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/757">
+<dc:title>Harriet Beecher Stowe</dc:title>
+<dc:creator>Hulton-Deutsch Collection/Getty Images</dc:creator>
+<dc:source>History</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/756">
+<dc:title>Harriet Tubman</dc:title>
+<dc:creator>Library of Congress</dc:creator>
+<dc:source>National Park Service</dc:source>
+<dc:date>1868</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/755">
+<dc:title>Frederick Douglass</dc:title>
+<dc:creator>National Park Service</dc:creator>
+<dc:source>National Park Service</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/754">
+<dc:title>Illustration of slaves fleeing from Maryland to Delaware</dc:title>
+<dc:creator>Ann Ronan Pictures, Getty Images</dc:creator>
+<dc:source>Newsweek</dc:source>
+<dc:date>1850/1851</dc:date>
+<dc:format>Illustration</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/753">
+<dc:title>Journey of a slave from the plantation to the battlefield</dc:title>
+<dc:creator>H.L. Stephens</dc:creator>
+<dc:source>Library of Congress </dc:source>
+<dc:date>1863</dc:date>
+<dc:format>Cards</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/752">
+<dc:title>Underground Railroad Map U.S. National Park Service</dc:title>
+<dc:creator>National Park Service</dc:creator>
+<dc:source>National Park Service Website</dc:source>
+<dc:date>2022</dc:date>
+<dc:format>Map</dc:format>
+</rdf:Description></rdf:RDF>

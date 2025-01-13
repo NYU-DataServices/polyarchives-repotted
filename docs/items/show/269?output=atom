@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/269?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:15:55+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/269?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/268?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/270?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/269</id>
+    <title><![CDATA[NYC in Chaos]]></title>
+    <summary><![CDATA[New York City in the late 1970s was plagued by severe economic and political troubles unlike any the city&#039;s inhabitants had experienced before. Faced with economic stagnation, industrial decline, and the looming threat of bankruptcy, the City of New York responded by laying off city workers and cutting municipal services such as sanitation and after-school programs. The city&#039;s already high unemployment rates got higher, and many middle class families — more than 820,000 people — fled to the suburbs in a movement known as white flight, desperate for jobs.]]></summary>
+    <updated>2022-05-09T10:01:21+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/269"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/53b5a4e12671bb7fd81a7f92b09b0cda.png" type="image/png" length="188638"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/456703d06ef8ea877e87cd72b80e834a.png" type="image/png" length="232789"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/981a8bd0ae194a974d830de7a546083e.png" type="image/png" length="245857"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/055b0e82dd0356b36987e0121cb8f8b3.png" type="image/png" length="182440"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/e499b988a8cdb8b883238a685a29b044.png" type="image/png" length="272196"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYC in Chaos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">NYC in Chaos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">New York City in the late 1970s was plagued by severe economic and political troubles unlike any the city&#039;s inhabitants had experienced before. Faced with economic stagnation, industrial decline, and the looming threat of bankruptcy, the City of New York responded by laying off city workers and cutting municipal services such as sanitation and after-school programs. The city&#039;s already high unemployment rates got higher, and many middle class families — more than 820,000 people — fled to the suburbs in a movement known as white flight, desperate for jobs.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Public Broadcasting Service</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">NYC in Chaos</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Journal Article</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

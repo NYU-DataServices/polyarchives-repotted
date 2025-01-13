@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/335">
+<dc:title>Fire Set by the Brooklyn Polytechnic Institute to Test Wires and Insulation in New York City</dc:title>
+<dc:description>Photograph of the 1974 fire test in Bushwick, Brooklyn. Image downloaded from https://fire.engineering.nyu.edu/home/gallery.html. Corrected title taken from the National Archives EPA DOCUMERICA series, https://catalog.archives.gov/id/555917.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:source>NYU Fire Research Group, https://fire.engineering.nyu.edu/home/gallery.html</dc:source>
+<dc:date>June 1974</dc:date>
+<dc:format>photograph</dc:format>
+</rdf:Description></rdf:RDF>

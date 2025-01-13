@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="287" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/287?output=omeka-xml" accessDate="2025-01-13T20:15:43+00:00">
+  <fileContainer>
+    <file fileId="450">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/c3d16e8d630ca871d15f91cf4b1d42a7.png</src>
+      <authentication>100c5f7f936be0ab96d532de477567ac</authentication>
+    </file>
+    <file fileId="451">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/34aeec448829b96d2d9def1091d9ee02.png</src>
+      <authentication>7845108fc58d5e41cf24cd5d56c1a1d9</authentication>
+    </file>
+    <file fileId="452">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/9e1ee3179751e40989f05e50aa3eca0e.png</src>
+      <authentication>78cf0e9238a166e73cf8b92c53deee97</authentication>
+    </file>
+    <file fileId="453">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/b89b8b510c0478419651cc8a9da23194.png</src>
+      <authentication>cdd1524460e0050d6ab0b3b75411cde9</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="6">
+    <name>Still Image</name>
+    <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2255">
+              <text>Zoom Statistics</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2256">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2257">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2258">
+              <text>Iqbal, Mansoor</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="2259">
+              <text>https://www.businessofapps.com/data/zoom-statistics/</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="2260">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2261">
+              <text>May 4 2022</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="37">
+          <name>Contributor</name>
+          <description>An entity responsible for making contributions to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2262">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="47">
+          <name>Rights</name>
+          <description>Information about rights held in and over the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2263">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="46">
+          <name>Relation</name>
+          <description>A related resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2264">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2265">
+              <text>Digital Image</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2266">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="51">
+          <name>Type</name>
+          <description>The nature or genre of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2267">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="43">
+          <name>Identifier</name>
+          <description>An unambiguous reference to the resource within a given context</description>
+          <elementTextContainer>
+            <elementText elementTextId="2268">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="38">
+          <name>Coverage</name>
+          <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+          <elementTextContainer>
+            <elementText elementTextId="2269">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

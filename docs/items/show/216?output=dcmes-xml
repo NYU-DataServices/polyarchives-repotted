@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/216">
+<dc:title>Library, New York University</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Detroit Publishing Company photograph collection (Library of Congress)</dc:source>
+<dc:publisher>Detroit Publishing Co., publisher</dc:publisher>
+<dc:date>1907</dc:date>
+<dc:contributor>Detroit Publishing Co., copyright claimant</dc:contributor>
+<dc:type>image</dc:type>
+</rdf:Description></rdf:RDF>

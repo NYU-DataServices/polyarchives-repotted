@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/633?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:22:06+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/633?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/632?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/635?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/633</id>
+    <title><![CDATA[engineer.nyu.edu mainpage at 2013.11.18, 2014.1.2, 2014.1.23]]></title>
+    <updated>2024-04-23T02:45:22+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/633"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/54eb7b1f2a6fe1292812f54a53951fd9.png" type="image/png" length="255884"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/ae656ec725f52c392d64415f72e4ff2e.png" type="image/png" length="190533"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/10ccce34d048659ce6c191e82ff61f5c.png" type="image/png" length="474348"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">engineer.nyu.edu mainpage at 2013.11.18, 2014.1.2, 2014.1.23</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Wayback Machine/Polytechnic&#039;s web team</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://web.archive.org/web/20131118075504/http://engineering.nyu.edu/</div>
+                    <div class="element-text">https://web.archive.org/web/20140102192309/http://engineering.nyu.edu/</div>
+                    <div class="element-text">https://web.archive.org/web/20140123005922/http://engineering.nyu.edu/</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">2013.11.18, 2014.1.2, 2014.1.23</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">png</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

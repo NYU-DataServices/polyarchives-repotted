@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="650" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/650?output=omeka-xml" accessDate="2025-01-13T20:16:41+00:00">
+  <fileContainer>
+    <file fileId="914">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f87a9a0806c003e067e4be30aaa156bf.png</src>
+      <authentication>1d23831e0ce798fa5eaf014511c051c2</authentication>
+    </file>
+    <file fileId="915">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/998a0564a756b70460badd920823f266.png</src>
+      <authentication>fb7e72fe31e1408cc76139f5efdd520b</authentication>
+    </file>
+    <file fileId="916">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/1d58b230590cf2128aa9f76a0c8ac30f.png</src>
+      <authentication>80a0fcd1bc30d371674690fd91537b32</authentication>
+    </file>
+    <file fileId="917">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/9ad05bf36b1c0d8d31dc27c5686d43a1.png</src>
+      <authentication>9dcfa59e58178098be5e1b1c9c623a67</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4325">
+              <text>Polytechnic's website change during merger</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4326">
+              <text>Wayback Machine/Polytechnic's web team</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="4327">
+              <text>https://web.archive.org/web/20071018032528/http://www.poly.edu/mergercentral/</text>
+            </elementText>
+            <elementText elementTextId="4328">
+              <text>https://web.archive.org/web/20070824152054/http://www.poly.edu/</text>
+            </elementText>
+            <elementText elementTextId="4329">
+              <text>https://web.archive.org/web/20080916005432/http://www.poly.edu/</text>
+            </elementText>
+            <elementText elementTextId="4334">
+              <text>https://web.archive.org/web/20151006160845/http://engineering.nyu.edu/</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4330">
+              <text>2007.10.18</text>
+            </elementText>
+            <elementText elementTextId="4331">
+              <text>2007.8.24</text>
+            </elementText>
+            <elementText elementTextId="4332">
+              <text>2008.9.16</text>
+            </elementText>
+            <elementText elementTextId="4335">
+              <text>2015.10.06</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4333">
+              <text>png</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

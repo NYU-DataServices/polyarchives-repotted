@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/748">
+<dc:title>Williamsburg Transformation</dc:title>
+<dc:creator>Mara Catalan, Tony Cenicola</dc:creator>
+<dc:source>The New York Times</dc:source>
+<dc:date>1994/2023</dc:date>
+<dc:format>PNG</dc:format>
+</rdf:Description></rdf:RDF>

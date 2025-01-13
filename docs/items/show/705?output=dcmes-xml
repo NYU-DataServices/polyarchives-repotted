@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/705">
+<dc:title>References</dc:title>
+<dc:description>1. NYU Tandon School of Engineering. (2016, September 22). From microwaves to millimeter waves. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/microwaves-millimeter-waves
+2. NYU Tandon School of Engineering. (n.d.). NYU Tandon goes to space. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/nyu-tandon-goes-space
+3. NYU Tandon School of Engineering. (2011, February 18). Mourning George Bugliarello: Scholar, President Emeritus of Polytechnic Institute of New York University and &quot;Mastermind&quot; of MetroTech Center. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/mourning-george-bugliarello-scholar-president-emeritus-polytechnic-institute-new-york
+4.Wikipedia contributors. (2023, May 21). Brooklyn Commons. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/Brooklyn_Commons
+5. NYU Tandon School of Engineering. (n.d.). Engineering and entrepreneurship. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/engineering-and-entrepreneurship
+6. Karamouz, M. (2014). The legacy of George Bugliarello: A review of his vision and contributions. In Livable Cities of the Future: Proceedings of a Symposium Honoring the Legacy of George Bugliarello (pp. 1-160). Washington, DC: The National Academies Press. https://doi.org/10.17226/18671
+7. Wikipedia contributors. (2024, May 5). New York University Tandon School of Engineering. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering.</dc:description>
+</rdf:Description></rdf:RDF>

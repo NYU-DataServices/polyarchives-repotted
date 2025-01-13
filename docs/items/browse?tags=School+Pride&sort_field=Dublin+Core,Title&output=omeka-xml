@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/browse?tags=School+Pride&amp;sort_field=Dublin+Core%2CTitle&amp;output=omeka-xml" accessDate="2025-01-13T20:12:53+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>1</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="478" public="1" featured="0">
+    <fileContainer>
+      <file fileId="697">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/242c2b8ded4231893084f434c6cf2508.pdf</src>
+        <authentication>583ac16ccbf07803de485641476bebd6</authentication>
+      </file>
+      <file fileId="1007">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/7a1f5c8414f052d3fe411163d28dde17.png</src>
+        <authentication>50064dd804719f92ca67a34d49312a24</authentication>
+      </file>
+      <file fileId="1008">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/62814ba8b3fb365e31df6da76d0bc57b.png</src>
+        <authentication>9f4367df61b898f671e2fbe891cc3710</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="3409">
+              <text>Book</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="3410">
+              <text>height 15 cm, width 10 cm</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3397">
+                <text>The Poly Engineer Song</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3398">
+                <text>Praising the school, showing school pride</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3399">
+                <text>The lycris of a song</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3400">
+                <text>The Student Council of the Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3401">
+                <text>The Polyfax of the Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="3402">
+                <text>The Student Council of the Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3403">
+                <text>unknown, presumed to be 1960-1970</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3404">
+                <text>The Student Council of the Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3405">
+                <text>Book</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3406">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="38">
+            <name>Coverage</name>
+            <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+            <elementTextContainer>
+              <elementText elementTextId="3407">
+                <text>School pride</text>
+              </elementText>
+              <elementText elementTextId="3408">
+                <text>Student's life</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="51">
+        <name>School Pride</name>
+      </tag>
+      <tag tagId="52">
+        <name>Student Handbook</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

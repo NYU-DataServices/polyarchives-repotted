@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/760">
+<dc:title>Table Comparing pre-test and post-test scenario scores</dc:title>
+<dc:source>Davis, K. A., Joshi, S. S., Czerwionka, L., Montalvo, F., Rios-Rojas, G. O., Tort, J., William, J. M., &amp; Nauman, E. (2021). Integrating the humanities with engineering through a global case study course. “Integrating the Humanities with Engineering - Case Study Course” by Kirsten A. Davis, Siddhant S. Joshi et al. https://digitalcommons.uri.edu/jiee/vol3/iss1/4/?utm_source=digitalcommons.uri.edu%2Fjiee%2Fvol3%2Fiss1%2F4&amp;utm_medium=PDF&amp;utm_campaign=PDFCoverPages</dc:source>
+<dc:publisher>DigitalCommons@URI</dc:publisher>
+<dc:date>2021</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

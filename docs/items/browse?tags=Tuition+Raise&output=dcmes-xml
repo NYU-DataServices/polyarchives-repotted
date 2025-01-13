@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/520">
+<dc:title>Tuition Raise</dc:title>
+<dc:creator>The board of Polytechnic Institute of Brooklyn</dc:creator>
+<dc:source>Polytechnic Institute of Brooklyn Corporation Minutes N0.9</dc:source>
+<dc:date>1970 to 1973</dc:date>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/719">
+<dc:title>Women&#039;s Lib Article from Polytechnic Reporter in 1974</dc:title>
+<dc:creator>Allan Davis</dc:creator>
+<dc:source>RG.025, Shelf 36/3F, volume: 47, The Polytechnic Reporter,  April 25, 1974</dc:source>
+<dc:date>April 25, 1974</dc:date>
+<dc:format>Newspaper</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/602">
+<dc:title>Women&#039;s Lacrosse Team 2008-2009</dc:title>
+<dc:creator>NYU-Poly</dc:creator>
+<dc:source>NYU-Poly Athletics Media Guide</dc:source>
+<dc:date>2008-2009</dc:date>
+<dc:format>Book</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/288">
+<dc:title>Women in Tandon 2022</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/275">
+<dc:title>Women Graduates 1966</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/299">
+<dc:title>Women Enrolment Statistics</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/155">
+<dc:title>Women Engineers and Computers</dc:title>
+<dc:subject>Unknown</dc:subject>
+<dc:description>Unknown</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Unknown</dc:source>
+<dc:publisher>Unknown</dc:publisher>
+<dc:date>Unknown</dc:date>
+<dc:contributor>Unknown</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Digital Image</dc:format>
+<dc:language>Unknown</dc:language>
+<dc:type>Unknown</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/304">
+<dc:title>Women Engineers</dc:title>
+<dc:subject>Women Engineers</dc:subject>
+<dc:description>Photo of women engineers in a factory</dc:description>
+<dc:creator>Historic Environment Scotland Blog</dc:creator>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/115">
+<dc:title>With $50M redevelopment, MetroTech Center will become ‘Brooklyn Commons’</dc:title>
+<dc:subject>Unknown</dc:subject>
+<dc:description>Unknown</dc:description>
+<dc:creator>6sqft</dc:creator>
+<dc:source>Aaron Ginsburg</dc:source>
+<dc:publisher>Unknown</dc:publisher>
+<dc:date>FEBRUARY 8, 2022</dc:date>
+<dc:contributor>Unknown</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Still Image</dc:format>
+<dc:language>Unknown</dc:language>
+<dc:type>Unknown</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/366">
+<dc:title>Wind Tunnel Model of Lower Manhattan</dc:title>
+<dc:creator>Robert J. Cresci</dc:creator>
+<dc:source>Journal of Environmental Systems, 3(3)</dc:source>
+<dc:date>01/01/1973</dc:date>
+<dc:format>image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/615">
+<dc:title>Wind Driven Fire Experiment - Pulsing fire behavior</dc:title>
+<dc:description>Note, this video was published on the YouTube channel of the UL Fire Safety Research Institute, a private underwriting company, not to be confused with the NYU Fire Research Group.</dc:description>
+<dc:creator>UL Fire Safety Research Institute</dc:creator>
+<dc:source>https://www.youtube.com/watch?v=S-NHrXBM56M</dc:source>
+<dc:publisher>YouTube</dc:publisher>
+<dc:date>24 June 2014</dc:date>
+<dc:contributor>National Institute of Standards and Technology
+FDNY
+Brooklyn Poly</dc:contributor>
+<dc:format>mp4 video</dc:format>
+</rdf:Description></rdf:RDF>

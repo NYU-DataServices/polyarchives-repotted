@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/204">
+<dc:title>Quote from the National WWII Museum</dc:title>
+<dc:subject>An article on the formation of the Federation of American Scientists</dc:subject>
+<dc:description>This article explains the motives behind FAS as well as what was going on in the US at the time of it&#039;s formation.</dc:description>
+<dc:creator>National WWII Museum</dc:creator>
+<dc:publisher>National WWII Museum</dc:publisher>
+<dc:date>August 4th, 2021</dc:date>
+<dc:contributor>Quote by: Helen Gahagan Douglas</dc:contributor>
+</rdf:Description></rdf:RDF>

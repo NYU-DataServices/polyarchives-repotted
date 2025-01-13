@@ -1,0 +1,60 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/760">
+<dc:title>Table Comparing pre-test and post-test scenario scores</dc:title>
+<dc:source>Davis, K. A., Joshi, S. S., Czerwionka, L., Montalvo, F., Rios-Rojas, G. O., Tort, J., William, J. M., &amp; Nauman, E. (2021). Integrating the humanities with engineering through a global case study course. “Integrating the Humanities with Engineering - Case Study Course” by Kirsten A. Davis, Siddhant S. Joshi et al. https://digitalcommons.uri.edu/jiee/vol3/iss1/4/?utm_source=digitalcommons.uri.edu%2Fjiee%2Fvol3%2Fiss1%2F4&amp;utm_medium=PDF&amp;utm_campaign=PDFCoverPages</dc:source>
+<dc:publisher>DigitalCommons@URI</dc:publisher>
+<dc:date>2021</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/744">
+<dc:title>Arcadia University Considerations for Name Change List</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/743">
+<dc:title>Arcadia University Logo</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/742">
+<dc:title>Joseph J Jacobs Picture</dc:title>
+<dc:subject>Joseph J Jacobs of the Polytechnic Donor Family: The Jacobs</dc:subject>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/705">
+<dc:title>References</dc:title>
+<dc:description>1. NYU Tandon School of Engineering. (2016, September 22). From microwaves to millimeter waves. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/microwaves-millimeter-waves
+2. NYU Tandon School of Engineering. (n.d.). NYU Tandon goes to space. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/nyu-tandon-goes-space
+3. NYU Tandon School of Engineering. (2011, February 18). Mourning George Bugliarello: Scholar, President Emeritus of Polytechnic Institute of New York University and &quot;Mastermind&quot; of MetroTech Center. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/mourning-george-bugliarello-scholar-president-emeritus-polytechnic-institute-new-york
+4.Wikipedia contributors. (2023, May 21). Brooklyn Commons. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/Brooklyn_Commons
+5. NYU Tandon School of Engineering. (n.d.). Engineering and entrepreneurship. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/engineering-and-entrepreneurship
+6. Karamouz, M. (2014). The legacy of George Bugliarello: A review of his vision and contributions. In Livable Cities of the Future: Proceedings of a Symposium Honoring the Legacy of George Bugliarello (pp. 1-160). Washington, DC: The National Academies Press. https://doi.org/10.17226/18671
+7. Wikipedia contributors. (2024, May 5). New York University Tandon School of Engineering. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering.</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/688">
+<dc:title>NYU-SES and PIB 1973 Merger Agreement</dc:title>
+<dc:subject>Agreement between NYU-SES and PIB</dc:subject>
+<dc:source>Richard Thorsen</dc:source>
+<dc:publisher>NYU </dc:publisher>
+<dc:format>PNG</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/674">
+<dc:title>Linda Jacobs Visit Page</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/568">
+<dc:title>Space</dc:title>
+<dc:source>Series VI: Golana, Spring 1970; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Spring 1970</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/567">
+<dc:title>Dance of the Green Moon</dc:title>
+<dc:source>Series VI: Golana, Spring 1968; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Spring 1968</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/566">
+<dc:title>Hunger&#039;s Cord</dc:title>
+<dc:source>Series VI: Golana, Fall 1967; Poly Archives Serial Publications Collection; RG 030; Box 6; Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:date>Fall 1967</dc:date>
+<dc:type>JPG</dc:type>
+</rdf:Description></rdf:RDF>

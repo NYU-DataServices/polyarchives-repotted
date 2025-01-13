@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/162">
+<dc:title>Photo of X-ray Crystallography</dc:title>
+<dc:subject>Crystallography </dc:subject>
+<dc:description>The famous photograph 51. Raymond Gosling/King&#039;s College London</dc:description>
+<dc:creator>Raymond Gosling</dc:creator>
+<dc:publisher>King&#039;s College London</dc:publisher>
+<dc:date>unknown</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description></rdf:RDF>

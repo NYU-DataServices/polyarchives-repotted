@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/208">
+<dc:title>Physics Today Article</dc:title>
+<dc:subject>Judith Bregman</dc:subject>
+<dc:description>A photo from an article written about Judith&#039;s work and involvement in various committees.</dc:description>
+<dc:creator>Physics Today </dc:creator>
+<dc:publisher>Physics Today</dc:publisher>
+<dc:date>December 1978</dc:date>
+<dc:format>Print</dc:format>
+</rdf:Description></rdf:RDF>

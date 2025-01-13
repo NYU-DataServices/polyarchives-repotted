@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/595?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:22:38+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/595?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/594?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/596?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/595</id>
+    <title><![CDATA[Poly Play Workshop Headlines]]></title>
+    <updated>2024-04-23T01:44:30+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/595"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/cd48d5818704d78b5c8200eed9d3cf09.jpg" type="image/jpeg" length="104193"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/a36c56a2fb52cc6962d068b768503e15.jpg" type="image/jpeg" length="111272"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/e81590dcec7c51df0700e5cdcb4db9b6.jpg" type="image/jpeg" length="74166"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/dcdbe8c3aee5d03cafce04807f12a6f4.jpg" type="image/jpeg" length="69150"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/b43131600b774984b798758f51437fd3.jpg" type="image/jpeg" length="101829"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/1df1fa201328d299f6881c190054cc50.jpg" type="image/jpeg" length="22755"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/f832f460223af0bf45e780ce35b8a122.jpg" type="image/jpeg" length="70072"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/f3fa695fcef4df842225388828899845.jpg" type="image/jpeg" length="114518"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Poly Play Workshop Headlines</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Brooklyn Polytechnic Institute</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter 1922, Volume 10</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">September - December 1922</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Text, Print</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

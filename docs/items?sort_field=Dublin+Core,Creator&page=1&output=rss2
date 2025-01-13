@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items?sort_field=Dublin+Core%2CCreator&amp;page=1&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:23:33 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[370 Jay Street]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/722</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">370 Jay Street</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Albert Vecerka</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Mitchell Giurgola</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">.jpeg</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/19ebc4d94479673cd7592086629cc5db.jpeg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/19ebc4d94479673cd7592086629cc5db.jpg" alt="370 Jay.jpeg" title="370 Jay.jpeg"></a></div>]]></description>
+      <pubDate>Tue, 07 May 2024 16:22:07 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/19ebc4d94479673cd7592086629cc5db.jpg" type="image/jpeg" length="1651357"/>
+    </item>
+    <item>
+      <title><![CDATA[NYU Poly Exterior (2014)]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/684</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">NYU Poly Exterior (2014)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Anthony Noto, Reporter, New York Business Journal</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">New York Business Journal (https://www.bizjournals.com/newyork/news/2015/10/23/for-nyu-school-of-engineering-a-new-funding-round.html)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">2015</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/658ab8761f51581e63808a04c611a371.jpg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/658ab8761f51581e63808a04c611a371.jpg" alt="nyupolyphoto_660xx640-362-0-6.jpg" title="nyupolyphoto_660xx640-362-0-6.jpg"></a></div>]]></description>
+      <pubDate>Mon, 29 Apr 2024 23:08:02 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/658ab8761f51581e63808a04c611a371.jpg" type="image/jpeg" length="53524"/>
+    </item>
+    <item>
+      <title><![CDATA[Brooklyn's Polytech, A Storybook Success]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/217</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Brooklyn&#039;s Polytech, A Storybook Success</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">This is a digitized version of an article from The Times’s print archive, before the start of online publication in 1996. To preserve these articles as they originally appeared, The Times does not alter, edit or update them.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Cynthia Sanz</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">https://www.nytimes.com/1986/01/05/education/brooklyn-s-polytech-a-storybook-success.html</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">NY times</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Jan. 5, 1986</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Newspaper</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/36dea0f630a5ced719ecb46e43aab5ec.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/36dea0f630a5ced719ecb46e43aab5ec.jpg" alt="Brooklyn&#039;s Polytech, A Storybook Success.png" title="Brooklyn&#039;s Polytech, A Storybook Success.png"></a></div>]]></description>
+      <pubDate>Mon, 02 May 2022 15:30:24 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/36dea0f630a5ced719ecb46e43aab5ec.jpg" type="image/png" length="53835"/>
+    </item>
+    <item>
+      <title><![CDATA[Foley Square Plaque]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/649</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Foley Square Plaque </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Larry Gertner</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">The Historical Marker Database</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">January 9th, 2019</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/0573a35064acf854aac81fc3e367e971.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/0573a35064acf854aac81fc3e367e971.jpg" alt="Screenshot 2024-04-22 233336.png" title="Screenshot 2024-04-22 233336.png"></a></div>]]></description>
+      <pubDate>Tue, 23 Apr 2024 06:36:05 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/0573a35064acf854aac81fc3e367e971.jpg" type="image/png" length="1063258"/>
+    </item>
+    <item>
+      <title><![CDATA[Cigarette Advertisement in 1940]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/99</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Cigarette Advertisement in 1940</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Chesterfield cigarette advertisement</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Chesterfield cigarette advertisement in 1940</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Polytechnic Reporter 1940-1941</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter 1940-1941</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic Reporter 1940-1941</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1940</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Jpeg from student newspaper</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Physical Object</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/b91bd7f4b371bf8c9aaa1a2a82427ff1.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/b91bd7f4b371bf8c9aaa1a2a82427ff1.jpg" alt="截屏2022-04-10 下午10.36.45.png" title="截屏2022-04-10 下午10.36.45.png"></a></div>]]></description>
+      <pubDate>Tue, 12 Apr 2022 20:06:39 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/b91bd7f4b371bf8c9aaa1a2a82427ff1.jpg" type="image/png" length="5289143"/>
+    </item>
+    <item>
+      <title><![CDATA[Hush Harbors]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/758</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Hush Harbors </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Sol Eytinge, Jr</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Library of Congress </div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1872</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Wood Engraving and Illustration</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-tiff"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/ac8f38590baa14e59899cdb482c76495.tif"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/ac8f38590baa14e59899cdb482c76495.jpg" alt="master-pnp-cph-3b10000-3b11000-3b11400-3b11478u.tif" title="master-pnp-cph-3b10000-3b11000-3b11400-3b11478u.tif"></a></div>]]></description>
+      <pubDate>Fri, 10 May 2024 04:45:09 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/ac8f38590baa14e59899cdb482c76495.jpg" type="image/tiff" length="1616474"/>
+    </item>
+    <item>
+      <title><![CDATA[Semiresh Bose (1974)]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/402</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Semiresh Bose (1974)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">1974 Polywog, Poly Archives, NYU Libraries<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic University of New York</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1974</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Paper Photo (Yearbook Picture)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/17824af5e9e41bea14f08039d932e5ee.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/17824af5e9e41bea14f08039d932e5ee.jpg" alt="Screen Shot 2024-04-01 at 3.23.33 PM.png" title="Screen Shot 2024-04-01 at 3.23.33 PM.png"></a></div>]]></description>
+      <pubDate>Mon, 01 Apr 2024 19:25:01 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/17824af5e9e41bea14f08039d932e5ee.jpg" type="image/png" length="1928615"/>
+    </item>
+    <item>
+      <title><![CDATA[Joanne Ameen (1974)]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/403</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Joanne Ameen (1974)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">1974 Polywog, Poly Archives, NYU Libraries<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">1974 Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic University of New York</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1974</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Paper Photo (Yearbook Picture)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/d080e3ed0c7e8744d0fc3e20e009657d.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/d080e3ed0c7e8744d0fc3e20e009657d.jpg" alt="Screen Shot 2024-04-01 at 3.27.23 PM.png" title="Screen Shot 2024-04-01 at 3.27.23 PM.png"></a></div>]]></description>
+      <pubDate>Mon, 01 Apr 2024 19:27:41 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/d080e3ed0c7e8744d0fc3e20e009657d.jpg" type="image/png" length="2872768"/>
+    </item>
+    <item>
+      <title><![CDATA[Richard Sinanian (1974)]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/408</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Richard Sinanian (1974)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">1974 Polywog, Poly Archives, NYU Libraries<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic University of New York</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1974</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Paper Photo (Yearbook Picture)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/67d1271b246a2dcf5a29688df01db440.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/67d1271b246a2dcf5a29688df01db440.jpg" alt="Screen Shot 2024-04-01 at 3.50.12 PM.png" title="Screen Shot 2024-04-01 at 3.50.12 PM.png"></a></div>]]></description>
+      <pubDate>Mon, 01 Apr 2024 19:57:12 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/67d1271b246a2dcf5a29688df01db440.jpg" type="image/png" length="2002334"/>
+    </item>
+    <item>
+      <title><![CDATA[Panaj Kadakia (1974)]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/410</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Panaj Kadakia (1974)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">1974 Polywog, Poly Archives, NYU Libraries<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic University of New York</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1974</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Paper Photo (Yearbook Picture)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/30517121d96ba236795f9fe4372ea894.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/30517121d96ba236795f9fe4372ea894.jpg" alt="Screen Shot 2024-04-01 at 3.50.35 PM.png" title="Screen Shot 2024-04-01 at 3.50.35 PM.png"></a></div>]]></description>
+      <pubDate>Mon, 01 Apr 2024 20:01:05 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/30517121d96ba236795f9fe4372ea894.jpg" type="image/png" length="2814803"/>
+    </item>
+  </channel>
+</rss>

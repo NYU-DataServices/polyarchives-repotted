@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/96">
+<dc:title>Incubator Start-up Develops Powerful Software for Bloggers</dc:title>
+<dc:subject>Success of startup with the help of NYU-Poly&#039;s Incubator</dc:subject>
+<dc:description>an article talking about an Incubator Start-up nRelate develops a powerful software for bloggers, and make money through relevant ads</dc:description>
+<dc:creator>Rajinder Singh-Moon</dc:creator>
+<dc:source>The Polytechnic Reporter</dc:source>
+<dc:publisher>The Polytechnic Reporter</dc:publisher>
+<dc:date>September 6, 2011</dc:date>
+<dc:contributor>The Polytechnic Reporter</dc:contributor>
+<dc:rights>The Polytechnic Reporter</dc:rights>
+<dc:relation>unknown</dc:relation>
+<dc:format>physical newspaper</dc:format>
+<dc:language>English</dc:language>
+<dc:type>newspaper</dc:type>
+<dc:identifier>unknown</dc:identifier>
+<dc:coverage>unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

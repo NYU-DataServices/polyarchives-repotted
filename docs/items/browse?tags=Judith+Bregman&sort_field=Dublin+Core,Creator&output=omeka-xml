@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/browse?tags=Judith+Bregman&amp;sort_field=Dublin+Core%2CCreator&amp;output=omeka-xml" accessDate="2025-01-13T20:12:36+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>12</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="207" public="1" featured="0">
+    <fileContainer>
+      <file fileId="311">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/721de14900872d754f3b890bf3908a42.png</src>
+        <authentication>91c042ba6d98849d27db20ae429b1d75</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1674">
+              <text>Text </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1675">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1669">
+                <text>Quote from the ACLU</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1670">
+                <text>ACLU's Mission Statement </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1671">
+                <text>American Civil Liberties Union</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1672">
+                <text>American Civil Liberties Union</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1673">
+                <text>Text</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="116" public="1" featured="0">
+    <fileContainer>
+      <file fileId="164">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/5e25ca5b1344438c08161af11a06b0cc.pdf</src>
+        <authentication>021d5a2712d3f3fef180b6e2e4bdd3b8</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="918">
+              <text>Yearbook, print. </text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="919">
+              <text>Roughly 8.5 inches x 11 inches</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="912">
+                <text>Bryn Mawr College Yearbook - Class of 1942</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="913">
+                <text>A yearbook from one of the colleges Judith Bregman Attended. </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="914">
+                <text>Bryn Mawr College</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="915">
+                <text>Bryn Mawr College Publications, Special Collections</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="916">
+                <text>1942</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="917">
+                <text>PDF</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+      <tag tagId="28">
+        <name>Yearbook</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="163" public="1" featured="0">
+    <fileContainer>
+      <file fileId="217">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/bc689ea3d63a822487701cc5e2cae275.jpeg</src>
+        <authentication>96558ce4fbcc79994aeedb42f86b539f</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1397">
+              <text>Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1398">
+              <text>unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1388">
+                <text>Polytechnic Reporter Headline</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1389">
+                <text>Judith Bregman</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1390">
+                <text>An article about the draft counseling activities that Judith did.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1391">
+                <text>Jerry Bleiberg</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1392">
+                <text>Polytechnic Reporter</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1393">
+                <text>Polytechnic Institute</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1394">
+                <text>October 24, 1968</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1395">
+                <text>Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1396">
+                <text>English </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="204" public="1" featured="0">
+    <fileContainer>
+      <file fileId="308">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/b2d619b4177398e14ab6bf304e96cfd3.jpg</src>
+        <authentication>6430c15b6c7ecd43fdfab254470899f9</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1609">
+              <text>Online Article</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1610">
+              <text>Roughly 300 x 500 pixels</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1602">
+                <text>Quote from the National WWII Museum</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1603">
+                <text>An article on the formation of the Federation of American Scientists</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1604">
+                <text>This article explains the motives behind FAS as well as what was going on in the US at the time of it's formation.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1605">
+                <text>National WWII Museum</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1606">
+                <text>National WWII Museum</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1607">
+                <text>August 4th, 2021</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="37">
+            <name>Contributor</name>
+            <description>An entity responsible for making contributions to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1608">
+                <text>Quote by: Helen Gahagan Douglas</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="208" public="1" featured="0">
+    <fileContainer>
+      <file fileId="313">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/2390a056d402c369ffd09d78ec7e542b.png</src>
+        <authentication>aa1a592e9a2b088e0a7d149e0675f238</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1683">
+              <text>Photograph from a newspaper</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1684">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1676">
+                <text>Physics Today Article</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1677">
+                <text>Judith Bregman</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1678">
+                <text>A photo from an article written about Judith's work and involvement in various committees.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1679">
+                <text>Physics Today </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1680">
+                <text>Physics Today</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1681">
+                <text>December 1978</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1682">
+                <text>Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="161" public="1" featured="0">
+    <fileContainer>
+      <file fileId="215">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/f47e8c7630d7b1a72b0fee47019f0c0b.jpeg</src>
+        <authentication>bb533a7e5c6aa19dac4f809d5a1fcf22</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1377">
+              <text>Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1378">
+              <text>Roughly 8.5 inches x 11 inches</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1368">
+                <text>Professional History</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1369">
+                <text>Judith Bregman's professional history.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1370">
+                <text>Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1371">
+                <text>Curriculum Vitae</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1372">
+                <text>Polytechnic</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1373">
+                <text>November 1971</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1374">
+                <text>Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1375">
+                <text>English </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1376">
+                <text>Professional Records</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="162" public="1" featured="0">
+    <fileContainer>
+      <file fileId="216">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/f2c2000d03633fdd3258d38a8871308f.jpeg</src>
+        <authentication>86cb804c9330e5f7b08ab2b980942414</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1386">
+              <text>Photo</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1387">
+              <text>unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1379">
+                <text>Photo of X-ray Crystallography</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1380">
+                <text>Crystallography </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1381">
+                <text>The famous photograph 51. Raymond Gosling/King's College London</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1382">
+                <text>Raymond Gosling</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1383">
+                <text>King's College London</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1384">
+                <text>unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1385">
+                <text>Photograph</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="205" public="1" featured="0">
+    <fileContainer>
+      <file fileId="309">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/16f7703a36f4fb2b09b594a1b30ad609.jpeg</src>
+        <authentication>e86c3697bfba575abe864dd85baa1fe6</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1617">
+              <text>Photograph</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1618">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1611">
+                <text>Photograph of Scientists</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1612">
+                <text>Scientists from the University of Chicago</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1613">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1614">
+                <text>National WWII Museum</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1615">
+                <text>National WWII Museum</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1616">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="206" public="1" featured="0">
+    <fileContainer>
+      <file fileId="312">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/19de28b833ecbc6b4ccbf8d772427bb0.jpeg</src>
+        <authentication>c863dff7411ce1053ce1cfa027b1c5d0</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="1667">
+              <text>Photograph</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="1668">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1662">
+                <text>United States Supreme Court Building</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1663">
+                <text>A photo of the US Supreme Court Building from ACLU's website</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1664">
+                <text>Unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1665">
+                <text>ACLU.org</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1666">
+                <text>Digital Photograph</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+  <item itemId="117" public="1" featured="0">
+    <fileContainer>
+      <file fileId="165">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/a970ecda657de134edf64ff9f7a70d35.jpg</src>
+        <authentication>938763c112bc8b160eebc340bf8eaa75</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="925">
+              <text>Photograph</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="926">
+              <text>Roughly 5 inches x 11 inches</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="920">
+                <text>Collages of Several Photos</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="921">
+                <text>Judith Bregman</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="922">
+                <text>unknown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="923">
+                <text>JPEG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="924">
+                <text>Biographical Material </text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+    <tagContainer>
+      <tag tagId="27">
+        <name>Judith Bregman</name>
+      </tag>
+    </tagContainer>
+  </item>
+</itemContainer>

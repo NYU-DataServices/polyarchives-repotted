@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="248" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/exhibits/show/a-comparison-of-public-and-pri/item/248?output=omeka-xml" accessDate="2025-01-13T20:19:42+00:00">
+  <fileContainer>
+    <file fileId="362">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/5dde636a141950120bd6c830e4f28683.png</src>
+      <authentication>77822b7db1d850801c7b0bbe26c4e195</authentication>
+    </file>
+    <file fileId="363">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/95b8d2b4748c8e223153a4dcb0b62da8.png</src>
+      <authentication>fc2fb58ddc4b0bd9753163f380a09855</authentication>
+    </file>
+    <file fileId="364">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/d2b186f0a49a3c61b1add170806b7203.png</src>
+      <authentication>25587d18f9b046b17e02776acb6609cb</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1975">
+              <text>USMA Department History</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1976">
+              <text>Edward Holden</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="1977">
+              <text>https://archive.org/details/centennialofunit01unit/page/234/mode/1up?view=theater</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1978">
+              <text>1904</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="1979">
+              <text>Electronic Scan of Book</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

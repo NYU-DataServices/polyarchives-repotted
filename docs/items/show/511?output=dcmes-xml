@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/511">
+<dc:title>Oral History Interview with Abdul Hafeez Muhammad</dc:title>
+<dc:creator>Abdul Hafeez Muhammad</dc:creator>
+<dc:source>Brooklyn Historical Society</dc:source>
+<dc:publisher>Brooklyn Historical Society</dc:publisher>
+<dc:date>2018</dc:date>
+<dc:format>Text and Audio</dc:format>
+</rdf:Description></rdf:RDF>

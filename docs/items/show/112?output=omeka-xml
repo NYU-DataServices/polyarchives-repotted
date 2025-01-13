@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="112" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/112?output=omeka-xml" accessDate="2025-01-13T20:14:47+00:00">
+  <fileContainer>
+    <file fileId="160">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/3af0e7a5f8eae36952780253b331ccfe.png</src>
+      <authentication>a3670fb2656796a2dd9f3a4add652c98</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="15">
+    <name>Physical Object</name>
+    <description>An inanimate, three-dimensional object or substance. Note that digital representations of, or surrogates for, these objects should use Moving Image, Still Image, Text or one of the other types.</description>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="810">
+              <text>1958 Thinklish Advertisement</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="811">
+              <text>1958 Thinklish Advertisement</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="812">
+              <text>1958 Thinklish Advertisement</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="813">
+              <text>Polytechnic Reporter 1958-1959</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="814">
+              <text>Polytechnic Reporter 1958-1959</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="815">
+              <text>Polytechnic Reporter 1958-1959</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="816">
+              <text>1958</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="817">
+              <text>Jpeg from student newspaper</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="37">
+          <name>Contributor</name>
+          <description>An entity responsible for making contributions to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="877">
+              <text>Polytechnic Reporter</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="47">
+          <name>Rights</name>
+          <description>Information about rights held in and over the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="878">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="46">
+          <name>Relation</name>
+          <description>A related resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="879">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="880">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="51">
+          <name>Type</name>
+          <description>The nature or genre of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="881">
+              <text>Physical Object</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="43">
+          <name>Identifier</name>
+          <description>An unambiguous reference to the resource within a given context</description>
+          <elementTextContainer>
+            <elementText elementTextId="882">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="38">
+          <name>Coverage</name>
+          <description>The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant</description>
+          <elementTextContainer>
+            <elementText elementTextId="883">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

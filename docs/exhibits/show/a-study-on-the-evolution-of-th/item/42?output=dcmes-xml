@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/42">
+<dc:title>Janett Rosenberg - Poly&#039;s &#039;Coed&#039;</dc:title>
+<dc:subject>Original Coed at Ease; Feels Accepted Here</dc:subject>
+<dc:description>Article discussing the college life of Janet Rosenburg at Poly. At the time she was the only &#039;coed&#039; student.</dc:description>
+<dc:creator>Polytechnic Reporter</dc:creator>
+<dc:source>Polytechnic Reporter</dc:source>
+<dc:publisher>Polytechnic Reporter</dc:publisher>
+<dc:date>October 15, 1959</dc:date>
+<dc:contributor>Unknown</dc:contributor>
+<dc:rights>unknown</dc:rights>
+<dc:relation>unknown</dc:relation>
+<dc:format>unknown</dc:format>
+<dc:language>unknown</dc:language>
+<dc:type>Text</dc:type>
+<dc:identifier>unknown</dc:identifier>
+<dc:coverage>unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

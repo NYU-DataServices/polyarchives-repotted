@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="655" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/655?output=omeka-xml" accessDate="2025-01-13T20:22:52+00:00">
+  <fileContainer>
+    <file fileId="924">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/2026b6538859254971fc6d5b3c64863e.jpg</src>
+      <authentication>9e7cdc7945aa231d887d997fd441ac09</authentication>
+    </file>
+    <file fileId="925">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/44b270ad14b6ee4c2de5bd34aa5d5e6b.jpg</src>
+      <authentication>ef648b6f4d1ff4b5adbbdfff5b43939f</authentication>
+    </file>
+    <file fileId="926">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/3d7939f505bac5e80be758ecb39e20c0.jpg</src>
+      <authentication>fadd2bfd13a43298d1f411513b81d87b</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4356">
+              <text>Polytechnic Dramatic Association 1912 Staged Cast Photos</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4357">
+              <text>Brooklyn Polytechnic Institute</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="4358">
+              <text>Polytechnic Dramatic Association 1912 Photo Book</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4359">
+              <text>1912</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4360">
+              <text>Text, Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/3">
+<dc:title>PicturePhone Timeline</dc:title>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/4">
+<dc:title>USMA 22 Core Curriculum</dc:title>
+<dc:creator>United States Military Academy Office of the Dean</dc:creator>
+<dc:source>https://courses.westpoint.edu/static/index.htm#t=AcademicProgram.htm</dc:source>
+<dc:date>29SEP2021</dc:date>
+<dc:format>Electronic Publication</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/5">
+<dc:title>USMA 2022 Engineering Sequences</dc:title>
+<dc:creator>United States Military Academy Office of the Dean</dc:creator>
+<dc:source>https://courses.westpoint.edu/static/index.htm#t=AcademicProgram.htm%23OverviewOfTheAcademicProgram</dc:source>
+<dc:date>29SEP2021</dc:date>
+<dc:format>Electronic Publication</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/6">
+<dc:title>NYU Core Requirements</dc:title>
+<dc:creator>New York University Tandon School of Engineering</dc:creator>
+<dc:source>http://bulletin.engineering.nyu.edu/content.php?catoid=15&amp;navoid=1233#program-areas</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Electronic Publication</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/7">
+<dc:title>USMA 1976 Core Requirements</dc:title>
+<dc:creator>United States Military Academy. Office of the Dean of the Academic Board.</dc:creator>
+<dc:source>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198977970005711#main-carousel</dc:source>
+<dc:date>1975</dc:date>
+<dc:format>Journal</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/8">
+<dc:title>NYU Majors 1976</dc:title>
+<dc:creator>Polytechnic Institute of New York</dc:creator>
+<dc:source>Electronic Scan of Physical Catalog</dc:source>
+<dc:date>1975</dc:date>
+<dc:format>Electronic Scan of Physical Catalog</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/9">
+<dc:title>NYU Majors 1905</dc:title>
+<dc:creator>Polytechnic Institute of Brooklyn</dc:creator>
+<dc:source>Tandon Archives</dc:source>
+<dc:date>1905</dc:date>
+<dc:format>Electronic Scan of Physical Catalog</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/10">
+<dc:title>Course of Study USMA &#039;46</dc:title>
+<dc:creator>United States Military Academy</dc:creator>
+<dc:source>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12178182010005711</dc:source>
+<dc:date>1946</dc:date>
+<dc:format>Electronic Scan of Physical Catalog</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/11">
+<dc:title>Courses of Study at United States Military Academy &#039;76</dc:title>
+<dc:creator>United States Military Academy Office of the Dean of the Academic Board</dc:creator>
+<dc:source>https://usma.primo.exlibrisgroup.com/view/delivery/01USMA_INST/12198977970005711</dc:source>
+<dc:date>1976</dc:date>
+<dc:format>Electronic Scan of Physical Catalog</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/12">
+<dc:title>William R. Allen&#039;s letter to Polytechnic faculty on civil unrest</dc:title>
+<dc:creator>William R. Allen</dc:creator>
+<dc:source>Poly Archive</dc:source>
+<dc:date>May 13, 1970</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description></rdf:RDF>

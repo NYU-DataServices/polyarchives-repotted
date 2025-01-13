@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/451?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:48+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/451?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/450?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/452?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/451</id>
+    <title><![CDATA[Editorial: Apathy]]></title>
+    <updated>2024-04-02T00:11:54+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/451"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/53f00d0b0e1463456f145bbf4f4b5b1d.jpg" type="image/jpeg" length="990162"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Editorial: Apathy</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Reporter</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 59, No. 3, Page 2</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">October 6, 1966</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">EDITORIAL: Apathy<br />
+Something is different about Poly this year; the spirit is changing. Apathy, at long last, is dying out.<br />
+New clubs are springing up like weeds after a spring shower and are destroying the old, familiar, apathetic ways as thoroughly as weeds destroy a garden. Suddenly, Polymen seem to be interested in something else besides the three standbys: grades, money, and sex (not necessarily in that order).<br />
+Last year, the Football Club and the Automotive Club came into being; the Math Team, organized the previous year, engaged in its first competition; the long-extinct Spring Carnival finally returned to the green cement campus of the Polytechnic, after going through a laborious rebirth.<br />
+This semester, a chapter of the Illuminating Engineering Society has already been formed; a Joint Publications Council has been set up; an attempt is being made to start a social sciences publication; and Golana is applying for full publication status to the Student Council. Even the Council itself has produced a long-overdue new Constitution and Bylaws.<br />
+Polymen are also opening up entire new areas. Golana is the only science fiction magazine published by undergraduates in the entire country and, as far as is known, in the entire universe; the Poly student chapter of the Illuminating Engineering Society is the first IES student chapter on the East Coast; and the Interscholastic Math League, to which our Math Team belongs, was also started at the impetus of Polymen.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

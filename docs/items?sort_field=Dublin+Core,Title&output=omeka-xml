@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items?sort_field=Dublin+Core%2CTitle&amp;output=omeka-xml" accessDate="2025-01-13T19:58:59+00:00">
+  <miscellaneousContainer>
+    <pagination>
+      <pageNumber>1</pageNumber>
+      <perPage>10</perPage>
+      <totalResults>703</totalResults>
+    </pagination>
+  </miscellaneousContainer>
+  <item itemId="159" public="1" featured="0">
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1359">
+                <text>'Silicon Valley' seen for Downtown area</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1360">
+                <text>Poly Archives</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="1361">
+                <text>New York Daily News</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1362">
+                <text>pdf</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="33" public="1" featured="0">
+    <fileContainer>
+      <file fileId="34">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/3025a139d587a60f0bf7713553941b24.jpeg</src>
+        <authentication>9e78a35a207ad074581867cb1fd8e048</authentication>
+      </file>
+    </fileContainer>
+    <itemType itemTypeId="6">
+      <name>Still Image</name>
+      <description>A static visual representation. Examples include paintings, drawings, graphic designs, plans and maps. Recommended best practice is to assign the type Text to images of textual materials.</description>
+      <elementContainer>
+        <element elementId="7">
+          <name>Original Format</name>
+          <description>The type of object, such as painting, sculpture, paper, photo, and additional data</description>
+          <elementTextContainer>
+            <elementText elementTextId="158">
+              <text>Photo of a print clipping.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="10">
+          <name>Physical Dimensions</name>
+          <description>The actual physical size of the original image</description>
+          <elementTextContainer>
+            <elementText elementTextId="159">
+              <text>Roughly 4 inches x 4 inches</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="153">
+                <text>'Symmetry' Wins Awards</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="154">
+                <text>A clipping that announces that Judith's film 'Symmetry' won an award at Italy's Short Film Festival, as well as a Golden Eagle award from the Committee of International Non-Theatrical Events.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="155">
+                <text>Polytechnic Institute Brief</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="156">
+                <text>Spring 1968</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="157">
+                <text>Print</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="270" public="1" featured="0">
+    <fileContainer>
+      <file fileId="421">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/f84b4f5331958a9c0698b7515168173c.png</src>
+        <authentication>81be8c3ce257c0a99824fee0c1407cb6</authentication>
+      </file>
+      <file fileId="422">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/6216f3508ef0f67151cdbb9a3afaae7c.png</src>
+        <authentication>305245692e0ac1144a3e7e034d93d9bf</authentication>
+      </file>
+      <file fileId="423">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/c5e470dbc49a52b10bc1bdf3589709aa.png</src>
+        <authentication>c0486aef5da758011c1e4af34e6029ae</authentication>
+      </file>
+      <file fileId="424">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/aa3acbdc7452844957bc039ca3e500a5.png</src>
+        <authentication>46eec1c6446be56978930182eae5663e</authentication>
+      </file>
+      <file fileId="425">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/7ec903584d33a36e7e89c90b49042b76.png</src>
+        <authentication>567f8d25c57617e0237a5b339f255e1a</authentication>
+      </file>
+      <file fileId="426">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/53c8ea5a71da06f59713b39ee07cc6e2.png</src>
+        <authentication>a75871b1c9541883ac91ca6d4b231fd6</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2181">
+                <text>'Welcome to Fear City' – the inside story of New York's civil war, 40 years on</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2182">
+                <text>'Welcome to Fear City' – the inside story of New York's civil war, 40 years on</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2183">
+                <text>New York’s fiscal crisis of the mid-1970s is surely one of the weirdest moments in the history of the city – indeed, of the United States. It was a time when the wholesale disintegration of the largest city in the most powerful nation on earth seemed entirely possible.&#13;
+By early 1975, New York City owed $5bn to $6bn in short-term debt, out of an operating budget of $11.5bn. According to the then-city budget director, Peter Goldmark Jr, “Many people believe there is little or no real security or receivables behind these obligations.” Wall Street bankers, who had enabled much of this reckless behavior, now abruptly refused to take up any more of the city’s notes, leaving it teetering on the edge of bankruptcy.</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2184">
+                <text>Guardian News and Media</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="2185">
+                <text>Guardian News and Media</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2186">
+                <text>18th May 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2187">
+                <text>News Paper Article</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2188">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="377" public="1" featured="0">
+    <fileContainer>
+      <file fileId="574">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/774bb03a20406db6d1a4e6daa52bbfd4.png</src>
+        <authentication>a3101c83f4107a1f4e5e3573d2533652</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2827">
+                <text>'Welcome to Fear City' – the inside story of New York's civil war, 40 years on</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2828">
+                <text>Kevin Baker</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="2829">
+                <text>The Guardian</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2830">
+                <text>1975</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="2831">
+                <text>AVIF File</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="107" public="1" featured="0">
+    <fileContainer>
+      <file fileId="155">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/ae968842bb314b1768c0cf684c56be07.png</src>
+        <authentication>aea3bdc8befb8a0d6c457078f639b7fe</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="777">
+                <text>"All Star" Tobacco advertisement in 1950</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="49">
+            <name>Subject</name>
+            <description>The topic of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="863">
+                <text>"All Star" Tobacco advertisement in 1950</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="864">
+                <text>"All Star" Tobacco advertisement in 1950</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="865">
+                <text>Polytechnic Reporter 1950-1951</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="866">
+                <text>Polytechnic Reporter 1950-1951</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="867">
+                <text>Polytechnic Reporter 1950-1951</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="868">
+                <text>1950</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="869">
+                <text>Jpeg from student newspaper&#13;
+</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="462" public="1" featured="0">
+    <fileContainer>
+      <file fileId="679">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/cd35253c3ee97a1028d718718a597ad3.png</src>
+        <authentication>884528a430092a50c6873e02adf4d834</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3309">
+                <text>"Engineering Transformed"</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3310">
+                <text>NYU Tandon</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3311">
+                <text>https://web.archive.org/web/20151006233836/http://engineering.nyu.edu/tandon</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="45">
+            <name>Publisher</name>
+            <description>An entity responsible for making the resource available</description>
+            <elementTextContainer>
+              <elementText elementTextId="3312">
+                <text>Wayback Machine</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3313">
+                <text>October 6, 2015</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3314">
+                <text>Image</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="44">
+            <name>Language</name>
+            <description>A language of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3315">
+                <text>English</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="51">
+            <name>Type</name>
+            <description>The nature or genre of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3316">
+                <text>PNG</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="56" public="1" featured="0">
+    <fileContainer>
+      <file fileId="83">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/0355c12d5fa7e2d5185e6998c7c60031.pdf</src>
+        <authentication>6b15485007e71d436dc63c29fe12b40f</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="404">
+                <text>"How Poly Saved the World"</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="41">
+            <name>Description</name>
+            <description>An account of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="405">
+                <text>Commencement Address by Henry A. McKinnell to the 2004 Graduates of Polytechnic University</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="406">
+                <text>Henry A. McKinnell</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="407">
+                <text>Ready Reference &gt;&gt; Jasper Kane</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="408">
+                <text>Commencement address</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="534" public="1" featured="0">
+    <fileContainer>
+      <file fileId="758">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/4365d00d97ceb9bd52e4e0c7589af5ea.jpg</src>
+        <authentication>08df640f7d81c2d7840f4a5354544dbd</authentication>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3671">
+                <text>"Institution News and Notes" Article from 1959 Poly Men</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3672">
+                <text>Polytechnic Institute of Brooklyn</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="3673">
+                <text>The Poly Men</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3674">
+                <text>1959</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="3675">
+                <text>Magazine</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="238" public="1" featured="0">
+    <fileContainer>
+      <file fileId="343">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/bf1374ed7297eb8ee75ebc8100812391.pdf</src>
+        <authentication>890a1a890d8970e88565b0ff15e89974</authentication>
+        <elementSetContainer>
+          <elementSet elementSetId="4">
+            <name>PDF Text</name>
+            <description/>
+            <elementContainer>
+              <element elementId="52">
+                <name>Text</name>
+                <description/>
+                <elementTextContainer>
+                  <elementText elementTextId="1874">
+                    <text>�</text>
+                  </elementText>
+                </elementTextContainer>
+              </element>
+            </elementContainer>
+          </elementSet>
+        </elementSetContainer>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1869">
+                <text>"Protest Repression" student poster</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1870">
+                <text>Student Strike Committee</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1871">
+                <text>Poly Archives</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="40">
+            <name>Date</name>
+            <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1872">
+                <text>Unkown</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1873">
+                <text>Poster</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+  <item itemId="240" public="1" featured="0">
+    <fileContainer>
+      <file fileId="345">
+        <src>https://polyarchives.hosting.nyu.edu/files/original/43bd5643a5baf3e1bb659933d976501d.pdf</src>
+        <authentication>8ddf0af985744301ecfda2a72be9fdce</authentication>
+        <elementSetContainer>
+          <elementSet elementSetId="4">
+            <name>PDF Text</name>
+            <description/>
+            <elementContainer>
+              <element elementId="52">
+                <name>Text</name>
+                <description/>
+                <elementTextContainer>
+                  <elementText elementTextId="1881">
+                    <text>�</text>
+                  </elementText>
+                </elementTextContainer>
+              </element>
+            </elementContainer>
+          </elementSet>
+        </elementSetContainer>
+      </file>
+    </fileContainer>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1882">
+                <text>"Stop the World for Peace" student protest poster</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="39">
+            <name>Creator</name>
+            <description>An entity primarily responsible for making the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1883">
+                <text>Student Strike Committee</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="48">
+            <name>Source</name>
+            <description>A related resource from which the described resource is derived</description>
+            <elementTextContainer>
+              <elementText elementTextId="1884">
+                <text>Poly Archives</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+          <element elementId="42">
+            <name>Format</name>
+            <description>The file format, physical medium, or dimensions of the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="1885">
+                <text>Poster</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>
+</itemContainer>

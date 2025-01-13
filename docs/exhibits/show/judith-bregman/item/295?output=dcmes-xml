@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/295">
+<dc:title>Flashback: AC in the 60s</dc:title>
+<dc:subject>American Cinematography</dc:subject>
+<dc:creator>Unknown</dc:creator>
+<dc:source>The American Society of Cinematographers</dc:source>
+<dc:date>1960s</dc:date>
+<dc:type>Photograph</dc:type>
+</rdf:Description></rdf:RDF>

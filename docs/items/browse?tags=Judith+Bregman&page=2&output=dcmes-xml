@@ -1,0 +1,20 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/117">
+<dc:title>Collages of Several Photos</dc:title>
+<dc:subject>Judith Bregman</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:format>JPEG</dc:format>
+<dc:type>Biographical Material </dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/116">
+<dc:title>Bryn Mawr College Yearbook - Class of 1942</dc:title>
+<dc:description>A yearbook from one of the colleges Judith Bregman Attended. </dc:description>
+<dc:creator>Bryn Mawr College</dc:creator>
+<dc:publisher>Bryn Mawr College Publications, Special Collections</dc:publisher>
+<dc:date>1942</dc:date>
+<dc:format>PDF</dc:format>
+</rdf:Description></rdf:RDF>

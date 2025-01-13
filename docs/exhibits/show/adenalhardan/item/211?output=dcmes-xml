@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/211">
+<dc:title>Lyndon Johnson signing the Gulf of Tonkin Resolution</dc:title>
+<dc:creator>Unkown</dc:creator>
+<dc:publisher>Lyndon Baines Johnson Library</dc:publisher>
+<dc:date>August 10, 1964</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description></rdf:RDF>

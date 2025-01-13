@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Items &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;output=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="http://polyarchives.hosting.nyu.edu/plugins/ConnectedCarousel/views/public/css/slick.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/plugins/FilePaginator/views/shared/css/simplePagination.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/application/views/scripts/css/iconfonts.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/application/views/scripts/css/public.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://polyarchives.hosting.nyu.edu/themes/default/css/style.css?v=3.1.2" media="all" rel="stylesheet" type="text/css" >
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/ConnectedCarousel/views/public/javascripts/slick.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/plugins/FilePaginator/views/shared/javascripts/filePagination.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/themes/default/javascripts/vendor/modernizr.js?v=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/application/views/scripts/javascripts/vendor/respond.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/application/views/scripts/javascripts/globals.js?v=3.1.2"></script>
+<script type="text/javascript" src="http://polyarchives.hosting.nyu.edu/themes/default/javascripts/default.js?v=3.1.2"></script></head>
+<body class="items browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="browse%3Fsort_field=Dublin+Core,Creator&amp;sort_dir=a&amp;page=3.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="../index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li class="active">
+        <a href="http://polyarchives.hosting.nyu.edu/items/browse">Browse Items</a>
+    </li>
+    <li>
+        <a href="http://polyarchives.hosting.nyu.edu/collections/browse">Browse Collections</a>
+    </li>
+    <li>
+        <a href="http://polyarchives.hosting.nyu.edu/about">About</a>
+    </li>
+    <li>
+        <a href="http://polyarchives.hosting.nyu.edu/exhibits">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="http://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="http://polyarchives.hosting.nyu.edu/items/search?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                
+<h1>Browse Items (703 total)</h1>
+
+<nav class="items-nav navigation secondary-nav">
+    <ul class="navigation">
+    <li class="active">
+        <a href="http://polyarchives.hosting.nyu.edu/items/browse">Browse All</a>
+    </li>
+    <li>
+        <a href="http://polyarchives.hosting.nyu.edu/items/tags">Browse by Tag</a>
+    </li>
+    <li>
+        <a href="http://polyarchives.hosting.nyu.edu/items/search">Search Items</a>
+    </li>
+</ul></nav>
+
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=2">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="http://polyarchives.hosting.nyu.edu/items/browse" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="Dublin Core,Creator" id="sort_field"><input type="hidden" name="sort_dir" value="a" id="sort_dir"><label>Page<input type="text" name="page" title="Current Page" value="3"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=4">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+
+<div id="sort-links">
+    <span class="sort-label">Sort by: </span><ul id="sort-links-list"><li  ><a href="browse%3Fsort_field=Dublin+Core,Title&amp;sort_dir=a&amp;page=3.html" aria-label="Sort ascending Title" title="Sort ascending">Title <span role="presentation" class="sort-icon"></span></a></li><li class="sorting asc" ><a href="browse%3Fsort_field=Dublin+Core,Creator&amp;sort_dir=d&amp;page=3.html" aria-label="Sorting ascending Creator" title="Sorting ascending">Creator <span role="presentation" class="sort-icon"></span></a></li><li  ><a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=added&amp;sort_dir=a&amp;page=3" aria-label="Sort ascending Date Added" title="Sort ascending">Date Added <span role="presentation" class="sort-icon"></span></a></li></ul></div>
+
+
+<div class="item hentry">
+    <h2><a href="show/440.html" class="permalink">Sa Re Ga Ma Event 2005 (1)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/440.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/823573fdf9ddccbcfcd84b4e41b29b41.jpg" alt="Screen Shot 2024-04-01 at 7.16.41 PM.png" title="Screen Shot 2024-04-01 at 7.16.41 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/443.html" class="permalink">Sa Re Ga Ma Event 2005 (4)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/443.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/1f965ab6e8563efa2b9cd62e7249db90.jpg" alt="Screen Shot 2024-04-01 at 7.18.06 PM.png" title="Screen Shot 2024-04-01 at 7.18.06 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/363.html" class="permalink">The Towering Inferno movie poster</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/363.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/32327b255eb6ae6f5f33df329f586a72.jpg" alt="ToweringInfernoPoster.jpg" title="ToweringInfernoPoster.jpg"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="http://polyarchives.hosting.nyu.edu/items/show/115" class="permalink">With $50M redevelopment, MetroTech Center will become ‘Brooklyn Commons’</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="http://polyarchives.hosting.nyu.edu/items/show/115"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2c2d9aa22e202b370bad55938c9b4749.jpg" alt="BrooklynCommons1.jpeg" title="BrooklynCommons1.jpeg"></a>    </div>
+    
+        <div class="item-description">
+        Unknown    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/133.html" class="permalink">A Computer Generated Ballet</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/133.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/f1890dbfd5f1cb88b7a24044bee5630a.jpg" alt="ballet.png" title="ballet.png"></a>    </div>
+    
+        <div class="item-description">
+        Dr. Noll&#039;s Computer Generated Ballet. This is an example of Creative and Artistic Computing and early Computer Graphics .    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/135.html" class="permalink">Videophone: A Flop That Won&#039;t Die</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/135.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/45a5923a08018d7c1e615daa8cc1a7c5.jpg" alt="IMG_6713.JPG" title="IMG_6713.JPG"></a>    </div>
+    
+        <div class="item-description">
+        Noll&#039;s Article    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/136.html" class="permalink">Digital Computer as a Creative Medium</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/136.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/16a917dc67392a3c78cef5288d7b7b07.jpg" alt="IMG_6708.JPG" title="IMG_6708.JPG"></a>    </div>
+    
+        <div class="item-description">
+        Unknown    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/143.html" class="permalink">Computer Generated Ballet</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/143.html"><img src="http://polyarchives.hosting.nyu.edu/application/views/scripts/images/fallback-video.png" alt="Computer-Generated Ballet-uLU2hIV7n_I.mp4" title="Computer-Generated Ballet-uLU2hIV7n_I.mp4"></a>    </div>
+    
+        <div class="item-description">
+        Unknown    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/151.html" class="permalink">Anatomy of a failure: Picturephone revisited</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/151.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/31dd05616c863b989c2cc5b531f13eaa.jpg" alt="noll1992.pdf" title="noll1992.pdf"></a>    </div>
+    
+        <div class="item-description">
+        Unknown    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="show/152.html" class="permalink">Videotex: Anatomy of a Failure</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="show/152.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2c4421f4c8f7ba4b61518599f648ebdc.jpg" alt="michaelnoll1985.pdf" title="michaelnoll1985.pdf"></a>    </div>
+    
+        <div class="item-description">
+        Unknown    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=2">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="http://polyarchives.hosting.nyu.edu/items/browse" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="Dublin Core,Creator" id="sort_field"><input type="hidden" name="sort_dir" value="a" id="sort_dir"><label>Page<input type="text" name="page" title="Current Page" value="3"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=4">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+<div id="outputs">
+    <span class="outputs-label">Output Formats</span>
+                <p id="output-format-list">
+        <a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3&amp;output=atom">atom</a>, <a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3&amp;output=dcmes-xml">dcmes-xml</a>, <a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3&amp;output=json">json</a>, <a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3&amp;output=omeka-xml">omeka-xml</a>, <a href="http://polyarchives.hosting.nyu.edu/items/browse?sort_field=Dublin+Core%2CCreator&amp;sort_dir=a&amp;page=3&amp;output=rss2">rss2</a>        </p>
+    </div>
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

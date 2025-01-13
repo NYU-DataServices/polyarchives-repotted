@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/343">
+<dc:title>&quot;The Girls Are Here&quot; from The Polytechnic Reporter in 1973</dc:title>
+<dc:creator>Ralph Cassazzone</dc:creator>
+<dc:source>RG.025, Shelf 36/3F, volume: 47, The Polytechnic Reporter, December 21, 1973</dc:source>
+<dc:date>December 21, 1973</dc:date>
+<dc:format>Newspaper</dc:format>
+</rdf:Description></rdf:RDF>

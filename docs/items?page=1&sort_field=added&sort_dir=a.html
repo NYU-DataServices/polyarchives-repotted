@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Items &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="items/browse%3Fsort_field=added&amp;sort_dir=a&amp;output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="items/browse%3Fsort_field=added&amp;sort_dir=a&amp;output=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="plugins/ConnectedCarousel/views/public/css/slick.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/FilePaginator/views/shared/css/simplePagination.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/iconfonts.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/public.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="themes/default/css/style.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/slick.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/filePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/vendor/modernizr.js%3Fv=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/respond.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/globals.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/default.js%3Fv=3.1.2"></script></head>
+<body class="items browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="items%3Fpage=1&amp;sort_field=added&amp;sort_dir=a.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse Items</a>
+    </li>
+    <li>
+        <a href="collections/browse.html">Browse Collections</a>
+    </li>
+    <li>
+        <a href="about.html">About</a>
+    </li>
+    <li>
+        <a href="exhibits.html">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="https://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="https://polyarchives.hosting.nyu.edu/items/search?page=1&amp;sort_field=added&amp;sort_dir=a">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                
+<h1>Browse Items (703 total)</h1>
+
+<nav class="items-nav navigation secondary-nav">
+    <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse All</a>
+    </li>
+    <li>
+        <a href="items/tags.html">Browse by Tag</a>
+    </li>
+    <li>
+        <a href="items/search.html">Search Items</a>
+    </li>
+</ul></nav>
+
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+        
+        <li class="page-input">
+        <form action="items.html" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="added" id="sort_field"><input type="hidden" name="sort_dir" value="a" id="sort_dir"><label>Page<input type="text" name="page" title="Current Page" value="1"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="items%3Fpage=2&amp;sort_field=added&amp;sort_dir=a.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+
+<div id="sort-links">
+    <span class="sort-label">Sort by: </span><ul id="sort-links-list"><li  ><a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=Dublin+Core%2CTitle&amp;sort_dir=a" aria-label="Sort ascending Title" title="Sort ascending">Title <span role="presentation" class="sort-icon"></span></a></li><li  ><a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=Dublin+Core%2CCreator&amp;sort_dir=a" aria-label="Sort ascending Creator" title="Sort ascending">Creator <span role="presentation" class="sort-icon"></span></a></li><li class="sorting asc" ><a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=d" aria-label="Sorting ascending Date Added" title="Sorting ascending">Date Added <span role="presentation" class="sort-icon"></span></a></li></ul></div>
+
+
+<div class="item hentry">
+    <h2><a href="items/show/3.html" class="permalink">PicturePhone Timeline</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/3.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/5ee8093fa7cfb3f0543adb8bdfe99703.jpg" alt="IMG_586A40EE8587-1.jpeg" title="IMG_586A40EE8587-1.jpeg"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/4.html" class="permalink">USMA 22 Core Curriculum</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/4.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/ca17319a60a90734e4fbfc729c2ed11a.jpg" alt="22 core.png" title="22 core.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/5.html" class="permalink">USMA 2022 Engineering Sequences</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/5.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/0501f02912fd01eb2845dbca8469cfa2.jpg" alt="22 engineering.png" title="22 engineering.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/6.html" class="permalink">NYU Core Requirements</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/6.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2a610336d0fea78f5ce4ad6a49688e41.jpg" alt="nyu core 22.png" title="nyu core 22.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/7.html" class="permalink">USMA 1976 Core Requirements</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/7.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/81021611f7c0012ec3a1de241fe66fde.jpg" alt="76 core.png" title="76 core.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/8.html" class="permalink">NYU Majors 1976</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/8.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2c3f453de7c2897ebdeced6994687ce7.jpg" alt="nyu majors 76.png" title="nyu majors 76.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/9.html" class="permalink">NYU Majors 1905</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/9.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2e68f03af0d8b195c8f5aeee213896cc.jpg" alt="nyu 05 courses.png" title="nyu 05 courses.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/10.html" class="permalink">Course of Study USMA &#039;46</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/10.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/84ff7b19903441961da33c8d02b6e35c.jpg" alt="usma 46 core.png" title="usma 46 core.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/11.html" class="permalink">Courses of Study at United States Military Academy &#039;76</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/11.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/c23e37416818e15cd6a2a849dc75d32c.jpg" alt="76 majors.png" title="76 majors.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/12.html" class="permalink">William R. Allen&#039;s letter to Polytechnic faculty on civil unrest</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/12.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/42e67a203d45836d6a0a45d9a867cb00.jpg" alt="williamallenletter.pdf" title="williamallenletter.pdf"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+        
+        <li class="page-input">
+        <form action="items.html" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="added" id="sort_field"><input type="hidden" name="sort_dir" value="a" id="sort_dir"><label>Page<input type="text" name="page" title="Current Page" value="1"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="items%3Fpage=2&amp;sort_field=added&amp;sort_dir=a.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+<div id="outputs">
+    <span class="outputs-label">Output Formats</span>
+                <p id="output-format-list">
+        <a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=atom">atom</a>, <a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=dcmes-xml">dcmes-xml</a>, <a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=json">json</a>, <a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=omeka-xml">omeka-xml</a>, <a href="https://polyarchives.hosting.nyu.edu/items?page=1&amp;sort_field=added&amp;sort_dir=a&amp;output=rss2">rss2</a>        </p>
+    </div>
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Items &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="items/browse%3Fsort_field=Dublin+Core,Creator&amp;output=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="items/browse%3Fsort_field=Dublin+Core,Creator&amp;output=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="plugins/ConnectedCarousel/views/public/css/slick.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/FilePaginator/views/shared/css/simplePagination.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/iconfonts.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/public.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="themes/default/css/style.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/slick.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/filePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/vendor/modernizr.js%3Fv=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/respond.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/globals.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/default.js%3Fv=3.1.2"></script></head>
+<body class="items browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse Items</a>
+    </li>
+    <li>
+        <a href="collections/browse.html">Browse Collections</a>
+    </li>
+    <li>
+        <a href="about.html">About</a>
+    </li>
+    <li>
+        <a href="exhibits.html">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="https://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="items/search%3Fpage=2&amp;sort_field=Dublin+Core,Creator.html">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                
+<h1>Browse Items (703 total)</h1>
+
+<nav class="items-nav navigation secondary-nav">
+    <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse All</a>
+    </li>
+    <li>
+        <a href="items/tags.html">Browse by Tag</a>
+    </li>
+    <li>
+        <a href="items/search.html">Search Items</a>
+    </li>
+</ul></nav>
+
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="items%3Fpage=1&amp;sort_field=Dublin+Core,Creator.html">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="items.html" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="Dublin Core,Creator" id="sort_field"><label>Page<input type="text" name="page" title="Current Page" value="2"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="items%3Fpage=3&amp;sort_field=Dublin+Core,Creator.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+
+<div id="sort-links">
+    <span class="sort-label">Sort by: </span><ul id="sort-links-list"><li  ><a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Title.html" aria-label="Sort ascending Title" title="Sort ascending">Title <span role="presentation" class="sort-icon"></span></a></li><li class="sorting asc" ><a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;sort_dir=d.html" aria-label="Sorting ascending Creator" title="Sorting ascending">Creator <span role="presentation" class="sort-icon"></span></a></li><li  ><a href="items%3Fpage=2&amp;sort_field=added.html" aria-label="Sort ascending Date Added" title="Sort ascending">Date Added <span role="presentation" class="sort-icon"></span></a></li></ul></div>
+
+
+<div class="item hentry">
+    <h2><a href="items/show/411.html" class="permalink">Ashok Parekh (1974)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/411.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/b76f6daf5219a75af3347c9db84067a4.jpg" alt="Screen Shot 2024-04-01 at 3.50.54 PM.png" title="Screen Shot 2024-04-01 at 3.50.54 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/401.html" class="permalink">Albert Farhi (1974)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/401.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/65c355131391cb965046d650c13b8c6e.jpg" alt="Screen Shot 2024-04-01 at 2.46.06 PM.png" title="Screen Shot 2024-04-01 at 2.46.06 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/400.html" class="permalink">Eliot Malamud (1974)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/400.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2ec6360f52765ad86e27d3e97a0b30ff.jpg" alt="Screen Shot 2024-04-01 at 2.39.14 PM.png" title="Screen Shot 2024-04-01 at 2.39.14 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/406.html" class="permalink">Krishna Sinha (1974)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/406.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/6815301a8c246ed9513c695bdd27e752.jpg" alt="Screen Shot 2024-04-01 at 3.49.40 PM.png" title="Screen Shot 2024-04-01 at 3.49.40 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/430.html" class="permalink">Indian Student Association (1993)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/430.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/f349cd39a367f81d838402f32d87d60e.jpg" alt="Screen Shot 2024-04-01 at 7.01.02 PM.png" title="Screen Shot 2024-04-01 at 7.01.02 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/432.html" class="permalink">South Asian Students Association (2001)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/432.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/67ef8df6b02cbb5f0e51f70b32bb0b45.jpg" alt="Screen Shot 2024-04-01 at 7.04.19 PM.png" title="Screen Shot 2024-04-01 at 7.04.19 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/337.html" class="permalink">Joga Hayre and father at Polytechnic University Graduation 2001</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/337.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/2a2e916367b536304f6477335d6b8cce.jpg" alt="FullSizeRender.jpeg" title="FullSizeRender.jpeg"></a>    </div>
+    
+        <div class="item-description">
+        Joga Hayre&#039;s Punjabi-Sikh father helping him fix his graduation gown. This was a photo from the 2001 Polywog in the 2001 Graduation section    </div>
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/436.html" class="permalink">Diwali Celebration (2000)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/436.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/0f4316a7b2af648ff724dc3ff650bf83.jpg" alt="Screen Shot 2024-04-01 at 7.07.38 PM.png" title="Screen Shot 2024-04-01 at 7.07.38 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/438.html" class="permalink">SASA Cultural Show (2001)</a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/438.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/63d209b3c23c83cc6e9cb1326065a113.jpg" alt="Screen Shot 2024-04-01 at 7.10.58 PM.png" title="Screen Shot 2024-04-01 at 7.10.58 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+<div class="item hentry">
+    <h2><a href="items/show/439.html" class="permalink">South Asian Students Association (2003)<br />
+<br /></a></h2>
+    <div class="item-meta">
+        <div class="item-img">
+        <a href="items/show/439.html"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/539101dcc739bfc8e8491bc510fab6c8.jpg" alt="Screen Shot 2024-04-01 at 7.12.18 PM.png" title="Screen Shot 2024-04-01 at 7.12.18 PM.png"></a>    </div>
+    
+    
+    
+    
+    </div><!-- end class="item-meta" -->
+</div><!-- end class="item hentry" -->
+
+<nav class="pagination-nav" aria-label="Pagination">
+    <ul class="pagination">
+                <!-- Previous page link -->
+        <li class="pagination_previous">
+                        <a rel="prev" href="items%3Fpage=1&amp;sort_field=Dublin+Core,Creator.html">Previous Page</a>
+        </li>
+        
+        <li class="page-input">
+        <form action="items.html" method="get" accept-charset="utf-8">
+        <input type="hidden" name="sort_field" value="Dublin Core,Creator" id="sort_field"><label>Page<input type="text" name="page" title="Current Page" value="2"></label> of 71        </form>
+        </li>
+
+                <!-- Next page link -->
+        <li class="pagination_next">
+                        <a rel="next" href="items%3Fpage=3&amp;sort_field=Dublin+Core,Creator.html">Next Page</a>
+        </li>
+            </ul>
+</nav>
+
+
+<div id="outputs">
+    <span class="outputs-label">Output Formats</span>
+                <p id="output-format-list">
+        <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;output=atom">atom</a>, <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;output=dcmes-xml">dcmes-xml</a>, <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;output=json">json</a>, <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;output=omeka-xml">omeka-xml</a>, <a href="items%3Fpage=2&amp;sort_field=Dublin+Core,Creator&amp;output=rss2">rss2</a>        </p>
+    </div>
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

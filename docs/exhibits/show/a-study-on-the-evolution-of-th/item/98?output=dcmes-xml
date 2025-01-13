@@ -1,0 +1,22 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/98">
+<dc:title>Janett Rosenberg Article</dc:title>
+<dc:subject>Janett Rosenberg</dc:subject>
+<dc:description>Article about Janett Rosenberg</dc:description>
+<dc:creator>Polytechnic Reporter</dc:creator>
+<dc:source>Polytechnic Reporter</dc:source>
+<dc:publisher>Polytechnic Reporter</dc:publisher>
+<dc:date>February 12, 1959</dc:date>
+<dc:contributor>unknown</dc:contributor>
+<dc:rights>unknown</dc:rights>
+<dc:relation>unknown</dc:relation>
+<dc:format>Text</dc:format>
+<dc:language>unknown</dc:language>
+<dc:type>unknown</dc:type>
+<dc:identifier>unknown</dc:identifier>
+<dc:coverage>unknown</dc:coverage>
+</rdf:Description></rdf:RDF>

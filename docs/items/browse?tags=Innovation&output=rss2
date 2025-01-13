@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items/browse?tags=Innovation&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:05:26 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Innovation Begins at NYU-Poly]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/81</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Innovation Begins at NYU-Poly</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">INVENTION, INNOVATION AND ENTREPRENEURSHIP BEGIN AT NYU-POLY</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">pages from brochure &quot;INVENTION, INNOVATION AND ENTREPRENEURSHIP BEGIN AT NYU-POLY&quot; with topic &quot;Innovation Begins at Poly&quot;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Institute of New York University</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Institute of New York University<br />
+Brochures<br />
+2008 -</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic Institute of New York University</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Polytechnic Institute of New York University</div>
+            </div><!-- end element -->
+        <div id="dublin-core-rights" class="element">
+        <h3>Rights</h3>
+                    <div class="element-text">Polytechnic Institute of New York University</div>
+            </div><!-- end element -->
+        <div id="dublin-core-relation" class="element">
+        <h3>Relation</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">physical brochure</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">brochure</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-coverage" class="element">
+        <h3>Coverage</h3>
+                    <div class="element-text">unknown</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/6cc2bec5161ffd93bc4666bc8b80da38.jpeg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/6cc2bec5161ffd93bc4666bc8b80da38.jpg" alt="IMG_9889.jpeg" title="IMG_9889.jpeg"></a></div><div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/876776f38d62507f16dbadbbab6ad956.jpeg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/876776f38d62507f16dbadbbab6ad956.jpg" alt="IMG_9890.jpeg" title="IMG_9890.jpeg"></a></div><div class="item-file image-jpeg"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/c12d0fecbbd22632fb749b6ad8b831a3.jpeg"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/c12d0fecbbd22632fb749b6ad8b831a3.jpg" alt="IMG_9895.jpeg" title="IMG_9895.jpeg"></a></div>]]></description>
+      <pubDate>Tue, 12 Apr 2022 03:00:19 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/6cc2bec5161ffd93bc4666bc8b80da38.jpg" type="image/jpeg" length="586026"/>
+    </item>
+  </channel>
+</rss>

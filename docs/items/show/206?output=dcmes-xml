@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/206">
+<dc:title>United States Supreme Court Building</dc:title>
+<dc:description>A photo of the US Supreme Court Building from ACLU&#039;s website</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:source>ACLU.org</dc:source>
+<dc:format>Digital Photograph</dc:format>
+</rdf:Description></rdf:RDF>

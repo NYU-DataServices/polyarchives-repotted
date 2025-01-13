@@ -1,0 +1,77 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/26">
+<dc:title>NYU Admitted Class 2024</dc:title>
+<dc:creator>John Beckman</dc:creator>
+<dc:source>https://www.nyu.edu/about/news-publications/news/2020/march/NYU_Class_of_2024_Admits.html</dc:source>
+<dc:date>March 31, 2020</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/27">
+<dc:title>Overall Fall Undergraduate Enrollment Headcount by Gender</dc:title>
+<dc:creator>Office of Assessment and Institutional Research</dc:creator>
+<dc:source>NYU Tandon School of Engineering Report on Enrollment, Retention &amp; Graduation Based on Census Data for Fall 2020
+</dc:source>
+<dc:date>September 23, 2020</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/28">
+<dc:title>Net-Price Trend New York University</dc:title>
+<dc:creator>College Factual</dc:creator>
+<dc:source>https://www.collegefactual.com/colleges/new-york-university/paying-for-college/net-price/</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/29">
+<dc:title>Petition to Lower the tuition and the 2015 attendance cost for NYU</dc:title>
+<dc:creator>Nia Mirza</dc:creator>
+<dc:source>https://www.change.org/p/new-york-university-lower-the-tuition-the-2015-attendance-cost?recruiter=262483001&amp;utm_campaign=signature_receipt_twitter_dialog&amp;utm_medium=twitter&amp;utm_source=share_petition</dc:source>
+<dc:date>2015</dc:date>
+<dc:format>Image</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/30">
+<dc:title>Photo of film reels.</dc:title>
+<dc:subject>Judith Bregman&#039;s work.</dc:subject>
+<dc:creator>Judith Bregman.</dc:creator>
+<dc:format>Film canisters and reels.</dc:format>
+<dc:type>Films created for educational purposes.</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/31">
+<dc:title>Curriculum Vitae </dc:title>
+<dc:description>A Record of Judith&#039;s Education, Professional History, Research Projects, and more.</dc:description>
+<dc:source>Box 1, Folder 1 - Biographical Materials </dc:source>
+<dc:date>1971</dc:date>
+<dc:format>Print.</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/32">
+<dc:title>Aspects of Symmetry</dc:title>
+<dc:subject>A film exploring symmetry.</dc:subject>
+<dc:description>This is one of the many films Judith Bregman worked on. </dc:description>
+<dc:date>1970</dc:date>
+<dc:format>H.264 Video File</dc:format>
+<dc:type>Educational Film</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/33">
+<dc:title>&#039;Symmetry&#039; Wins Awards</dc:title>
+<dc:description>A clipping that announces that Judith&#039;s film &#039;Symmetry&#039; won an award at Italy&#039;s Short Film Festival, as well as a Golden Eagle award from the Committee of International Non-Theatrical Events.</dc:description>
+<dc:creator>Polytechnic Institute Brief</dc:creator>
+<dc:date>Spring 1968</dc:date>
+<dc:format>Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/34">
+<dc:title>Bregman, Draft Counseling Informs Polymen of Rights</dc:title>
+<dc:description>An article written about Judith&#039;s work as a draft counselor for Poly&#039;s students.  </dc:description>
+<dc:creator>Jerry Bleiberg</dc:creator>
+<dc:publisher>The Polytechnic Reporter</dc:publisher>
+<dc:date>October 24, 1968</dc:date>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/35">
+<dc:title>Portrait of Judith Bregman</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>unknown</dc:date>
+<dc:relation>Possibly: Film stills/negatives </dc:relation>
+<dc:format>Photograph</dc:format>
+</rdf:Description></rdf:RDF>

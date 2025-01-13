@@ -1,0 +1,16 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/99">
+<dc:title>Cigarette Advertisement in 1940</dc:title>
+<dc:subject>Chesterfield cigarette advertisement</dc:subject>
+<dc:description>Chesterfield cigarette advertisement in 1940</dc:description>
+<dc:creator> Polytechnic Reporter 1940-1941</dc:creator>
+<dc:source>Polytechnic Reporter 1940-1941</dc:source>
+<dc:publisher>Polytechnic Reporter 1940-1941</dc:publisher>
+<dc:date>1940</dc:date>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:type>Physical Object</dc:type>
+</rdf:Description></rdf:RDF>

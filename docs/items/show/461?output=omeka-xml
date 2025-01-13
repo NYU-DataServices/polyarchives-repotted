@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="461" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/461?output=omeka-xml" accessDate="2025-01-13T20:16:03+00:00">
+  <fileContainer>
+    <file fileId="678" order="1">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/795bdee6d8beea9b89abba90cfa75f81.jpg</src>
+      <authentication>6b55c71bab127f9569d321d356c7ea69</authentication>
+    </file>
+    <file fileId="675" order="2">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/6c35fcc4401e2674add8d60c2337c77a.jpg</src>
+      <authentication>7b56826f23c9051bed992555f9f621d1</authentication>
+    </file>
+    <file fileId="676" order="3">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/67359839d4b34a2d9a5fe3e1802c4e78.jpg</src>
+      <authentication>f8144003b286d5a2ee0fc4a19fb3687e</authentication>
+    </file>
+    <file fileId="677" order="4">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/4056fecc54185fe038f15a8fedb81ec3.jpg</src>
+      <authentication>43c25255f7ad8b8d9ef26823c27d91ce</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3300">
+              <text>Notes on the Merger of Polytechnic into NYU</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3301">
+              <text>(Recollections, as accurately as possible, from a reliable source)</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3302">
+              <text>unknow</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="3303">
+              <text>Poly Archive &amp; Special Collections, Memos, confidential documents&#13;
+unsorted, Accession # 14.016</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="3304">
+              <text>Bern Dibner Library of Science and Technology</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3305">
+              <text>2004</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3306">
+              <text>Images</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3307">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="51">
+          <name>Type</name>
+          <description>The nature or genre of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="3308">
+              <text>JPG</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="269" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/269?output=omeka-xml" accessDate="2025-01-13T20:15:56+00:00">
+  <fileContainer>
+    <file fileId="416">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/53b5a4e12671bb7fd81a7f92b09b0cda.png</src>
+      <authentication>2154679380a271579235120050622f88</authentication>
+    </file>
+    <file fileId="417">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/456703d06ef8ea877e87cd72b80e834a.png</src>
+      <authentication>bb35636b15eedc2313c43a7939b2b223</authentication>
+    </file>
+    <file fileId="418">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/981a8bd0ae194a974d830de7a546083e.png</src>
+      <authentication>774033507fc5e551af7669d96b711226</authentication>
+    </file>
+    <file fileId="419">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/055b0e82dd0356b36987e0121cb8f8b3.png</src>
+      <authentication>68f4e52cad0b1ffb629eeaabbdd9fe67</authentication>
+    </file>
+    <file fileId="420">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/e499b988a8cdb8b883238a685a29b044.png</src>
+      <authentication>b04f4baa35b9d587975829fbbda4e851</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2173">
+              <text>NYC in Chaos</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2174">
+              <text>NYC in Chaos</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2175">
+              <text>New York City in the late 1970s was plagued by severe economic and political troubles unlike any the city's inhabitants had experienced before. Faced with economic stagnation, industrial decline, and the looming threat of bankruptcy, the City of New York responded by laying off city workers and cutting municipal services such as sanitation and after-school programs. The city's already high unemployment rates got higher, and many middle class families — more than 820,000 people — fled to the suburbs in a movement known as white flight, desperate for jobs.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2176">
+              <text>Public Broadcasting Service</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="2177">
+              <text>NYC in Chaos</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2178">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2179">
+              <text>Journal Article</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2180">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

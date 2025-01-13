@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/271?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:15:57+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/271?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/270?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/272?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/271</id>
+    <title><![CDATA[Richard Thorsen (Interview)]]></title>
+    <summary><![CDATA[“Actually, throughout the sixties funding for engineering schools was good. As a result of the 1957 Sputnik launch by the then USSR, funding for engineering and science was increased and nationally engineering enrollment increased. However, there were local exceptions. In the case of the NYU School of Engineering, which was at the Heights campus, enrollment decreased. This was largely due to the financial difficulties of NYC which, in turn, exacerbated the decline of the neighborhood surrounding the campus. Attracting students to attend a high tuition school in a declining neighborhood was difficult at best. Similar issues of urban decay plagued Polytechnic Institute of Brooklyn.” <br />
+ <br />
+“NYU at Washington Square faced different problems. It did not benefit from increased funding for engineering and relied on national recruiting of students, not just students from NYC. The problems of NYC were known nationwide and it appeared that students were reluctant to come to NYC.“<br />
+ <br />
+“Eventually (late 70s), the financial difficulties of the City were overcome and many urban renewal projects were initiated. NYC again became a &quot;destination&quot; and NYU has thrived in this new environment.”]]></summary>
+    <updated>2022-05-09T11:43:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/271"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/b895e2650260e6f8a32d2fcc354514c8.png" type="image/png" length="211301"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Richard Thorsen (Interview)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Interview</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">“Actually, throughout the sixties funding for engineering schools was good. As a result of the 1957 Sputnik launch by the then USSR, funding for engineering and science was increased and nationally engineering enrollment increased. However, there were local exceptions. In the case of the NYU School of Engineering, which was at the Heights campus, enrollment decreased. This was largely due to the financial difficulties of NYC which, in turn, exacerbated the decline of the neighborhood surrounding the campus. Attracting students to attend a high tuition school in a declining neighborhood was difficult at best. Similar issues of urban decay plagued Polytechnic Institute of Brooklyn.” <br />
+ <br />
+“NYU at Washington Square faced different problems. It did not benefit from increased funding for engineering and relied on national recruiting of students, not just students from NYC. The problems of NYC were known nationwide and it appeared that students were reluctant to come to NYC.“<br />
+ <br />
+“Eventually (late 70s), the financial difficulties of the City were overcome and many urban renewal projects were initiated. NYC again became a &quot;destination&quot; and NYU has thrived in this new environment.”</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Richard Thorsen</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">31st March, 2022</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Interview</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/461?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:16:02+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/461?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/460?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/462?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/461</id>
+    <title><![CDATA[Notes on the Merger of Polytechnic into NYU]]></title>
+    <summary><![CDATA[(Recollections, as accurately as possible, from a reliable source)]]></summary>
+    <updated>2024-04-02T03:52:03+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/461"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/795bdee6d8beea9b89abba90cfa75f81.jpg" type="image/jpeg" length="2004438"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/6c35fcc4401e2674add8d60c2337c77a.jpg" type="image/jpeg" length="2586217"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/67359839d4b34a2d9a5fe3e1802c4e78.jpg" type="image/jpeg" length="2433501"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/4056fecc54185fe038f15a8fedb81ec3.jpg" type="image/jpeg" length="2258591"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Notes on the Merger of Polytechnic into NYU</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">(Recollections, as accurately as possible, from a reliable source)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">unknow</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archive &amp; Special Collections, Memos, confidential documents<br />
+unsorted, Accession # 14.016</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Bern Dibner Library of Science and Technology</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">2004</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Images</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

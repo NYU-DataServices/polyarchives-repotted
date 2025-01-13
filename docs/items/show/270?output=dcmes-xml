@@ -1,0 +1,16 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/270">
+<dc:title>&#039;Welcome to Fear City&#039; – the inside story of New York&#039;s civil war, 40 years on</dc:title>
+<dc:subject>&#039;Welcome to Fear City&#039; – the inside story of New York&#039;s civil war, 40 years on</dc:subject>
+<dc:description>New York’s fiscal crisis of the mid-1970s is surely one of the weirdest moments in the history of the city – indeed, of the United States. It was a time when the wholesale disintegration of the largest city in the most powerful nation on earth seemed entirely possible.
+By early 1975, New York City owed $5bn to $6bn in short-term debt, out of an operating budget of $11.5bn. According to the then-city budget director, Peter Goldmark Jr, “Many people believe there is little or no real security or receivables behind these obligations.” Wall Street bankers, who had enabled much of this reckless behavior, now abruptly refused to take up any more of the city’s notes, leaving it teetering on the edge of bankruptcy.</dc:description>
+<dc:creator>Guardian News and Media</dc:creator>
+<dc:publisher>Guardian News and Media</dc:publisher>
+<dc:date>18th May 2015</dc:date>
+<dc:format>News Paper Article</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

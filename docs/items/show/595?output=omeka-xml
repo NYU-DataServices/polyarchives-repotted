@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="595" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/595?output=omeka-xml" accessDate="2025-01-13T20:22:39+00:00">
+  <fileContainer>
+    <file fileId="844">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/cd48d5818704d78b5c8200eed9d3cf09.jpg</src>
+      <authentication>bdac7db9038d5c41c677dff9cdea1e22</authentication>
+    </file>
+    <file fileId="845">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/a36c56a2fb52cc6962d068b768503e15.jpg</src>
+      <authentication>c9f1a41334011f15f2f2d22ffeeb4a45</authentication>
+    </file>
+    <file fileId="846">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/e81590dcec7c51df0700e5cdcb4db9b6.jpg</src>
+      <authentication>232145d4067fb950ab087745230eb3a3</authentication>
+    </file>
+    <file fileId="847">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/dcdbe8c3aee5d03cafce04807f12a6f4.jpg</src>
+      <authentication>3fd94ec3fbce483f0edb6f5266f0bba8</authentication>
+    </file>
+    <file fileId="848">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/b43131600b774984b798758f51437fd3.jpg</src>
+      <authentication>20314541b6bc8a35dea1bda5e5c94b86</authentication>
+    </file>
+    <file fileId="849">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/1df1fa201328d299f6881c190054cc50.jpg</src>
+      <authentication>d9948cfed71c956f10bd66f5237fd9f7</authentication>
+    </file>
+    <file fileId="850">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f832f460223af0bf45e780ce35b8a122.jpg</src>
+      <authentication>ec54767d1c931e6320e6bb702a3ae624</authentication>
+    </file>
+    <file fileId="851">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f3fa695fcef4df842225388828899845.jpg</src>
+      <authentication>7b3f70fbd196368277e41c7110d00fb2</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4002">
+              <text>Poly Play Workshop Headlines</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4003">
+              <text>Brooklyn Polytechnic Institute</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="4004">
+              <text>Polytechnic Reporter 1922, Volume 10</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4005">
+              <text>September - December 1922</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4006">
+              <text>Text, Print</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/269">
+<dc:title>NYC in Chaos</dc:title>
+<dc:subject>NYC in Chaos</dc:subject>
+<dc:description>New York City in the late 1970s was plagued by severe economic and political troubles unlike any the city&#039;s inhabitants had experienced before. Faced with economic stagnation, industrial decline, and the looming threat of bankruptcy, the City of New York responded by laying off city workers and cutting municipal services such as sanitation and after-school programs. The city&#039;s already high unemployment rates got higher, and many middle class families — more than 820,000 people — fled to the suburbs in a movement known as white flight, desperate for jobs.</dc:description>
+<dc:creator>Public Broadcasting Service</dc:creator>
+<dc:publisher>NYC in Chaos</dc:publisher>
+<dc:date>Unknown</dc:date>
+<dc:format>Journal Article</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

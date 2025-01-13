@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="6" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/6?output=omeka-xml" accessDate="2025-01-13T20:07:28+00:00">
+  <fileContainer>
+    <file fileId="5">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/2a610336d0fea78f5ce4ad6a49688e41.png</src>
+      <authentication>1f20173e0f8c6217fb2d3a97cdb7a00c</authentication>
+    </file>
+    <file fileId="251">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/c410af99eec64b8f0949e8e27919572b.png</src>
+      <authentication>849e8c00c07590595ee50a508223d758</authentication>
+    </file>
+    <file fileId="252">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/02eebf408e7fca1d67dd268e02790596.png</src>
+      <authentication>1f20173e0f8c6217fb2d3a97cdb7a00c</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="16">
+              <text>NYU Core Requirements</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="17">
+              <text>New York University Tandon School of Engineering</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="18">
+              <text>http://bulletin.engineering.nyu.edu/content.php?catoid=15&amp;navoid=1233#program-areas</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="19">
+              <text>Unknown</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="20">
+              <text>Electronic Publication</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

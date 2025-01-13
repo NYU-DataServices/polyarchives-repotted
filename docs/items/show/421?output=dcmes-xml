@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/421">
+<dc:title>NYU-POLY 1973</dc:title>
+<dc:subject>Polytechnic Institute Encompasses NYU College of Engineering</dc:subject>
+<dc:creator>Christ Chen</dc:creator>
+<dc:source>https://engineering.nyu.edu/about/history</dc:source>
+<dc:source>https://www.nyu.edu/about/news-publications/news/2014/january/engineering-returns-to-nyu.html</dc:source>
+<dc:date>1973</dc:date>
+</rdf:Description></rdf:RDF>

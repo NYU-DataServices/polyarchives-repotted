@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="705" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/705?output=omeka-xml" accessDate="2025-01-13T20:16:26+00:00">
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4611">
+              <text>References</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="4612">
+              <text>1. NYU Tandon School of Engineering. (2016, September 22). From microwaves to millimeter waves. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/microwaves-millimeter-waves&#13;
+2. NYU Tandon School of Engineering. (n.d.). NYU Tandon goes to space. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/nyu-tandon-goes-space&#13;
+3. NYU Tandon School of Engineering. (2011, February 18). Mourning George Bugliarello: Scholar, President Emeritus of Polytechnic Institute of New York University and "Mastermind" of MetroTech Center. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/mourning-george-bugliarello-scholar-president-emeritus-polytechnic-institute-new-york&#13;
+4.Wikipedia contributors. (2023, May 21). Brooklyn Commons. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/Brooklyn_Commons&#13;
+5. NYU Tandon School of Engineering. (n.d.). Engineering and entrepreneurship. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/engineering-and-entrepreneurship&#13;
+6. Karamouz, M. (2014). The legacy of George Bugliarello: A review of his vision and contributions. In Livable Cities of the Future: Proceedings of a Symposium Honoring the Legacy of George Bugliarello (pp. 1-160). Washington, DC: The National Academies Press. https://doi.org/10.17226/18671&#13;
+7. Wikipedia contributors. (2024, May 5). New York University Tandon School of Engineering. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

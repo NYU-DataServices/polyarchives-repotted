@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="270" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/270?output=omeka-xml" accessDate="2025-01-13T20:06:44+00:00">
+  <fileContainer>
+    <file fileId="421">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/f84b4f5331958a9c0698b7515168173c.png</src>
+      <authentication>81be8c3ce257c0a99824fee0c1407cb6</authentication>
+    </file>
+    <file fileId="422">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/6216f3508ef0f67151cdbb9a3afaae7c.png</src>
+      <authentication>305245692e0ac1144a3e7e034d93d9bf</authentication>
+    </file>
+    <file fileId="423">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/c5e470dbc49a52b10bc1bdf3589709aa.png</src>
+      <authentication>c0486aef5da758011c1e4af34e6029ae</authentication>
+    </file>
+    <file fileId="424">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/aa3acbdc7452844957bc039ca3e500a5.png</src>
+      <authentication>46eec1c6446be56978930182eae5663e</authentication>
+    </file>
+    <file fileId="425">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/7ec903584d33a36e7e89c90b49042b76.png</src>
+      <authentication>567f8d25c57617e0237a5b339f255e1a</authentication>
+    </file>
+    <file fileId="426">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/53c8ea5a71da06f59713b39ee07cc6e2.png</src>
+      <authentication>a75871b1c9541883ac91ca6d4b231fd6</authentication>
+    </file>
+  </fileContainer>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2181">
+              <text>'Welcome to Fear City' – the inside story of New York's civil war, 40 years on</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2182">
+              <text>'Welcome to Fear City' – the inside story of New York's civil war, 40 years on</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2183">
+              <text>New York’s fiscal crisis of the mid-1970s is surely one of the weirdest moments in the history of the city – indeed, of the United States. It was a time when the wholesale disintegration of the largest city in the most powerful nation on earth seemed entirely possible.&#13;
+By early 1975, New York City owed $5bn to $6bn in short-term debt, out of an operating budget of $11.5bn. According to the then-city budget director, Peter Goldmark Jr, “Many people believe there is little or no real security or receivables behind these obligations.” Wall Street bankers, who had enabled much of this reckless behavior, now abruptly refused to take up any more of the city’s notes, leaving it teetering on the edge of bankruptcy.</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="39">
+          <name>Creator</name>
+          <description>An entity primarily responsible for making the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2184">
+              <text>Guardian News and Media</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="45">
+          <name>Publisher</name>
+          <description>An entity responsible for making the resource available</description>
+          <elementTextContainer>
+            <elementText elementTextId="2185">
+              <text>Guardian News and Media</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="40">
+          <name>Date</name>
+          <description>A point or period of time associated with an event in the lifecycle of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2186">
+              <text>18th May 2015</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="42">
+          <name>Format</name>
+          <description>The file format, physical medium, or dimensions of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2187">
+              <text>News Paper Article</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="44">
+          <name>Language</name>
+          <description>A language of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2188">
+              <text>English</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+</item>

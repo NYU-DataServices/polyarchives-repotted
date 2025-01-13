@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:23:02+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/1?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/2?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/4?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/index/page/71?page=3&amp;sort_field=Dublin+Core%2CTitle&amp;output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/102</id>
+    <title><![CDATA[1959 Chevy Car advertisement]]></title>
+    <summary><![CDATA[Car Advertising in 1959 found in student newspaper]]></summary>
+    <updated>2022-04-12T20:13:28+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/102"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/85fc78f8b44638c8ab7840964ab478a8.png" type="image/png" length="3536305"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">1959 Chevy Car advertisement</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Advertising of 1959 Chevy Car</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">Car Advertising in 1959 found in student newspaper</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Reporter 1958-1959</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter 1958-1959</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Polytechnic Reporter 1958-1959</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1959</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Jpeg from student newspaper</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Physical Object</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/321</id>
+    <title><![CDATA[1966-67 course catalog]]></title>
+    <updated>2022-05-17T01:37:07+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/321"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/ba28b18522431d46ee7ad18da7b83ac9.png" type="image/png" length="141153"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/d79c6964d29373424438ecb3fae881dd.png" type="image/png" length="268103"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/d396bd4a9ea6f6ce63c2323d49805b79.png" type="image/png" length="92651"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/78e582ff61e0d4038d44786008ed2d4d.png" type="image/png" length="153831"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/47e10b56b2a573703b54967a90ce1e85.png" type="image/png" length="151473"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/cac71cfb62cfa2cc901320d21516288e.png" type="image/png" length="547141"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/90241e82ac7626281884fbad3b755dbe.png" type="image/png" length="56091"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/d3c3ba7394b7655e5b61add7ac0d8b69.png" type="image/png" length="103727"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">1966-67 course catalog</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">1966-67 course catalog</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1966</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">physical text</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/614</id>
+    <title><![CDATA[1990-2000s Bollywood Playlist]]></title>
+    <updated>2024-04-23T15:25:13+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/614"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/bd8fc1920144e1dc9661d96d126cc3ff.png" type="image/png" length="724417"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">1990-2000s Bollywood Playlist</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Amisha Gopee</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">YouTube</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Amisha Gopee</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">2024</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Screenshot (.jpg)</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/423</id>
+    <title><![CDATA[1990-91 Judo Team Photo]]></title>
+    <updated>2024-04-22T22:53:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/423"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/0b9127d5bbdc59bc09acef64ae7a9cdd.png" type="image/png" length="7283058"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">1990-91 Judo Team Photo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives Historic Photograph Collection, Box: 11, folder: 1</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1991</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/599</id>
+    <title><![CDATA[1993 Women&#039;s Volleyball Team Photo]]></title>
+    <updated>2024-04-22T22:48:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/599"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/f19fd2527bccd1db1e2975cc2e9a1da2.png" type="image/png" length="7550855"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">1993 Women&#039;s Volleyball Team Photo</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Polytechnic University</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives Historic Photograph Collection</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">1993</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/542</id>
+    <title><![CDATA[2001: A Space Odyssey - Videophone Sequence<br />
+<br />
+]]></title>
+    <summary><![CDATA[A clip from &quot;2001: A Space Odyssey&quot; demonstrating one of the earliest cinematic depictions of a videophone, showcasing director Stanley Kubrick&#039;s visionary portrayal of future technology. The sequence is noted for its prescient depiction of communication technology.]]></summary>
+    <updated>2024-04-07T21:24:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/542"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/23123f8d5f282b55e52b4e87b613cf3c.mp4" type="video/mp4" length="3472773"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">2001: A Space Odyssey - Videophone Sequence<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Science Fiction; Videophone; Film Technology; Stanley Kubrick; &quot;2001: A Space Odyssey&quot;</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">A clip from &quot;2001: A Space Odyssey&quot; demonstrating one of the earliest cinematic depictions of a videophone, showcasing director Stanley Kubrick&#039;s visionary portrayal of future technology. The sequence is noted for its prescient depiction of communication technology.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Stanley Kubrick (Director)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">YouTube Channel - imaucblog</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">Warner Bros., Metro-Goldwyn-Mayer, United Artists</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Original release date of the movie: April 2, 1968; YouTube clip posted on May 19, 2010</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">Keir Dullea (Actor portraying Dr. Dave Bowman), Arthur C. Clarke (Author of the original story), Geoffrey Unsworth, John Alcott (Cinematographers)</div>
+            </div><!-- end element -->
+        <div id="dublin-core-rights" class="element">
+        <h3>Rights</h3>
+                    <div class="element-text">The rights to the clip and the film are owned by the distributors: Warner Bros., Metro-Goldwyn-Mayer, United Artists. The clip is used for educational or critical commentary purposes, potentially covered under fair use.</div>
+            </div><!-- end element -->
+        <div id="dublin-core-relation" class="element">
+        <h3>Relation</h3>
+                    <div class="element-text">Related to the broader context of &quot;2001: A Space Odyssey&quot; and its influence on science fiction and technology.<br />
+<br />
+</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Video clip; Digital</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-type" class="element">
+        <h3>Type</h3>
+                    <div class="element-text">Film excerpt; Cinematic depiction</div>
+            </div><!-- end element -->
+        <div id="dublin-core-identifier" class="element">
+        <h3>Identifier</h3>
+                    <div class="element-text">https://www.youtube.com/watch?v=vWwo6JpMceg</div>
+            </div><!-- end element -->
+        <div id="dublin-core-coverage" class="element">
+        <h3>Coverage</h3>
+                    <div class="element-text">The videophone sequence specifically covers future communication technologies as envisioned in a 1968 science fiction film.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/416</id>
+    <title><![CDATA[311 Bridge Street Before]]></title>
+    <updated>2024-05-21T13:47:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/416"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/cedeabe0c6ab8a40573fbff37b02480f.png" type="image/png" length="591984"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">311 Bridge Street Before</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">N/A</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Guide to the Poly Archives Historic Photograph Collection</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/417</id>
+    <title><![CDATA[311 Bridge Street Construction]]></title>
+    <updated>2024-04-01T20:37:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/417"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/4a3320115f9181448474704fb5c35a0d.png" type="image/png" length="492191"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">311 Bridge Street Construction</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">N/A</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Guide to the Poly Archives Historic Photograph Collection</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">undated</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Photograph</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/722</id>
+    <title><![CDATA[370 Jay Street]]></title>
+    <updated>2024-05-07T16:22:19+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/722"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/19ebc4d94479673cd7592086629cc5db.jpeg" type="image/jpeg" length="1651357"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">370 Jay Street</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text"> Albert Vecerka</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Mitchell Giurgola</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">.jpeg</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/587</id>
+    <title><![CDATA[5 MetroTech Center, Dibner Library/CATT Building ]]></title>
+    <updated>2024-04-29T04:15:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/587"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/264753bd1a622702f4500562c2c4e987.png" type="image/png" length="1809427"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">5 MetroTech Center, Dibner Library/CATT Building </div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Poly Archives</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">Unknown</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">PNG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

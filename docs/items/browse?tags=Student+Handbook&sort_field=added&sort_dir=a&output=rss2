@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[Poly Archives]]></title>
+    <link>https://polyarchives.hosting.nyu.edu/items/browse?tags=Student+Handbook&amp;sort_field=added&amp;sort_dir=a&amp;output=rss2</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Mon, 13 Jan 2025 20:13:12 +0000</pubDate>
+    <managingEditor>la715@nyu.edu (Poly Archives)</managingEditor>
+    <generator>Zend_Feed</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[The Poly Engineer Song]]></title>
+      <link>https://polyarchives.hosting.nyu.edu/items/show/478</link>
+      <description><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">The Poly Engineer Song</div>
+            </div><!-- end element -->
+        <div id="dublin-core-subject" class="element">
+        <h3>Subject</h3>
+                    <div class="element-text">Praising the school, showing school pride</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">The lycris of a song</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">The Polyfax of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-publisher" class="element">
+        <h3>Publisher</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">unknown, presumed to be 1960-1970</div>
+            </div><!-- end element -->
+        <div id="dublin-core-contributor" class="element">
+        <h3>Contributor</h3>
+                    <div class="element-text">The Student Council of the Polytechnic Institute of Brooklyn</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Book</div>
+            </div><!-- end element -->
+        <div id="dublin-core-language" class="element">
+        <h3>Language</h3>
+                    <div class="element-text">English</div>
+            </div><!-- end element -->
+        <div id="dublin-core-coverage" class="element">
+        <h3>Coverage</h3>
+                    <div class="element-text">School pride</div>
+                    <div class="element-text">Student&#039;s life</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Still Image Item Type Metadata</h2>
+            <div id="still-image-item-type-metadata-original-format" class="element">
+        <h3>Original Format</h3>
+                    <div class="element-text">Book</div>
+            </div><!-- end element -->
+        <div id="still-image-item-type-metadata-physical-dimensions" class="element">
+        <h3>Physical Dimensions</h3>
+                    <div class="element-text">height 15 cm, width 10 cm</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="item-file application-pdf"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/242c2b8ded4231893084f434c6cf2508.pdf"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/242c2b8ded4231893084f434c6cf2508.jpg" alt="song.pdf" title="song.pdf"></a></div><div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/7a1f5c8414f052d3fe411163d28dde17.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/7a1f5c8414f052d3fe411163d28dde17.jpg" alt="ad1d12676b830dc1cc33202683b417e.png" title="ad1d12676b830dc1cc33202683b417e.png"></a></div><div class="item-file image-png"><a class="download-file" href="https://polyarchives.hosting.nyu.edu/files/original/62814ba8b3fb365e31df6da76d0bc57b.png"><img class="thumb" src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/62814ba8b3fb365e31df6da76d0bc57b.jpg" alt="e935c0fa3496e6baca22ffea78745aa.png" title="e935c0fa3496e6baca22ffea78745aa.png"></a></div>]]></description>
+      <pubDate>Tue, 02 Apr 2024 05:50:57 +0000</pubDate>
+      <enclosure url="https://polyarchives.hosting.nyu.edu/files/fullsize/242c2b8ded4231893084f434c6cf2508.jpg" type="application/pdf" length="966091"/>
+    </item>
+  </channel>
+</rss>

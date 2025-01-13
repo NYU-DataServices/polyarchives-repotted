@@ -1,0 +1,77 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/741">
+<dc:title>NYU - Poly Logo</dc:title>
+<dc:creator>Polytechnic Institute of New York University</dc:creator>
+<dc:source>http://www.poly.edu/identity/</dc:source>
+<dc:date>November 25, 2008</dc:date>
+<dc:format>.png</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/740">
+<dc:title>Letter from Murray Fisher to Dr. Richard Thorsen</dc:title>
+<dc:creator>Murray Fisher</dc:creator>
+<dc:source>NYU Bobst Special Collections - Box 49 - Records of the Office of the President - Call Number RG3.0.7
+</dc:source>
+<dc:date>February 18, 1972</dc:date>
+<dc:format>.jpeg</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/739">
+<dc:title>Photo of Dr. Richard Thorsen</dc:title>
+<dc:creator>NYU Tandon School of Engineering</dc:creator>
+<dc:source>NYU Tandon School of Engineering - Mechanical and Aerospace Engineering Department</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>.jpeg</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/738">
+<dc:title>Memorandum from NYU President James M. Hester to Members of the NYU Community</dc:title>
+<dc:creator>James H. Hester</dc:creator>
+<dc:source>NYU Bobst Special Collections - Box 49 - Records of the Office of the President - Call Number RG3.0.7</dc:source>
+<dc:date>February 16, 1972</dc:date>
+<dc:format>.jpeg</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/737">
+<dc:title>A. Michael Noll: Innovator in Telecommunication and Digital Media</dc:title>
+<dc:subject>Telecommunications; Digital Media; Computer Art; Virtual Reality</dc:subject>
+<dc:description>A. Michael Noll, Professor Emeritus at the Annenberg School for Communication, University of Southern California, has made significant contributions in telecommunications, computer art, and virtual reality. He has authored numerous papers and books, and his career includes roles at Bell Labs, the White House, and AT&amp;T.</dc:description>
+<dc:creator>A. Michael Noll</dc:creator>
+<dc:source>University of Southern California</dc:source>
+<dc:publisher>Annenberg School for Communication, USC</dc:publisher>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/735">
+<dc:title>1930 Play Workshop Polywog Group Photo</dc:title>
+<dc:creator>Brooklyn Polytechnic Institute</dc:creator>
+<dc:source>Brooklyn Polytechnic Institute 1930 Polywog</dc:source>
+<dc:date>1930</dc:date>
+<dc:format>Text, Print</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/734">
+<dc:title>poly.edu cybersecurity page screenshot</dc:title>
+<dc:creator>Wayback Machine/Polytechnic&#039;s web team</dc:creator>
+<dc:source>https://web.archive.org/web/20040608145142/http://www.poly.edu/security/</dc:source>
+<dc:date>2004.6.8</dc:date>
+<dc:format>png</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/733">
+<dc:title>poly.edu residential page screenshot</dc:title>
+<dc:creator>Wayback Machine/Polytechnic&#039;s web team</dc:creator>
+<dc:source>https://web.archive.org/web/20021002025017/http://www.poly.edu/reslife/welcome.cfm?flash=ok</dc:source>
+<dc:date>2002.12.2</dc:date>
+<dc:format>png</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/732">
+<dc:title>poly.edu online academic page screenshot</dc:title>
+<dc:creator>Wayback Machine/Polytechnic&#039;s web team</dc:creator>
+<dc:source>https://web.archive.org/web/20120722072110/http://www.poly.edu/academics/online/</dc:source>
+<dc:date>2012.7.22</dc:date>
+<dc:format>png</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/731">
+<dc:title>poly.edu mypage screenshot</dc:title>
+<dc:creator>Wayback Machine/Polytechnic&#039;s web team</dc:creator>
+<dc:source>https://web.archive.org/web/20040908185142/http://my.poly.edu/webapps/login</dc:source>
+<dc:date>2004.9.8</dc:date>
+<dc:format>png</dc:format>
+</rdf:Description></rdf:RDF>

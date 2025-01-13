@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/217">
+<dc:title>Brooklyn&#039;s Polytech, A Storybook Success</dc:title>
+<dc:description>This is a digitized version of an article from The Times’s print archive, before the start of online publication in 1996. To preserve these articles as they originally appeared, The Times does not alter, edit or update them.</dc:description>
+<dc:creator> Cynthia Sanz</dc:creator>
+<dc:source>https://www.nytimes.com/1986/01/05/education/brooklyn-s-polytech-a-storybook-success.html</dc:source>
+<dc:publisher>NY times</dc:publisher>
+<dc:date>Jan. 5, 1986</dc:date>
+<dc:type>Newspaper</dc:type>
+</rdf:Description></rdf:RDF>

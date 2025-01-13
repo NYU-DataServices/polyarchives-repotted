@@ -1,0 +1,73 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/273">
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/189">
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/65">
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/287">
+<dc:title>Zoom Statistics</dc:title>
+<dc:subject>Unknown</dc:subject>
+<dc:description>Unknown</dc:description>
+<dc:creator>Iqbal, Mansoor</dc:creator>
+<dc:source>https://www.businessofapps.com/data/zoom-statistics/</dc:source>
+<dc:publisher>Unknown</dc:publisher>
+<dc:date>May 4 2022</dc:date>
+<dc:contributor>Unknown</dc:contributor>
+<dc:rights>Unknown</dc:rights>
+<dc:relation>Unknown</dc:relation>
+<dc:format>Digital Image</dc:format>
+<dc:language>Unknown</dc:language>
+<dc:type>Unknown</dc:type>
+<dc:identifier>Unknown</dc:identifier>
+<dc:coverage>Unknown</dc:coverage>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/405">
+<dc:title>YES Program</dc:title>
+<dc:description>Collection of images regarding the YES program at Poly </dc:description>
+<dc:creator>Polytechnic Institute of New York</dc:creator>
+<dc:source>Poly Archives at Bern Dibner Library of Science and Technology, New York University</dc:source>
+<dc:publisher>Polytechnic Institute of New York</dc:publisher>
+<dc:date>1996</dc:date>
+<dc:format>Image</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/641">
+<dc:title>Wunsch Building Today</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Polise Consulting Engineers</dc:source>
+<dc:date>2023</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/640">
+<dc:title>Wunsch Building Today</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:source>Polise Consulting Engineers</dc:source>
+<dc:date>2023</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/605">
+<dc:title>Women&#039;s Volleyball Team 2008-2009</dc:title>
+<dc:creator>NYU-Poly</dc:creator>
+<dc:source>NYU-Poly Athletics Media Guide</dc:source>
+<dc:date>2008-2009</dc:date>
+<dc:format>Book</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/604">
+<dc:title>Women&#039;s Tennis Team 2008-2009</dc:title>
+<dc:creator>NYU-Poly</dc:creator>
+<dc:source>NYU-Poly Athletics Media Guide</dc:source>
+<dc:date>2008-2009</dc:date>
+<dc:format>Book</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/603">
+<dc:title>Women&#039;s Softball Team 2008-2009</dc:title>
+<dc:creator>NYU-Poly</dc:creator>
+<dc:source>NYU-Poly Athletics Media Guide</dc:source>
+<dc:date>2008-2009</dc:date>
+<dc:format>Book</dc:format>
+</rdf:Description></rdf:RDF>

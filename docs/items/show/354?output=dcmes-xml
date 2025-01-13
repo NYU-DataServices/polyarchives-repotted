@@ -1,0 +1,13 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/354">
+<dc:title>New York Daily News, Dec 1972</dc:title>
+<dc:creator>New York Daily News</dc:creator>
+<dc:source>https://www.newspapers.com/article/daily-news-college-works-with-firemen-in/60398275/</dc:source>
+<dc:date>12/10/1972</dc:date>
+<dc:format>still image</dc:format>
+<dc:type>newspaper</dc:type>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/296">
+<dc:title>Symmetry Booklet</dc:title>
+<dc:subject>Symmetry Film</dc:subject>
+<dc:description>A booklet meant to accompany Judith&#039;s film Symmetry</dc:description>
+<dc:source>Judith Bregman Collection, 1966-1993, Poly Archives</dc:source>
+<dc:contributor>Judith Bregman</dc:contributor>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/434?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:07:45+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/434?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/432?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/435?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/434</id>
+    <title><![CDATA[Science Fiction Club’s “Golana” Is Scheduled For Issue This Month]]></title>
+    <updated>2024-04-01T23:06:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/434"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/08f64e26b67f74c6ced5680eceba5ffe.jpg" type="image/jpeg" length="760943"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Science Fiction Club’s “Golana” Is Scheduled For Issue This Month</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Gil Wachsman</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Polytechnic Reporter, Vol. 58, No. 11, Page 1</div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">February 10, 1966</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">JPG</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+<div class="element-set">
+        <h2>Text Item Type Metadata</h2>
+            <div id="text-item-type-metadata-text" class="element">
+        <h3>Text</h3>
+                    <div class="element-text">Science Fiction Club&#039;s &quot;Golana&quot; Is Scheduled For Issue This Month by Gil Wachsman<br />
+<br />
+Golana, the student science fiction magazine, will again appear on campus. Published under the auspices of the Poly Science Fiction Club, it will feature four poems, special features, and eight short stories, ranging in length from two to seven pages. It will be issued to the student body sometime in the next two weeks.<br />
+<br />
+Something for Everyone<br />
+The stories in the issue range from a depiction of an alien view of our civilization to immortality, and includes a fantasy piece about the consequences of a pact with the Devil. Mr. Dong stated: &quot;Golana is very flexible in the selection of its stories, both in topic and treatment, as well as length. We like all kinds of stories, from science<br />
+(Continued on page 5)<br />
+</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/705?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:16:26+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/705?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/704?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/706?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/705</id>
+    <title><![CDATA[References]]></title>
+    <summary><![CDATA[1. NYU Tandon School of Engineering. (2016, September 22). From microwaves to millimeter waves. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/microwaves-millimeter-waves<br />
+2. NYU Tandon School of Engineering. (n.d.). NYU Tandon goes to space. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/nyu-tandon-goes-space<br />
+3. NYU Tandon School of Engineering. (2011, February 18). Mourning George Bugliarello: Scholar, President Emeritus of Polytechnic Institute of New York University and &quot;Mastermind&quot; of MetroTech Center. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/mourning-george-bugliarello-scholar-president-emeritus-polytechnic-institute-new-york<br />
+4.Wikipedia contributors. (2023, May 21). Brooklyn Commons. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/Brooklyn_Commons<br />
+5. NYU Tandon School of Engineering. (n.d.). Engineering and entrepreneurship. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/engineering-and-entrepreneurship<br />
+6. Karamouz, M. (2014). The legacy of George Bugliarello: A review of his vision and contributions. In Livable Cities of the Future: Proceedings of a Symposium Honoring the Legacy of George Bugliarello (pp. 1-160). Washington, DC: The National Academies Press. https://doi.org/10.17226/18671<br />
+7. Wikipedia contributors. (2024, May 5). New York University Tandon School of Engineering. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering.]]></summary>
+    <updated>2024-05-05T20:04:58+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/705"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">References</div>
+            </div><!-- end element -->
+        <div id="dublin-core-description" class="element">
+        <h3>Description</h3>
+                    <div class="element-text">1. NYU Tandon School of Engineering. (2016, September 22). From microwaves to millimeter waves. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/microwaves-millimeter-waves<br />
+2. NYU Tandon School of Engineering. (n.d.). NYU Tandon goes to space. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/nyu-tandon-goes-space<br />
+3. NYU Tandon School of Engineering. (2011, February 18). Mourning George Bugliarello: Scholar, President Emeritus of Polytechnic Institute of New York University and &quot;Mastermind&quot; of MetroTech Center. NYU Tandon School of Engineering. https://engineering.nyu.edu/news/mourning-george-bugliarello-scholar-president-emeritus-polytechnic-institute-new-york<br />
+4.Wikipedia contributors. (2023, May 21). Brooklyn Commons. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/Brooklyn_Commons<br />
+5. NYU Tandon School of Engineering. (n.d.). Engineering and entrepreneurship. NYU Tandon School of Engineering. Retrieved May 5, 2024, from https://engineering.nyu.edu/170-years-of-engineering/engineering-and-entrepreneurship<br />
+6. Karamouz, M. (2014). The legacy of George Bugliarello: A review of his vision and contributions. In Livable Cities of the Future: Proceedings of a Symposium Honoring the Legacy of George Bugliarello (pp. 1-160). Washington, DC: The National Academies Press. https://doi.org/10.17226/18671<br />
+7. Wikipedia contributors. (2024, May 5). New York University Tandon School of Engineering. In Wikipedia, The Free Encyclopedia. Retrieved May 5, 2024, from https://en.wikipedia.org/wiki/New_York_University_Tandon_School_of_Engineering.</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <title>Browse Exhibits &middot; Poly Archives</title>
+
+    <link rel="alternate" type="application/rss+xml" title="Omeka RSS Feed" href="items/browse%3Foutput=rss2" /><link rel="alternate" type="application/atom+xml" title="Omeka Atom Feed" href="items/browse%3Foutput=atom" />
+    <!-- Plugin Stuff -->
+
+    		<script type="text/javascript">
+			jQuery(document).ready(function(){
+
+				jQuery("a.iframe").fancybox({
+			             'type': 'iframe'
+				});
+				});
+		</script>
+	
+
+    <!-- Stylesheets -->
+    <link href="plugins/ExhibitBuilder/views/public/css/exhibits.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitBuilder/views/public/css/jcarousel.responsive.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/slick.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ConnectedCarousel/views/public/css/jquery.fancybox-buttons.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/public/css/exhibit-image-annotation.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/css/annotorious.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="plugins/FilePaginator/views/shared/css/simplePagination.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/iconfonts.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="application/views/scripts/css/public.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="themes/default/css/style.css%3Fv=3.1.2.css" media="all" rel="stylesheet" type="text/css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic" media="all" rel="stylesheet" type="text/css" ><style type="text/css" media="screen">header {background:transparent url("https://polyarchives.hosting.nyu.edu/files/theme_uploads/fcba0a4d939447e39128d3e32c30641b.png") center left no-repeat;}</style>
+        <style>
+        body {
+            background-color: #FFFFFF;
+            color: #444444;
+        }
+        #site-title a:link, #site-title a:visited,
+        #site-title a:active, #site-title a:hover {
+            color: #000000;
+                        text-shadow: 0px 0px 20px #000;
+                    }
+        a:link {
+            color: #04137E;
+        }
+        a:visited {
+            color: #2c3ba6;
+        }
+        a:hover, a:active, a:focus {
+            color: #000056;
+        }
+
+        .button, button,
+        input[type="reset"],
+        input[type="submit"],
+        input[type="button"],
+        .pagination_next a,
+        .pagination_previous a {
+          background-color: #000000;
+          color: #FFFFFF !important;
+        }
+
+        #search-form input[type="text"] {
+            border-color: #000000        }
+
+        #collection-items .item img,
+        .browse .item-img,
+        .browse .image,
+        .browse #content .item img,
+        .browse .item #content img,
+        .browse .image img,
+        #recent-items img.image {
+            height: 100px;
+        }
+
+        @media (max-width:768px) {
+            #primary-nav li {
+                background-color: #282828;
+            }
+
+            #primary-nav li ul li {
+                background-color: #141414;
+            }
+
+            #primary-nav li li li {
+                background-color: #000000;
+            }
+
+            #primary-nav li a {
+                color: #FFFFFF;
+            }
+        }
+    </style>
+    <!-- JavaScripts -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript">
+    //<!--
+    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js?v=3.1.2\" charset=\"utf-8\"><\/script>")    //-->
+</script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript">
+    //<!--
+    jQuery.noConflict();    //-->
+</script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jcarousel.responsive.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jquery.jcarousel.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitBuilder/views/public/javascripts/jquery.jcarousel-fade.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/slick.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ConnectedCarousel/views/public/javascripts/jquery.fancybox.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/shared/javascripts/annotorious-0.6.4/annotorious.min.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/ExhibitImageAnnotation/views/public/javascripts/exhibit-image-annotation.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/jquery.simplePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="plugins/FilePaginator/views/shared/javascripts/filePagination.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/vendor/modernizr.js%3Fv=3.1.2"></script>
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/application/views/scripts/javascripts/vendor/selectivizr.js?v=3.1.2"></script><![endif]-->
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/respond.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/vendor/jquery-accessibleMegaMenu.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="application/views/scripts/javascripts/globals.js%3Fv=3.1.2"></script>
+<script type="text/javascript" src="themes/default/javascripts/default.js%3Fv=3.1.2"></script></head>
+<body class="exhibits browse">
+    
+    <div id="skipnav">
+        <span class="spacer">&nbsp;</span>
+        <a href="exhibits%3Ftags=NYU+Tandon.html#content">Skip to main content</a>
+    </div>
+    
+        <header role="banner">
+                        <div id="site-title"><a href="index.html" ><img src="https://polyarchives.hosting.nyu.edu/files/theme_uploads/a101f087fec83667be9955616db0afe6.png" alt="Poly Archives" /></a>
+</div>
+        </header>
+
+        <div id="wrap">
+            <button type="button" class="menu-button button">Menu</button>
+            <nav id="primary-nav" role="navigation">
+                <ul class="navigation">
+    <li>
+        <a href="items/browse.html">Browse Items</a>
+    </li>
+    <li>
+        <a href="collections/browse.html">Browse Collections</a>
+    </li>
+    <li>
+        <a href="about.html">About</a>
+    </li>
+    <li class="active">
+        <a href="exhibits.html">Browse Exhibits</a>
+    </li>
+</ul>                <div id="search-container" role="search">
+                                        <form id="search-form" name="search-form" action="https://polyarchives.hosting.nyu.edu/search" aria-label="Search" method="get">    <input type="text" name="query" id="query" value="" title="Query" aria-label="Query" aria-labelledby="search-form query">        <button id="advanced-search" type="button" class="show-advanced button" aria-label="Options" title="Options" aria-labelledby="search-form advanced-search">
+        <span class="icon" aria-hidden="true"></span>
+    </button>
+    <div id="advanced-form">
+        <fieldset id="query-types">
+            <legend>Search using this query type:</legend>
+            <label><input type="radio" name="query_type" id="query_type-keyword" value="keyword" checked="checked">Keyword</label><br>
+<label><input type="radio" name="query_type" id="query_type-boolean" value="boolean">Boolean</label><br>
+<label><input type="radio" name="query_type" id="query_type-exact_match" value="exact_match">Exact match</label>        </fieldset>
+                <fieldset id="record-types">
+            <legend>Search only these record types:</legend>
+                        <input type="checkbox" name="record_types[]" id="record_types-Item" value="Item" checked="checked"> <label for="record_types-Item">Item</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-File" value="File" checked="checked"> <label for="record_types-File">File</label><br>
+                        <input type="checkbox" name="record_types[]" id="record_types-Collection" value="Collection" checked="checked"> <label for="record_types-Collection">Collection</label><br>
+                    </fieldset>
+                <p><a href="items/search%3Ftags=NYU+Tandon.html">Advanced Search (Items only)</a></p>
+    </div>
+        <button name="submit_search" id="submit_search" type="submit" value="Submit" title="Submit" class="button" aria-label="Submit" aria-labelledby="search-form submit_search"><span class="icon" aria-hidden="true"></span></button></form>
+                                    </div>
+            </nav>
+            <div id="content" role="main" tabindex="-1">
+                <h1>Browse Exhibits (3 total)</h1>
+
+<nav class="navigation secondary-nav">
+    <ul class="navigation">
+    <li class="active">
+        <a href="exhibits.html">Browse All</a>
+    </li>
+    <li>
+        <a href="exhibits/tags.html">Browse by Tag</a>
+    </li>
+</ul></nav>
+
+
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/the-poly-downfall.html" >The Poly Downfall</a></h2>
+                    <a href="exhibits/show/the-poly-downfall.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/41e3b90b3560976aa2bd8e1ef12c62b1.jpg" alt="Cashbalance5.jpeg" title="Cashbalance5.jpeg"></a>                        <div class="description"><p><span style="font-weight:400;">This exhibit will explore and evaluate various sorts of evidence that examine the downfall of the Poly leading up to the 1973 merger with NYUs engineering program. It will analyze the various logistical and financial conditions of New York City in the decade prior to the merger. It will also include brief overviews of the various interest groups that were affected by the necessity of a merger such as the board of trustees, faculty members and students. The exhibit is meant to inform members of our community about this era in the history of our institution that had major effects on NYU and the city of New York as a whole.</span></p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=merger.html" rel="tag">merger</a>, <a href="exhibits%3Ftags=NYU.html" rel="tag">NYU</a>, <a href="exhibits%3Ftags=NYU+Tandon.html" rel="tag">NYU Tandon</a>, <a href="exhibits%3Ftags=Poly.html" rel="tag">Poly</a>, <a href="exhibits%3Ftags=seventies.html" rel="tag">seventies</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a></p>
+            </div>
+        <div class="exhibit  odd">
+        <h2><a href="exhibits/show/entrepreneurship.html" >Entrepreneurship Development in Poly/Tandon - An Engineering School</a></h2>
+                    <a href="exhibits/show/entrepreneurship.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/9cdb3ddede7e10006d1746e411e29fee.jpg" alt="IMG_9902.jpeg" title="IMG_9902.jpeg"></a>                        <div class="description"><p>If you want to know about entrepreneurship development in Poly/Tandon - an engineering school, you won't want to miss this website. If you are a beginner of entrepreneurship, this would be a great resource for you to explore. If you think this is going to be a Tandon entrepreneurship programs introduction or even a promotional website, you are all wet. Let's take a look at my personal story first, perhaps you also have the same curiosity, or even a similar experience.</p>
+<p>My name is Cory, now a junior student majoring in Maths. Actually, I am a student who is very interested in both entrepreneurship and technology. I am keen on all kinds of technology, and having my own startup, at the same time learning management skills. That's why I chose Business and Technology Management as my major when I was enrolled in NYU’s engineering school - Tandon in 2019 Fall. When I applied for this major, I wondered why the major is set up in the engineering school instead of in the business school? The website told me "The BTM degree will provide you with a relevant professional management education and effective approaches related to technology, entrepreneurship, managing professionals and information."</p>
+<p>However, things went contrary to my wishes, I found that the curriculum was not what I desired after my first two years of school, and I found rare entrepreneurship atmosphere around me. I decided to change my major then. I don't know if this is a wrong decision, but I think it's an amazing opportunity for me and TANDONers like me to explore and have a more comprehensive understanding about why and how entrepreneurship was developed in Poly/Tandon.</p>
+<p></p>
+<p><strong>In this website, let's explore:</strong></p>
+<ul>
+<li>What is entrepreneurship?</li>
+<li>How entrepreneurship is defined within engineering schools?</li>
+<li>How and why Poly/Tandon positioning entrepreneurship over time by marketing and setting up various entrepreneurship initiatives?</li>
+<li>What are the effective effects of the school on students and faculties over time towards entrepreneurship?</li>
+<li>How these changes coincide (or run counter to) the specific economic or political realities that the entrepreneurs of Poly/Tandon are working within?</li>
+</ul></div>
+                        <p class="tags"><a href="exhibits%3Ftags=engineering+school.html" rel="tag">engineering school</a>, <a href="exhibits%3Ftags=entrepreneurship.html" rel="tag">entrepreneurship</a>, <a href="exhibits%3Ftags=NYU+Tandon.html" rel="tag">NYU Tandon</a>, <a href="exhibits%3Ftags=Poly.html" rel="tag">Poly</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a></p>
+            </div>
+        <div class="exhibit  even">
+        <h2><a href="exhibits/show/tandon-merge-history.html" >What Made NYU to Merge with the Polytechnic Institute in 1973: Historical Backgrounds and Financial Difficulties</a></h2>
+                    <a href="exhibits/show/tandon-merge-history.html" class="image"><img src="https://polyarchives.hosting.nyu.edu/files/square_thumbnails/003ce6f2379c15441e9b1362b665920c.jpg" alt="KakaoTalk_Photo_2022-04-11-23-07-38.jpeg" title="KakaoTalk_Photo_2022-04-11-23-07-38.jpeg"></a>                        <div class="description"><p><span style="font-weight:400;">Tandon School of Engineering has two different origins: one from Brooklyn Collegiate and Polytechnic Institute and the other from University of the City of New York. There were two mergers in 1973 and 2014, which caused the institution to change their names a couple of times for several reasons. Through this exhibit, I will be investigating about why these transitions happened, focusing on the 1973 merger with the historical background and analyzing the financial difficulties that these institutions went through at that time.</span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><span style="font-weight:400;"></span></p>
+<p><strong>Credits </strong></p>
+<p>Justin Hwang</p></div>
+                        <p class="tags"><a href="exhibits%3Ftags=Financial+Difficulties.html" rel="tag">Financial Difficulties</a>, <a href="exhibits%3Ftags=Historical+Backgrounds.html" rel="tag">Historical Backgrounds</a>, <a href="exhibits%3Ftags=NYU+Tandon.html" rel="tag">NYU Tandon</a>, <a href="exhibits%3Ftags=Polytechnic+Institute.html" rel="tag">Polytechnic Institute</a>, <a href="exhibits%3Ftags=Spring+2022.html" rel="tag">Spring 2022</a></p>
+            </div>
+
+
+
+        </div><!-- end content -->
+
+    </div><!-- end wrap -->
+
+
+    <footer role="contentinfo">
+
+        <div id="footer-text">
+                                    <p>Proudly powered by <a href="http://omeka.org">Omeka</a>.</p>
+        </div>
+
+        
+    </footer><!-- end footer -->
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        Omeka.showAdvancedForm();
+        Omeka.skipNav();
+        Omeka.megaMenu('.no-touchevents #primary-nav');
+        ThanksRoy.mobileMenu();
+    });
+    </script>
+
+</body>
+</html>

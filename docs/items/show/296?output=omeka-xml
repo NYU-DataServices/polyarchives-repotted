@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item xmlns="http://omeka.org/schemas/omeka-xml/v5" itemId="296" public="1" featured="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd" uri="https://polyarchives.hosting.nyu.edu/items/show/296?output=omeka-xml" accessDate="2025-01-13T20:12:40+00:00">
+  <fileContainer>
+    <file fileId="462">
+      <src>https://polyarchives.hosting.nyu.edu/files/original/544d06c051d8c23c4a1fab7e962c31f3.jpeg</src>
+      <authentication>877c3ad5ad78e67980412cafdc6c33a7</authentication>
+    </file>
+  </fileContainer>
+  <itemType itemTypeId="15">
+    <name>Physical Object</name>
+    <description>An inanimate, three-dimensional object or substance. Note that digital representations of, or surrogates for, these objects should use Moving Image, Still Image, Text or one of the other types.</description>
+  </itemType>
+  <elementSetContainer>
+    <elementSet elementSetId="1">
+      <name>Dublin Core</name>
+      <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+      <elementContainer>
+        <element elementId="50">
+          <name>Title</name>
+          <description>A name given to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2320">
+              <text>Symmetry Booklet</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="49">
+          <name>Subject</name>
+          <description>The topic of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2321">
+              <text>Symmetry Film</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="41">
+          <name>Description</name>
+          <description>An account of the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2322">
+              <text>A booklet meant to accompany Judith's film Symmetry</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="48">
+          <name>Source</name>
+          <description>A related resource from which the described resource is derived</description>
+          <elementTextContainer>
+            <elementText elementTextId="2323">
+              <text>Judith Bregman Collection, 1966-1993, Poly Archives</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="37">
+          <name>Contributor</name>
+          <description>An entity responsible for making contributions to the resource</description>
+          <elementTextContainer>
+            <elementText elementTextId="2324">
+              <text>Judith Bregman</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </elementSet>
+  </elementSetContainer>
+  <tagContainer>
+    <tag tagId="27">
+      <name>Judith Bregman</name>
+    </tag>
+    <tag tagId="42">
+      <name>Symmetry</name>
+    </tag>
+  </tagContainer>
+</item>

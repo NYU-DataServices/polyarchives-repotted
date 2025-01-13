@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://polyarchives.hosting.nyu.edu/items/show/452?output=atom</id>
+  <title><![CDATA[Poly Archives]]></title>
+  <author>
+    <name><![CDATA[Unknown]]></name>
+  </author>
+  <updated>2025-01-13T20:17:09+00:00</updated>
+  <generator>Omeka</generator>
+  <link rel="self" href="https://polyarchives.hosting.nyu.edu/items/show/452?output=atom"/>
+  <link rel="first" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/3?output=atom"/>
+  <link rel="previous" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/451?output=atom"/>
+  <link rel="next" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/453?output=atom"/>
+  <link rel="last" type="application/atom+xml" href="https://polyarchives.hosting.nyu.edu/items/show/761?output=atom"/>
+  <entry>
+    <id>https://polyarchives.hosting.nyu.edu/items/show/452</id>
+    <title><![CDATA[Timeline of Historical Events]]></title>
+    <updated>2024-05-04T04:50:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://polyarchives.hosting.nyu.edu/items/show/452"/>
+    <link rel="enclosure" href="https://polyarchives.hosting.nyu.edu/files/original/9acf3b21439365beb0e81cc239fafeff.png" type="image/png" length="1065541"/>
+    <content type="html"><![CDATA[<div class="element-set">
+        <h2>Dublin Core</h2>
+            <div id="dublin-core-title" class="element">
+        <h3>Title</h3>
+                    <div class="element-text">Timeline of Historical Events</div>
+            </div><!-- end element -->
+        <div id="dublin-core-creator" class="element">
+        <h3>Creator</h3>
+                    <div class="element-text">Amy Li</div>
+            </div><!-- end element -->
+        <div id="dublin-core-source" class="element">
+        <h3>Source</h3>
+                    <div class="element-text">Blades, Meteor. “Open Thread for Night Owls: The Seneca Falls Women’s Rights Resolutions of July 19-20, 1848.” Daily Kos, 20 July 2018, www.dailykos.com/stories/2018/7/20/1782334/-Open-thread-for-night-owls-The-Seneca-Falls-women-s-rights-resolutions-of-July-19-20-1848. <br />
+<br />
+“Chapel Hill to Recognize the Remarkable Women of the Civil Rights Movement.” Chapel Hill Community Arts &amp; Culture, 6 Nov. 2019, www.chapelhillarts.org/media/chapel-hill-to-recognize-the-remarkable-women-of-the-civil-rights-movement/. <br />
+<br />
+DuBose, Renalia. “An Unexpected Result of Gender Equality Initiatives in Sports – the Sexualization of Female Athletes.” Mitchell Hamline Law Review, vol. 48, no. 4, July 2022, pp. 1139–72. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&amp;db=lgs&amp;AN=157698963&amp;site=eds-live.<br />
+<br />
+“Rosie the Riveter - Real Person, Facts &amp; Norman Rockwell.” History.Com, A&amp;E Television Networks, 23 Apr. 2010, www.history.com/topics/world-war-ii/rosie-the-riveter. <br />
+<br />
+“Suffragette.” Wikipedia, Wikimedia Foundation, 1 May 2024, en.wikipedia.org/wiki/Suffragette. </div>
+            </div><!-- end element -->
+        <div id="dublin-core-date" class="element">
+        <h3>Date</h3>
+                    <div class="element-text">2024</div>
+            </div><!-- end element -->
+        <div id="dublin-core-format" class="element">
+        <h3>Format</h3>
+                    <div class="element-text">Image</div>
+            </div><!-- end element -->
+    </div><!-- end element-set -->
+]]></content>
+  </entry>
+</feed>

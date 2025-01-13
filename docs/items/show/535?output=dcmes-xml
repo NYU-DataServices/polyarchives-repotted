@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/535">
+<dc:title>A Crisis Without Keynes: The 1975 New York City Fiscal Crisis Revisited</dc:title>
+<dc:creator>Michael Beyea Reagan</dc:creator>
+<dc:source>The Gotham Center for New York City History</dc:source>
+<dc:publisher>The Gotham Center for New York City History</dc:publisher>
+<dc:date>August 12, 2021</dc:date>
+<dc:format>Website</dc:format>
+<dc:language>English</dc:language>
+</rdf:Description></rdf:RDF>

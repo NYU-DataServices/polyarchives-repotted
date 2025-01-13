@@ -1,0 +1,93 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/722">
+<dc:title>370 Jay Street</dc:title>
+<dc:creator> Albert Vecerka</dc:creator>
+<dc:source>Mitchell Giurgola</dc:source>
+<dc:date>Unknown</dc:date>
+<dc:format>.jpeg</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/684">
+<dc:title>NYU Poly Exterior (2014)</dc:title>
+<dc:creator> Anthony Noto, Reporter, New York Business Journal</dc:creator>
+<dc:source>New York Business Journal (https://www.bizjournals.com/newyork/news/2015/10/23/for-nyu-school-of-engineering-a-new-funding-round.html)</dc:source>
+<dc:date>2015</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/217">
+<dc:title>Brooklyn&#039;s Polytech, A Storybook Success</dc:title>
+<dc:description>This is a digitized version of an article from The Times’s print archive, before the start of online publication in 1996. To preserve these articles as they originally appeared, The Times does not alter, edit or update them.</dc:description>
+<dc:creator> Cynthia Sanz</dc:creator>
+<dc:source>https://www.nytimes.com/1986/01/05/education/brooklyn-s-polytech-a-storybook-success.html</dc:source>
+<dc:publisher>NY times</dc:publisher>
+<dc:date>Jan. 5, 1986</dc:date>
+<dc:type>Newspaper</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/649">
+<dc:title>Foley Square Plaque </dc:title>
+<dc:creator> Larry Gertner</dc:creator>
+<dc:source>The Historical Marker Database</dc:source>
+<dc:date>January 9th, 2019</dc:date>
+<dc:format>Photograph</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/99">
+<dc:title>Cigarette Advertisement in 1940</dc:title>
+<dc:subject>Chesterfield cigarette advertisement</dc:subject>
+<dc:description>Chesterfield cigarette advertisement in 1940</dc:description>
+<dc:creator> Polytechnic Reporter 1940-1941</dc:creator>
+<dc:source>Polytechnic Reporter 1940-1941</dc:source>
+<dc:publisher>Polytechnic Reporter 1940-1941</dc:publisher>
+<dc:date>1940</dc:date>
+<dc:format>Jpeg from student newspaper</dc:format>
+<dc:type>Physical Object</dc:type>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/758">
+<dc:title>Hush Harbors </dc:title>
+<dc:creator> Sol Eytinge, Jr</dc:creator>
+<dc:source>Library of Congress </dc:source>
+<dc:date>1872</dc:date>
+<dc:format>Wood Engraving and Illustration</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/402">
+<dc:title>Semiresh Bose (1974)</dc:title>
+<dc:creator>1974 Polywog, Poly Archives, NYU Libraries
+
+</dc:creator>
+<dc:source>Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</dc:source>
+<dc:publisher>Polytechnic University of New York</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/403">
+<dc:title>Joanne Ameen (1974)</dc:title>
+<dc:creator>1974 Polywog, Poly Archives, NYU Libraries
+
+</dc:creator>
+<dc:source>1974 Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</dc:source>
+<dc:publisher>Polytechnic University of New York</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/408">
+<dc:title>Richard Sinanian (1974)</dc:title>
+<dc:creator>1974 Polywog, Poly Archives, NYU Libraries
+
+</dc:creator>
+<dc:source>Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</dc:source>
+<dc:publisher>Polytechnic University of New York</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description>
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/410">
+<dc:title>Panaj Kadakia (1974)</dc:title>
+<dc:creator>1974 Polywog, Poly Archives, NYU Libraries
+
+</dc:creator>
+<dc:source>Polywog 1974, 1974, inclusive; Poly Archives Serial Publications Collection; RG 030; Shelf 37/3E; Item 77; Poly Archives at Bern Dibner Library of Science and Technology, New York University.</dc:source>
+<dc:publisher>Polytechnic University of New York</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:format>Photograph (.jpg)</dc:format>
+</rdf:Description></rdf:RDF>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002/07/31//EN"
+"http://dublincore.org/documents/2002/07/31/dcmes-xml/dcmes-xml-dtd.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://polyarchives.hosting.nyu.edu/items/show/597">
+<dc:title>George Bugliarello</dc:title>
+<dc:creator>Dith Pran/New York Times</dc:creator>
+<dc:source>https://www.nytimes.com/2011/02/22/nyregion/22bugliarello.html</dc:source>
+<dc:date>1988</dc:date>
+<dc:format>photo</dc:format>
+</rdf:Description></rdf:RDF>
